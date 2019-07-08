@@ -1,0 +1,6 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:101
+159400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Literate,Question,Boolean,,
+1712AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,None ;Education Level - Primary ; Education Level - Secondary ; Education Level - Tertiary Institution ; Education Level - University,,Education Level,Question,Coded,,
+f77b636b-21e7-4568-9719-bbdd67c3c736,Alcohol Intake - Habitual ; Alcohol Intake - Social ;Alcohol Intake - Not Use,,HIV Care - Alcohol Intake,Question,Coded,,
+4f0579ef-d9cd-4f09-ad16-0eb7a6ac9710,,,HIV Care -Drug Allergies Notes,Misc,Text,,
+b2a9ba15-34d7-4829-993e-7f11703cc15f,,Literate ; Education Level ; HIV Care - Alcohol Intake ; HIV Care -Drug Allergies Notes,HIV CARE - Personal History Data,Misc,N/A,,
