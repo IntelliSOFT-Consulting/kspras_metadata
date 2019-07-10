@@ -1,7 +1,5 @@
 Uuid,Void/Retire,Identifier type,Name,Description,Prefix,Suffix,First identifier base,Min length,Max length,Base character set,_version:1,_order:6000
-49027df8-a689-4a0b-9569-16693a33fe71,,Patient Identifier,UID,UniqueID,,,1,11,,123456789,,
 c1d8a345-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,GAN,,,,,,,,,
-c1e39ece-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,BAM,,,,,,,,,
 c1d90956-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,SEM,,,,,,,,,
 c1dbd8bd-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,SIV,,,,,,,,,
-a1a7e96e-83b3-4c1c-b0c6-f24710e62a97,yes,National ID,National ID,,,,,,,,,
+a1a7e96e-83b3-4c1c-b0c6-f24710e62a97,,National ID,UID,UniqueArtID,,,1,0,,123456789,,
