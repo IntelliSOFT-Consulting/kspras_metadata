@@ -1,0 +1,18 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:105,Data class,Data type,Answers
+4ba4ea3a-a4dc-41c0-94ab-89a1985f9354,,"Were ARVS Received , Clinical Milestones",Were ARVS Received,"Were ARVS Received ,  Clinical Milestones",,,,Question,Boolean,
+31d8cf82-5b62-4ebd-97d8-31b19690bc32,,PMTCT,PMTCT,PMTCT,,,,Misc,N/A,
+bcb584dd-d241-4c2f-a6b6-88b01a1ae13f,,PEP,PEP,PEP,,,,Misc,N/A,
+066b35ad-f206-4d00-992a-b068ff9f8089,,Earlier ART not Transfer in,Earlier ART not Transfer in,Earlier ART not Transfer in,,,,Misc,N/A,
+6d75a232-9d41-46b6-a986-0551ce0b99c1,,ARVs Received in,if Yes,ARVs Received in,,,,Question,Coded,PMTCT ; PEP ; Earlier ART not Transfer in
+368dfc46-41a0-4a43-b945-f10ede2ac683,,Place Received ART,Place,Place Received ART,,,,Question,Coded,Private ; Government ; Other Answer
+c84d3697-4097-46cf-9a90-bc970aba241e,,Other (Place specify),Other,Other (Place specify),,,,Question,Text,
+73779d67-7e8f-46fe-b723-8879838da5f8,,"ART ,Stop Date",Stop Date,"ART ,Stop Date",,,,Question,Text,
+e6ad3aaa-0f75-4ac3-bf07-a10a5ffdde7c,,ART Drugs And Duration,Drugs And Duration,ART Drugs And Duration,,,,Misc,N/A,
+a5b96e1d-dca8-496f-8156-e8a9ec7accee,,ART History Information,ART History Information,ART History Information,,,,Misc,N/A,
+1f228c68-9628-4426-845b-0eca70d003df,,CTX or Dapose Start Date,CTX or Dapose Start Date,CTX or Dapose Start Date,,,,Question,Date,
+b06ba468-f783-4d77-8c0b-0d4b920e47b0,,Clinical Lab Milestones,Clinical Lab Milestones,Clinical Lab Milestones,,,,Misc,N/A,
+ebd187f8-d15a-4fad-8849-9f74da5c3fc9,,Stage 3,Stage 3,Stage 3,,,,Misc,N/A,
+831d263e-4dfb-4f05-bcfb-629961c07844,,Stage 4,Stage 4,Stage 4,,,,Misc,N/A,
+e38e6ce2-92d9-4382-927b-5555ff9fa850,,WHO Stage,WHO Stage,WHO Stage,,,,Question,Coded,Stage 1; Stage 2; Stage 3 ; Stage 4
+4940b0bb-e1b0-44b9-803d-9720ee5743d8,,Height (cm) length for child <2 yrs,Height (cm) length for child <2 yrs,Height (cm) length for child <2 yrs,,,,Question,Numeric,
+0fca1e93-c834-487d-8ad0-bd351ceed278,,Milestones At the Start Of ART,Milestones (Start Of ART),Milestones At the Start Of ART,,,,Misc,N/A,

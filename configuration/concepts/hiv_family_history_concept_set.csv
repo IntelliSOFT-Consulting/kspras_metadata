@@ -1,0 +1,7 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:104
+a54cc160-8133-4a87-a706-3813fb121838,"Unmarried ;Marital Status - Married , Monogamous;Marital Status - Married , Polygamous ;  Marital Status - Not Applicable; Marital Status - Divorced/Separated ; widowed",,"HIVTC, Marital Status",Question,Coded,,
+c221869a-3f10-11e4-adec-0800271c1b75,Occupation - Unemployed; Student ; Housewife; Government ; Occupation - Military Personnel ; Occupation - Other uniformed forces; Occupation - Farmer; Occupation - Other (Specify),,Occupation,Question,Coded,,
+c546e14a-dc8d-4f08-98ad-7d509041264e,,,Phone Number,Question,Numeric,,
+ 86b66218-b6bd-4b48-8408-fa717ccfa0c4,Positive ; Negative ,,Result,Question,Coded,,
+63ec7ffb-8a42-42ec-9aaa-4758955205b2,,"Family Member names: Partner/children, & Unique No. In in care. ; Family Member - Age ; Family Member - Sex ; Phone Number ;  Family Member - Relationship ; Family Member - HIV Status ;  Result ; Date Tested HIV ; Result of HTS ; Unique ART No/HEI No",General Family Information,Misc,N/A,,
+c2a6c127-e3ba-426f-a4ae-83713dde0736,,"HIVTC, Marital Status ; Occupation ; General Family Information",HIV CARE - Family History Data,Misc,N/A,,
