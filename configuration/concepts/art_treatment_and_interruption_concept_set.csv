@@ -1,0 +1,11 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:111
+42cd702e-33b2-45e8-968e-f3918ac5c86b,1a=AZT+3TC+EFV ; 1b=AZT+3TC+NVP ; 1f=TDF+3TC+EFV ; 1g=TDF+3TC+NVP; 1h=TDF+FTC+EFV; 1J=TDF+FTC+NVP,,Substitution Regimen (1st  Line),Question,Coded,,
+f0941906-3277-4ca0-891a-a58efb541c66, Toxic Side Effect ; Pregnancy ; Risk of pregnancy ; Newly diagnosed TB ; New drug available ; Drug stockout ; Other Reason (Specify),,Reason For Regimen Change,Question,Coded,,
+94550110-9649-4cc4-92fc-227d9e9a9c8d,,Date ; Substitution Regimen (1st  Line) ; Reason For Regimen Change ,ART Regimen - Substitution within 1st Line,Misc,N/A,,
+2a48b138-13ae-481b-8716-a3700626460d,2c=TDF+3TC+LPV/r ; 2d=TDF+3TC+ATV/r; 2e=TDF+FTC+LPV/r; 2f=TDF+FTC+ATV/r; 2g=AZT+3TC+LPV/r; 2h=AZT+3TC+ATV/r;  2i=ABC+3TC+LPV/r; 2j=ABC+3TC+ATV/r,,Substitution Regimen (2nd Line),Question,Coded,,
+ea1c7482-ad23-49b7-9eee-c7b320d7cbd1,,Date ;  Substitution Regimen (2nd Line) ; Reason For Regimen Change,ART Regimen -  Switch to 2nd Line,Misc,N/A,,
+f367e08c-2c0c-45ab-93a8-9f8f3cefda6e,,ART Readiness Confirmed By ;  Date ; Initial ART Regimen ; Cohort  ;  ART Regimen - Substitution within 1st Line ; ART Regimen -  Switch to 2nd Line,AntiRetroviral Treatment,Misc,N/A,,
+a7f113ad-f18b-41fe-a1ea-5f468c911b1d,Toxic Side Effect ; Pregnancy ;  Failure of Treatment ; Poor Adherence Interruption ; Illness Hospitalisation ; Drug stockout ; Patient Lack Finances ; Other,,ART Treatment Reasons For Stop,Question,Coded,,
+2b19035d-46a7-4007-b63b-87753dd5b6d3,Stop; Lost,,Interruption Type,Question,Coded,,
+4e350390-7055-4e71-924f-a80e2de4f192,,Interruption Type ; Date ; Reason ; ART Treatment Reasons For Stop; Date If Restarted,ART Treatment Interruption Stop or Lost,Misc,N/A,,
+12ed93c3-9015-4958-a615-5d7e4990fab1,,AntiRetroviral Treatment ; ART Treatment Interruption Stop or Lost,ART Treatment And Interruption Form,Misc,N/A,,
