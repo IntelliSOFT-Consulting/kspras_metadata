@@ -1,0 +1,38 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:110,Data class,Data type,Answers
+14a4cf16-3781-4d5b-8a50-8e095d6a7cc6,,ART Readiness Confirmed By,ART Readiness Confirmed By,ART Readiness Confirmed By,,,,Question,Text,
+ d1f02073-460c-4cd4-89b0-c16766e06334,,Initial ART Regimen,Initial ART Regimen,Initial ART Regimen,,,,Question,Text,
+d0214403-61a6-46dd-b8b1-bd8e8dfacd38,,Cohort,Cohort,Cohort,,,,Question,Date,
+9062c6d9-a650-44d2-8929-da84f617c427,,1a=AZT+3TC+EFV,1a=AZT+3TC+EFV,1a=AZT+3TC+EFV,,,,Misc,N/A,
+c22e6700-a937-4909-b4ad-e82ff51325ac,,1b=AZT+3TC+NVP,1b=AZT+3TC+NVP,1b=AZT+3TC+NVP,,,,Misc,N/A,
+a00d9620-e88b-4c2f-9293-b1ac9e5943f2,,1f=TDF+3TC+EFV,1f=TDF+3TC+EFV,1f=TDF+3TC+EFV,,,,Misc,N/A,
+ba37b7be-2a5e-42ef-90f6-f4cd4723947e,,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,,,,Misc,N/A,
+3fd242a8-7ade-463c-8919-d82573ea8526,,1h=TDF+FTC+EFV,1h=TDF+FTC+EFV,1h=TDF+FTC+EFV,,,,Misc,N/A,
+91f5d0d6-eb81-484f-9376-4bfb926a5a81, ,1J=TDF+FTC+NVP,1J=TDF+FTC+NVP,1J=TDF+FTC+NVP,,,,Misc,N/A,
+42cd702e-33b2-45e8-968e-f3918ac5c86b,,Substitution Regimen (1st  Line),Substitution Regimen,Substitution Regimen,,,,Question,Coded,1a=AZT+3TC+EFV ; 1b=AZT+3TC+NVP ; 1f=TDF+3TC+EFV ; 1g=TDF+3TC+NVP; 1h=TDF+FTC+EFV; 1J=TDF+FTC+NVP
+b4d8805f-40ff-4c9d-9118-feeab45ad8be,,Other Reason (Specify),Other Reason (Specify),Other Reason (Specify),,,,Misc,N/A,
+f0941906-3277-4ca0-891a-a58efb541c66,,Reason For Regimen Change,Reason,Reason For Regimen Change,,,,Question,Coded, Toxic Side Effect ; Pregnancy ; Risk of pregnancy ; Newly diagnosed TB ; New drug available ; Drug stockout ; Other Reason (Specify)
+bd97cacd-4a91-4901-8803-3a4a2e5f1ca8,,2c=TDF+3TC+LPV/r,2c=TDF+3TC+LPV/r,2c=TDF+3TC+LPV/r,,,,Misc,N/A,
+ad6ff4ef-769e-4aec-b8bb-7f033fe6aaaa,,2d=TDF+3TC+ATV/r,2d=TDF+3TC+ATV/r,2d=TDF+3TC+ATV/r,,,,Misc,N/A,
+47167ec1-4957-4d0a-a58c-3894bdeb93ff,,2e=TDF+FTC+LPV/r,2e=TDF+FTC+LPV/r,2e=TDF+FTC+LPV/r,,,,Misc,N/A,
+e649a0ec-e193-4af0-bb49-02687107a893,,2f=TDF+FTC+ATV/r,2f=TDF+FTC+ATV/r,2f=TDF+FTC+ATV/r,,,,Misc,N/A,
+accca537-b8ee-41ec-b902-7de814d099b2,,2g=AZT+3TC+LPV/r,2g=AZT+3TC+LPV/r,2g=AZT+3TC+LPV/r,,,,Misc,N/A,
+77f201fc-aefc-4068-baa7-cb3284782a38,,2h=AZT+3TC+ATV/r,2h=AZT+3TC+ATV/r,2h=AZT+3TC+ATV/r,,,,Misc,N/A,
+cb0f9fcd-fb52-493f-95aa-d0197387fbdb,,2i=ABC+3TC+LPV/r,2i=ABC+3TC+LPV/r,2i=ABC+3TC+LPV/r,,,,Misc,N/A,
+28790bde-81db-4490-806b-ac10c17b41dc,,2j=ABC+3TC+ATV/r,2j=ABC+3TC+ATV/r,2j=ABC+3TC+ATV/r,,,,Misc,N/A,
+2a48b138-13ae-481b-8716-a3700626460d,,Substitution Regimen (2nd Line),Substitution Regimen,Substitution Regimen (2nd Line),,,,Question,Coded,2c=TDF+3TC+LPV/r ; 2d=TDF+3TC+ATV/r; 2e=TDF+FTC+LPV/r; 2f=TDF+FTC+ATV/r; 2g=AZT+3TC+LPV/r; 2h=AZT+3TC+ATV/r;  2i=ABC+3TC+LPV/r; 2j=ABC+3TC+ATV/r
+ea1c7482-ad23-49b7-9eee-c7b320d7cbd1,,ART Regimen -  Switch to 2nd Line,ART Regimen -  Switch to 2nd Line,ART Regimen -  Switch to 2nd Line,,,,Misc,N/A,
+6bde1029-3d73-4214-abd8-90650bda75c1,,Stop,Stop,Stop,,,,Misc,N/A,
+48e7693b-d128-475a-a5f5-ad00ae913fdc,,Lost,Lost,Lost,,,,Misc,N/A,
+93e4aff2-d952-448e-88e3-ee138e13abd4,,Poor Adherence Interruption,Poor Adherence Interruption,Poor Adherence Interruption,,,,Misc,N/A,
+6633ce0b-0237-4f6a-b092-787f42d86464,,Illness Hospitalisation,Illness Hospitalisation,Illness Hospitalisation,,,,Misc,N/A,
+c25a938d-a1d9-4e01-879a-0ed00ec5bd07,,Patient Lack Finances,Patient Lack Finances,Patient Lack Finances,,,,Misc,N/A,
+ad422a59-e314-4283-8b0e-5f3d6b524eb5,,Other Patient Decision,Other Patient Decision,Other Patient Decision,,,,Misc,N/A,
+81449847-0d25-4d0d-a2eb-b4dc6cbfc0fa,,Planned Treatment,Planned Treatment,Planned Treatment,,,,Misc,N/A,
+6584dc5b-e82b-4a70-8564-a7732ccfc723,,Other,Other,Other,,,,Misc,N/A,
+a7f113ad-f18b-41fe-a1ea-5f468c911b1d,,ART Treatment Reasons For Stop,Reason,ART Treatment Reasons For Stop,,,,Question,Coded,Toxic Side Effect ; Pregnancy ;  Failure of Treatment ; Poor Adherence Interruption ; Illness Hospitalisation ; Drug stockout ; Patient Lack Finances ; Other
+2b19035d-46a7-4007-b63b-87753dd5b6d3,,Interruption Type,Interruption Type,Interruption Type,,,,Question,Coded,Stop ; Lost
+0498d422-dbf7-4d64-9daf-e09e08a3be49,,Reason,Reason,Reason,,,,Question,Text,
+fa954f61-ffaf-426c-a70b-3da7fddafbf8,,Date If Restarted,Date If Restarted,Date If Restarted,,,,Question,Date,
+4e350390-7055-4e71-924f-a80e2de4f192,,ART Treatment Interruption Stop or Lost,ART Treatment Interruption Stop or Lost,ART Treatment Interruption Stop or Lost,,,,Misc,N/A,
+f367e08c-2c0c-45ab-93a8-9f8f3cefda6e,,AntiRetroviral Treatment,AntiRetroviral Treatment,AntiRetroviral Treatment,,,,Misc,N/A,
+94550110-9649-4cc4-92fc-227d9e9a9c8d,,ART Regimen - Substitution within 1st Line,ART Regimen - Substitution within 1st Line,ART Regimen - Substitution within 1st Line,,,,Misc,N/A,
