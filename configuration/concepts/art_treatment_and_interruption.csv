@@ -1,6 +1,5 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:110,Data class,Data type,Answers
 14a4cf16-3781-4d5b-8a50-8e095d6a7cc6,,ART Readiness Confirmed By,ART Readiness Confirmed By,ART Readiness Confirmed By,,,,Question,Text,
- d1f02073-460c-4cd4-89b0-c16766e06334,,Initial ART Regimen,Initial ART Regimen,Initial ART Regimen,,,,Question,Text,
 d0214403-61a6-46dd-b8b1-bd8e8dfacd38,,Cohort,Cohort,Cohort,,,,Question,Date,
 75cb96fc-c15c-48a8-a989-a84fa53ea11d,,Switched Regimen,Switched Regimen,Switched Regimen,,,,Question,Boolean,
 bfb1f736-7e74-4adf-96ac-02c38093827b,,Regimen Switched To (Adult First Line),First Line,Regimen Switched To (Adult First Line),,,,Misc,N/A,
@@ -16,6 +15,7 @@ ba37b7be-2a5e-42ef-90f6-f4cd4723947e,,1d = ABC/3TC (600/300) /DTG,1d = ABC/3TC (
 4a86fbee-07a9-422a-bf69-16256c0c2b8b,,1h = TDF/FTC/EFV,1h = TDF/FTC/EFV,1h = TDF/FTC/EFV,,,,Misc,N/A,
 03224cae-f115-4814-bd53-c99c72288446,,1J = TDF/FTC+NVP,1J = TDF/FTC+NVP,1J = TDF/FTC+NVP,,,,Misc,N/A,
 42cd702e-33b2-45e8-968e-f3918ac5c86b,,Substitution Regimen (1st  Line Adults),Substitution Regimen(1st Line Adults),Substitution Regimen,,,,Question,Coded,1a = AZT/3TC+EFV ; 1b = AZT/3TC/NVP ; 1c = TDF/3TC/DTG ; 1d = ABC/3TC (600/300) /DTG ; 1e = AZT/3TC +DTG ; 1f = TDF/3TC+EFV ; 1g = TDF/3TC+NVP ; 1h = TDF/FTC/EFV ; 1J = TDF/FTC+NVP
+ d1f02073-460c-4cd4-89b0-c16766e06334,,Initial ART Regimen (Adult) ,Initial ART Regimen,Initial ART Regimen (Adult),,,,Question,Coded,1a = AZT/3TC+EFV ; 1b = AZT/3TC/NVP ; 1c = TDF/3TC/DTG ; 1d = ABC/3TC (600/300) /DTG ; 1e = AZT/3TC +DTG ; 1f = TDF/3TC+EFV ; 1g = TDF/3TC+NVP ; 1h = TDF/FTC/EFV ; 1J = TDF/FTC+NVP
 b4d8805f-40ff-4c9d-9118-feeab45ad8be,,Other Reason For Regimen Change(First Line),Other Reason (Specify),Other Reason (Specify),,,,Misc,N/A,
 e1a04b37-f80b-4e27-968c-02e2566c7d82,,Other Reason For Regimen Change(Second Line),Other Reason (Specify),Other Reason (Specify),,,,Misc,N/A,
 f0941906-3277-4ca0-891a-a58efb541c66,,Reason For Regimen Change(First Line),Reason,Reason For Regimen Change,,,,Question,Coded, Toxic Side Effect ; Pregnancy ; Risk of pregnancy ; Newly diagnosed TB ; New drug available ; Drug stockout ; Other Reason (Specify)
@@ -47,6 +47,7 @@ f6b1c6ea-b0a2-46a0-b7e0-3038d268356c,,4i = ABC/3TC +LPV/r,4i = ABC/3TC +LPV/r,4i
 99f54f96-e761-4d86-bb1b-0abc2a24fa16,,4k = TDF/3TC+NVP,4k = TDF/3TC+NVP,4k = TDF/3TC+NVP,,,,Misc,N/A,
 5287f2a4-23e5-4314-b60c-0a4b91753ec6,,4i = ABC/3TC +AZT,4i = ABC/3TC +AZT,4i = ABC/3TC +AZT,,,,Misc,N/A,
 4f97efba-0b28-46ff-8f2e-97ef3eee5814,,Child 1st Line Regimens,Child 1st Line Regimens,Child 1st Line Regimens,,,,Question,Coded,4a = AZT/3TC+NVP ; 4b = AZT/3TC +EFV ; 4c = TDF/3TC (120/60) + LPV/r ; 4d = ABC/3TC (120/60) +DTG ; 4f = ABC/3TC +NVP ; 4g = TDF/3TC (120/60) + EFV (200mg) ; 4h = TDF/FTC/EFV ; 4i = ABC/3TC +LPV/r ; 4J = AZT/3TC (60/30)+LPV/r ; 4k = TDF/3TC+NVP ; 4i = ABC/3TC +AZT 
+4f921b9d-4f29-4a7f-b506-f4d55d04d29e,,Initial ART Regimen(Children),Initial ART Regimen,Initial ART Regimen(Children),,,,Question,Coded,4a = AZT/3TC+NVP ; 4b = AZT/3TC +EFV ; 4c = TDF/3TC (120/60) + LPV/r ; 4d = ABC/3TC (120/60) +DTG ; 4f = ABC/3TC +NVP ; 4g = TDF/3TC (120/60) + EFV (200mg) ; 4h = TDF/FTC/EFV ; 4i = ABC/3TC +LPV/r ; 4J = AZT/3TC (60/30)+LPV/r ; 4k = TDF/3TC+NVP ; 4i = ABC/3TC +AZT 
 b23cf614-dfec-48c9-a12f-ba577e28347d,,5a = AZT/3TC+LPV/r,5a = AZT/3TC+LPV/r,5a = AZT/3TC+LPV/r,,,,Misc,N/A,
 dabc93c3-8c3d-41e1-b3e3-d7e14c4765b6,,5b = AZT/3TC +RAL,5b = AZT/3TC +RAL,5b = AZT/3TC +RAL,,,,Misc,N/A,
 da3c6710-c431-4582-a444-a466d54693ec,,5c = ABC/3TC (120/60) + RAL,5c = ABC/3TC (120/60) + RAL,5c = ABC/3TC (120/60) + RAL,,,,Misc,N/A,
