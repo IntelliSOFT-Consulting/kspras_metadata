@@ -4,8 +4,8 @@ ee31f5fc-40b8-417d-8350-1a74431c220b,,ART Follow up - Scheduled Date,Date,ART Fo
 9efbdca3-7ca8-4205-8285-46151802a887,,Duration For Current Regimen,Duration For Current Regimen,Duration For Current Regimen,,,,Question,Date,
 8df413d9-e018-4a38-817f-fcf718f0df2f,,Current on FP,Current on FP,Current on FP,,,,Question,Boolean,
 1fe0597e-470d-49bd-9d82-9c7b7342dab0,,Condoms,,,,,,Misc,N/A,
-609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,FP Method,FP Method,,,,Question,Coded,Condoms
-1ccceceb-fb05-4ef6-845b-e0d64d3f9ba4,,Pregnant,Pregnant,Pregnant,,,,Question,Boolean,
+609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,FP Method,FP Method,,,,Question,Coded,Condoms ; Implant ;IUCD ; Depo
+1ccceceb-fb05-4ef6-845b-e0d64d3f9ba4,,FP Pregnant,Pregnant,Pregnant,,,,Question,Boolean,
 12118225-edad-45e2-9313-a5bca2cb4995,,EDD,EDD,EDD,,,,Question,Date,
 1d593268-8a2d-4030-bf1d-9c341d47f875,,PMTCT - HIV & ART Follow up,PMTCT,PMTCT - HIV & ART Follow up,,,,Question,Boolean,
 58ab89cd-6674-480b-95a0-5b761b0275cb,,On TB Treatment,On TB Treatment,On TB Treatment,,,,Question,Boolean,
@@ -25,7 +25,11 @@ b6ae8e33-aa58-47e4-84be-5b8599a177b7,,ART Follow up - Information,Follow Up Info
 23322fd6-3dbb-410e-8bee-6210dfcd5f71,,ARV Regimen,ARV Regimen,ARV Regimen,,,,Question,Coded,1g=TDF+3TC+NVP
 4ab28128-7ef3-452d-86d5-73561761b08a,,Number of Days Dispensed,Number of Days,Number of Days Dispensed,,,,Question,Numeric,
 fc684917-4deb-42cf-9245-8a13c6a232bc,,Date VL Sample Collected?,Date VL Sample Collected?,Date VL Sample Collected?,,,,Question,Date,
-0b1b86d3-1021-443a-900f-37c400684ae0,,VL Result,VL Result,VL Result,,,,Question,Text,
+8b5ef5c4-3c88-49b8-87e5-cb8d30caa77d,,VL Results,VL Result,VL Results,,,,Question,Numeric,
+714752ad-61df-44e0-ae40-fa9bf4f9d831,,Adherence Good,Good,Adherence Good,,,,Misc,N/A,
+535ea56b-0138-4804-ab23-e70f2dbe0b61,,Adherence Fair,Fair,Adherence Fair,,,,Misc,N/A,
+f05f31c1-5f06-4ada-8cbd-a877cb06442a,,Adherence Poor,Poor,Adherence Poor,,,,Misc,N/A,
+62750e0f-7601-4d16-85e7-ca4f3ecd9448,,Classification Of Adherence,Classification Of Adherence,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
 75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
 c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
 8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,

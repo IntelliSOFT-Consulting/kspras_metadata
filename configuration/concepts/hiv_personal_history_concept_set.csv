@@ -1,9 +1,8 @@
 Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:123
-8eaae386-92dd-47df-b39e-89e60a42d00b,,Date First Tested HIV +  ; Place Tested HIV +  ,First HIV Test Information,Misc,N/A,,
-b0c04b40-7322-4fa3-92d4-13583c6ba68a,,Date of HIV Retesting Before ART ; Place of HIV Retesting Before ART ,HIV Retesting Information,Misc,N/A,,
+8eaae386-92dd-47df-b39e-89e60a42d00b,,Date First Tested HIV +  ; Place Tested HIV +  ; Date of HIV Retesting Before ART ; Place of HIV Retesting Before ART,First HIV Test Information,Misc,N/A,,
 1ce0afd4-f6d2-4b80-b61a-11da81c760ce,,Transferred in on ART? ; Name of Clinic; Date Transferred in,ART Transfer Information,Misc,N/A,,
 f1a35737-434c-46e9-8c46-4e17b98e305d,VCT Clinic;TB Clinic ; STI Clinic ; ANC Clinic ; In Patient ; Padeatric ; Entry Point - OPD; CBTC ; Index Testing ; Other Entry Point (Specify),,HIV - Entry Point,Question,Coded,,
-3c262fa2-e1e7-4ec3-9377-b9ddf3184991,,First HIV Test Information ; HIV - Entry Point ; Other Entry Point ; HIV Retesting Information ; ART Transfer Information,HIV Testing History,Misc,N/A,,
+3c262fa2-e1e7-4ec3-9377-b9ddf3184991,,First HIV Test Information ; HIV - Entry Point ; Other Entry Point ;  ART Transfer Information,HIV Testing History,Misc,N/A,,
 159400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Literate,Question,Boolean,,
 1712AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Education Level - Primary ; Education Level - Secondary  ; Education Level - University/College,,Education Level,Question,Coded,,
 f77b636b-21e7-4568-9719-bbdd67c3c736,Alcohol Intake - Habitual ; Alcohol Intake - Social ;Alcohol Intake - Not Use,,HIV Care - Alcohol Intake,Question,Coded,,
