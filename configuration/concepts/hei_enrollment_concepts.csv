@@ -15,6 +15,7 @@ a6430322-829e-4e58-9944-3bde0697826a,,2=AZT/3TC/NVP,2=AZT/3TC/NVP,2=AZT/3TC/NVP,
 eb4ffa32-7c66-4ff0-8796-134cf5045391,,5=TDF/3TC/DTG,5=TDF/3TC/DTG,5=TDF/3TC/DTG,,,,Misc,N/A,
 d75c973c-06d4-43d2-a57d-6340fc8c0100,,Other ART Regimen,Other(specify),Other ART Regimen,,,,Misc,N/A,
 22d0740d-c9bd-4adf-b824-5aece5a42f38,,Mother's ART Regimen,Mother's ART Regimen,Mother's ART Regimen,,,,Question,Coded,1=TDF/3TC/EFV ; 2=AZT/3TC/NVP ;3=AZT/3TC/3TC+EFV; 4=TDF/3TC+NVP;5=TDF/3TC/DTG;Other ART Regimen
+c9109a3b-590f-40c0-90d5-123235915de1,,Specify other Mother's ART Regimen,Other Regimen (specify),Specify other Mother's ART Regimen,,,,Question,Text,
 5e5638d0-5df1-4843-ba73-8637d65cc34e,,<1000 copies/ml,<1000 copies/ml,<1000 copies/ml,,,,Misc,N/A,
 64a2380b-b16f-4c3d-883f-04f9172a2e8b,,>1000 copies/ml,>1000 copies/ml,>1000 copies/ml,,,,Misc,N/A,
 40e22877-fff1-4e2e-b441-218021481636,,Not done,Not done,Not done,,,,Misc,N/A,
