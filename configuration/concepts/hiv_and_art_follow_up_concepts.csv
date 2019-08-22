@@ -19,7 +19,7 @@ ebd187f8-d15a-4fad-8849-9f74da5c3fc9,,Stage 3,Stage 3,Stage 3,,,,Misc,N/A,
 831d263e-4dfb-4f05-bcfb-629961c07844,,Stage 4,Stage 4,Stage 4,,,,Misc,N/A,
 e38e6ce2-92d9-4382-927b-5555ff9fa850,,WHO Stage,WHO Stage,WHO Stage,,,,Question,Coded,Stage 1 ;Stage 2 ;Stage 3;Stage 4
 222dc837-30a5-42c4-a0a9-7d4a125ffe70,,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,,,,Question,Boolean,
-731470d0-77e6-4713-b9e3-b325660a38ce,,Adherence Dose/Days,Adherence Dose/Days,Adherence Dose/Days,,,,Question,Date,
+4238e921-d4c8-4645-ab94-b4f4bf5f2d93,,Dose,Dose,Dose,,,,Question,Text,
 ac775264-a811-4b3e-a64f-0c20ae8f9b0c,,Adherence Dose/Days - Number of Days,# of Days,Adherence Dose/Days - Number of Days,,,,Question,Numeric,
 b6ae8e33-aa58-47e4-84be-5b8599a177b7,,ART Follow up - Information,Follow Up Information,ART Follow up - Information,,,,Misc,N/A,
 23322fd6-3dbb-410e-8bee-6210dfcd5f71,,ARV Regimen,ARV Regimen,ARV Regimen,,,,Question,Coded,1g=TDF+3TC+NVP
@@ -29,7 +29,8 @@ fc684917-4deb-42cf-9245-8a13c6a232bc,,Date VL Sample Collected?,Date VL Sample C
 714752ad-61df-44e0-ae40-fa9bf4f9d831,,Adherence Good,Good,Adherence Good,,,,Misc,N/A,
 535ea56b-0138-4804-ab23-e70f2dbe0b61,,Adherence Fair,Fair,Adherence Fair,,,,Misc,N/A,
 f05f31c1-5f06-4ada-8cbd-a877cb06442a,,Adherence Poor,Poor,Adherence Poor,,,,Misc,N/A,
-62750e0f-7601-4d16-85e7-ca4f3ecd9448,,Classification Of Adherence,Classification Of Adherence,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+62750e0f-7601-4d16-85e7-ca4f3ecd9448,,ARVs Adherence,Adherence,ARVs Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+6ad327aa-d514-4b31-b21c-294a62a6fb30,,Classification Of Adherence,Classification Of Adherence,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
 75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
 c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
 8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,
