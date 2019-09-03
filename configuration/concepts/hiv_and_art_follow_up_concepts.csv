@@ -11,7 +11,13 @@ ee31f5fc-40b8-417d-8350-1a74431c220b,,ART Follow up - Scheduled Date,Date,ART Fo
 58ab89cd-6674-480b-95a0-5b761b0275cb,,On TB Treatment,On TB Treatment,On TB Treatment,,,,Question,Boolean,
 ce828c13-dea2-43b7-85b9-975c5613b2db,,Date Started TB RX,Date Started TB RX,Date Started TB RX,,,,Question,Date,
 ba37b7be-2a5e-42ef-90f6-f4cd4723947e,,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,,,,Misc,N/A,
-1c44444b-ac9a-4d2a-bb83-9299ab05668c,,TB Regimen On,TB Regimen On,TB Regimen On,,,,Question,Coded,1g=TDF+3TC+NVP
+9286a105-8266-405b-a35a-a458d3a4c3d8,,2HRZE/4RH,2HRZE/4RH,2HRZE/4RH,,,,Misc,N/A,
+ddd4b2d1-014e-4c8d-87d9-37de3685e37a,,2SHRZE/1HRZE/5RH,2SHRZE/1HRZE/5RH,2SHRZE/1HRZE/5RH,,,,Misc,N/A,
+60388cf0-25df-4148-9e34-6ddd9e988323,,2HRZE/10RH,2HRZE/10RH,2HRZE/10RH,,,,Misc,N/A,
+d02b83cd-eaff-4015-a434-01406239c298,,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,,,,Misc,N/A,
+5ba046b4-42e9-4ffb-81a2-6cd4fc03ee70,,TB Regimen Second Line,TB Regimen Second Line,TB Regimen Second Line,,,,Question,Coded,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E
+4199b8d5-ab1f-4623-9083-a6764059f424,,TB Regimen For Children,TB Regimen For Children,TB Regimen For Children,,,,Question,Coded,2HRZE/10RH
+1c44444b-ac9a-4d2a-bb83-9299ab05668c,,TB Regimen On,TB Regimen On,TB Regimen On,,,,Question,Coded,2HRZE/4RH ; 2SHRZE/1HRZE/5RH
 13498474-ba95-4fec-8010-c8c5e24748ff,,Side Effects,Side Effects,Side Effects,,,,Question,Text,
 88f2a6ea-367d-45dc-942a-b809b0d17275,,Stage 1,Stage 1,Stage 1,,,,Misc,N/A,
 17a3b24b-e107-49fe-8b0d-69c3b7e60f4c,,Stage 2,Stage 2,Stage 2,,,,Misc,N/A,
