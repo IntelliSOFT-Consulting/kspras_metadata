@@ -1,7 +1,11 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:142,Data class,Data type,Answers
-52b3f334-0978-4671-ad19-88bf9b8ec065,,Enrollement(Clinic),Clinic,Enrollement(Clinic),,,,Misc,N/A,
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:2,_order:142,Data class,Data type,Answers
+52b3f334-0978-4671-ad19-88bf9b8ec065,,Enrollement(ART Clinic),ART Clinic,Enrollement(Clinic),,,,Misc,N/A,
 19a1709b-46da-46d5-ad12-f5e0841f7c19,,Enrollement(Ward),Ward,Enrollement(Ward),,,,Misc,N/A,
-0ee6f07d-2fad-472f-a2f8-84c0257f5b70,,Entry Point(clinic/Ward),Entry Point(clinic/Ward),Entry Point(clinic/Ward),,,,Question,Coded,Enrollement(Clinic); Enrollement(Ward)
+22a6475b-d60c-4158-9605-742684474b8b,,Enrollement(Self Referral),Self Referral,Enrollement(Self Referral),,,,Misc,N/A,
+0cc49cee-fff7-47b6-b415-7524c4d35e0a,,Enrollement(Private Facilities),Private Facilities,Enrollement(Private Facilities),,,,Misc,N/A,
+1059d497-0fc0-4d38-a774-e4344fc3dd8b,,Other service delivery point,Other service delivery point,Other service delivery point,,,,Misc,N/A,
+e2748928-9ef1-4199-bb1d-f627d1d90e6f,,Specify Other Delivery Point,Specify Other Delivery Point,Specify Other Delivery Point,,,,Question,Text,
+0ee6f07d-2fad-472f-a2f8-84c0257f5b70,,Entry Point(Enrollement),Entry Point,Entry Point(Enrollement),,,,Question,Coded,Enrollement(ART Clinic);Enrollement(Ward);Enrollement(Self Referral);Enrollement(Private Facilities);Other service delivery point
 e00e75f0-2d9e-493b-b2da-167d41fe5b95,,Date of ARV Prophylaxis Start,Date of ARV Prophylaxis Start,Date of ARV Prophylaxis Start,,,,Question,Date,
 d7eac53b-8f23-4797-95f9-69177741dd90,,Mothers Received ART for PMTCT?,Mothers Received ART for PMTCT?,Mothers Received ART for PMTCT?,,,,Question,Boolean,
 f5026b7b-c8fe-42d4-adca-c365a13e95a3,,<= 4 weeks,<= 4 weeks,<= 4 weeks,,,,Misc,N/A,
@@ -22,7 +26,7 @@ c9109a3b-590f-40c0-90d5-123235915de1,,Specify other Mother's ART Regimen,Other R
 d14236e5-2c6a-4dfe-b124-044708910d44,,Mothers Viral load At Delivery?,Mothers Viral load At Delivery?,Mothers Viral load At Delivery?,,,,Question,Coded,<1000 copies/ml ;>1000 copies/ml ;Not done
 34bf7ed1-4e7e-4b7d-af9c-712973450bf5,,Daily NVP,Daily NVP,Daily NVP,,,,Misc,N/A,
 c323d219-1a44-4637-9904-ed5d5ffeb560,,AZT+NV,AZT+NV,AZT+NV,,,,Misc,N/A,
-aea8d9a7-6756-42e2-bb25-4a84ec97261b,,Daily NVP Date,Daily NVP Date,Daily NVP Date,,,,Question,Date,
+aea8d9a7-6756-42e2-bb25-4a84ec97261b,,Daily NVP Date,NVP Date,Daily NVP Date,,,,Question,Date,
 0422d580-9c99-4e84-9e8d-4d56b2671a27,,AZT+NV Date,AZT+NV Date,AZT+NV Date,,,,Question,Date,
 bf28a3b2-8fab-4367-aac1-ed3d15f73557,,Infant's PMTCT ARVS,Infant's PMTCT ARVS,Infant's PMTCT ARVS,,,,Question,Coded,Daily NVP;AZT+NV
 a6216423-69ca-4f07-aedf-cc6f3807d07c,,Mother's History,Mother's History,Mother's History,,,,Misc,N/A,
