@@ -10,9 +10,10 @@ f405d8ec-14d0-485a-b52d-bffdfeb26581,,"TB Screening , Fever",Fever,"TB Screening
 c50addfe-baf4-4ed0-b470-d6d4678b4359,,"Gene , Has it Been Done?",Has it Been Done?,"Gene , Has it Been Done?",,,,Question,Boolean,
 19ac4483-f0db-439e-9dfc-997436fa0255,,MTB Detected,MTB Detected,MTB Detected,,,,Misc,N/A,
 82f0a100-a76a-4f4b-9b0b-4bc78953cf4d,,MTB Not Detected,MTB Not Detected,MTB Not Detected,,,,Misc,N/A,
+7e93ff7c-0b69-4e10-a1d3-a9576c88d77b,,TB MDR,TB MDR,TB MDR,,,,Misc,N/A,
 d761cf3c-c5a1-4a4b-a8a9-2aa11cfd0c35,,"Date Test Requested, GeneXpert",Date Test Requested,Date Test Requested,,,,Question,Date,
 b850d967-f1de-4ecd-88bd-880beb91e082,,"Date Results Received, GeneXpert",Date Test Received,Date Results Received,,,,Question,Date,
-c2f01b10-1b5e-485a-a352-05788359d881,,"GeneXpert , Result",Result,Result,,,,Question,Coded,MTB Detected ; MTB Not Detected
+c2f01b10-1b5e-485a-a352-05788359d881,,"GeneXpert , Result",Result,Result,,,,Question,Coded,MTB Detected ; MTB Not Detected; TB MDR
 567a949c-1ff8-499d-afeb-3b54893fa1e8,,GeneXpert Information,GeneXpert Information,GeneXpert Information,,,,Misc,N/A,
 06fbce51-d4ff-4ad3-b911-def303f3d2e2,,"Sputum for AFB, Has it been done?",Has it Been Done?,"Sputum for AFB, Has it been done?",,,,Question,Boolean,
 a1dcc066-550c-42a3-90aa-83d8336cb7d5,,AFB + ,AFB + ,AFB + ,,,,Misc,N/A,

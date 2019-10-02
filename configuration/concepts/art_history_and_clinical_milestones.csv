@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:124,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:124,Data class,Data type,Answers
 4ba4ea3a-a4dc-41c0-94ab-89a1985f9354,,Were ARVS Received?,Were ARVS Received,Were ARVS Received ,,,,Question,Boolean,
 31d8cf82-5b62-4ebd-97d8-31b19690bc32,,PMTCT,PMTCT,PMTCT,,,,Misc,N/A,
 bcb584dd-d241-4c2f-a6b6-88b01a1ae13f,,PEP,PEP,PEP,,,,Misc,N/A,
@@ -21,9 +21,13 @@ a5b96e1d-dca8-496f-8156-e8a9ec7accee,,ART History Information,ART History Inform
 ebd187f8-d15a-4fad-8849-9f74da5c3fc9,,Stage 3,Stage 3,Stage 3,,,,Misc,N/A,
 831d263e-4dfb-4f05-bcfb-629961c07844,,Stage 4,Stage 4,Stage 4,,,,Misc,N/A,
 e38e6ce2-92d9-4382-927b-5555ff9fa850,,WHO Stage,WHO Stage,WHO Stage,,,,Question,Coded,Stage 1; Stage 2; Stage 3 ; Stage 4
-ca055d08-6cd7-4331-83bb-1d27dc5aa61f,,Weight - Clinical Milestone,Weight,Weight - Clinical Milestone,,,,Question,Numeric,
-4940b0bb-e1b0-44b9-803d-9720ee5743d8,,Height (cm) length for child <2 yrs,Height (cm) length for child <2 yrs,Height (cm) length for child <2 yrs,,,,Question,Numeric,
-809dd0f5-ce54-441c-b835-a2a8b06a6140,, CD4, CD4, CD4,,,,LabTest,Numeric,
+3f7b60f5-b637-45c1-bb73-bf86e808dbce,,Viral load First Result ,First Result,,,,,Question,Text,
+3c2852d1-2199-44e2-bd38-23022b8e8620,,Viral load Second Result ,Second Result,,,,,Question,Text,
+7d8c8846-1591-430f-a3b2-1574a85814f2,,Viral load Third Result,Third Result,,,,,Question,Text,
+4aab8bd3-1f63-4ab2-868d-6f1d9e9b0d15,,Viral Load Test Information,Viral Load Test Information,Viral Load Test Information,,,,Misc,N/A,
+ca055d08-6cd7-4331-83bb-1d27dc5aa61f,,Weight - Clinical Milestone,Weight(kg),,,,,Question,Numeric,
+4940b0bb-e1b0-44b9-803d-9720ee5743d8,,Height (cm) length for child <2 yrs,,,,,,Question,Numeric,
+809dd0f5-ce54-441c-b835-a2a8b06a6140,, CD4,,,,,,LabTest,Numeric,
 0fca1e93-c834-487d-8ad0-bd351ceed278,,Milestones At the Start Of ART,Milestones (Start Of ART),Milestones At the Start Of ART,,,,Misc,N/A,
 b06ba468-f783-4d77-8c0b-0d4b920e47b0,,Clinical And Lab Milestones,Clinical Lab Milestones,Clinical Lab Milestones,,,,Misc,N/A,
 54857487-063a-4f92-a388-e3267b97d22a,,ART History And Clinical Milestone,ART History And Clinical Milestone Form,ART History And Clinical Milestone Form,,,,Misc,N/A,
