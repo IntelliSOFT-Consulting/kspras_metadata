@@ -15,6 +15,9 @@ f6ae430a-a197-426e-b54f-08f45fae0ad0,,Occupation - Other (Specify),Other (Specif
 c221869a-3f10-11e4-adec-0800271c1b75,,Occupation,Occupation,Occupation,,,,Question,Coded,Occupation - Unemployed ; Occupation - Student ; Occupation - Housewife ; Occupation - Military Personnel ; Occupation - Other uniformed forces ; Occupation - Farmer ; Occupation - Other (Specify)
 9e9df8b6-3bad-454e-a2fc-04842d02d62a,,Other - Occupation,Other,Other - Occupation,,,,Question,Text,
 1074cef5-e4f9-470d-aaea-a4d8d7436c49,,"Family Member names: Partner/children, & Unique No. In in care.",Family Member Names In HIV CARE,"Family Member names: Partner/children, & Unique No. In in care.",,,,Question,Text,
+53b3f5b4-85bc-415f-8e14-5bfc35cb2e89,,Family Member names,,,,,,Question,Text,
+48741238-7ad4-42f0-a1f4-d2bb6b355614,,Is Family Member in ART Care?,,,,,,Question,Boolean,
+15c72e37-bd8f-47ef-8f12-96e69e241b1a,,Family Member ART Number,,,,,,Question,Text,
 db25b3c5-10da-49a9-9137-cc8a2507585a,,Family Member - Age,Age,Family Member - Age,,,,Question,Numeric,
 544634f2-4c08-48b0-9b2b-35251189a59b,,Male,Male,Male,,,,Misc,N/A,
 e74aebd1-51b5-424f-b9f0-339fd8cd3588,,Female,Female,Female,,,,Misc,N/A,
