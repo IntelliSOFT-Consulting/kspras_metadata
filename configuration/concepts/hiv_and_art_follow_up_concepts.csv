@@ -37,9 +37,12 @@ fc684917-4deb-42cf-9245-8a13c6a232bc,,Date VL Sample Collected?,Date VL Sample C
 535ea56b-0138-4804-ab23-e70f2dbe0b61,,Adherence Fair,Fair,Adherence Fair,,,,Misc,N/A,
 f05f31c1-5f06-4ada-8cbd-a877cb06442a,,Adherence Poor,Poor,Adherence Poor,,,,Misc,N/A,
 62750e0f-7601-4d16-85e7-ca4f3ecd9448,,ARVs Adherence,Adherence,ARVs Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+d5d1d355-9e77-4e11-b733-884974f51169,,was counselling done?,was counselling done?,,,,,Question,Boolean,
 d0f3605e-f026-4ef8-973a-f471a236049a,,Reason why Adherence is Fair,Reason,,,,,Question,Text,
 b0058799-4655-471d-8124-6acd14c6beb1,,Reason why Adherence is Poor,Reason,,,,,Question,Text,
-6ad327aa-d514-4b31-b21c-294a62a6fb30,,Classification Of Adherence,Classification Of Adherence,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+6ad327aa-d514-4b31-b21c-294a62a6fb30,,Classification Of Adherence,EAC Results,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+1a07bffa-2e01-43bb-880e-c68c02300b36,,EAC Results,EAC Results,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+206cb019-fd89-46a5-8731-abe3cdcaac8c,,Counselling Date,Counselling Date,,,,,Question,Date,
 75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
 c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
 8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,
