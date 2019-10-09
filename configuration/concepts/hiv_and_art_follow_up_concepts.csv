@@ -43,6 +43,15 @@ b0058799-4655-471d-8124-6acd14c6beb1,,Reason why Adherence is Poor,Reason,,,,,Qu
 6ad327aa-d514-4b31-b21c-294a62a6fb30,,Classification Of Adherence,EAC Results,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
 1a07bffa-2e01-43bb-880e-c68c02300b36,,EAC Results,EAC Results,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
 206cb019-fd89-46a5-8731-abe3cdcaac8c,,Counselling Date,Counselling Date,,,,,Question,Date,
+039704e4-7d5c-4062-b490-8252069ba142,,First EAC Session Date,Counselling Date (First Session),,,,,Question,Date,
+a9498f36-0bb5-43af-a263-96c848275d3c,,Classification Of Adherence(First session),Adherence( First Session),,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+4bf2af69-1576-44a9-ae60-95cd3ca2ae72,,Second EAC Session Date,Second EAC Session Date,,,,,Question,Date,
+516238e3-96ec-4b98-a4cd-9dcbdd687cc4,,Classification Of Adherence(Second session),Adherence(Second session),,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+599137e4-9f91-4b51-aa73-c9b68fe81ac5,,Third EAC Session Date,Third EAC Session Date,,,,,Question,Date,
+7426df12-d612-4f8e-8149-66bb2723c842 ,,Classification Of Adherence(Third session),Adherence(Third session),,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+ee910383-e469-4eab-a634-76a2f7a762c9,,Classification Of Adherence After EAC,Adherence After EAC,,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+eeb4976d-704f-4dd0-a84b-34cfb06a52d6,,MDT Held?,MDT Held?,Multi-displinary team,,,,Question,Boolean,
+f46b65c5-f62b-4ad9-a8c8-30cc6aca82f2,,Date MDT Held,Date MDT Held,,,,,Question,Date,
 75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
 c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
 8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,
