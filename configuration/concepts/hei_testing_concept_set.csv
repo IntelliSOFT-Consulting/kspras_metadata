@@ -8,7 +8,6 @@ c074a8a6-c336-11e9-9cb5-2a2ae2dbcce4,Positive ; Negative,,HEI Testing(Final Resu
 c074ac52-c336-11e9-9cb5-2a2ae2dbcce4,,,HEI Treatment - Referred To ART Clinic,Question,Boolean,,
 c074af68-c336-11e9-9cb5-2a2ae2dbcce4,,,HEI Treatment - Enrolled AT ART Clinic,Question,Boolean,,
 c074b2ec-c336-11e9-9cb5-2a2ae2dbcce4,,,Was the Referral Presumptive?,Question,Boolean,,
-c07482cc-c336-11e9-9cb5-2a2ae2dbcce4,HEI Results Positive;HEI Results Negative,,HEI Testing (First PCR Result),Question,Coded,,
 e1f3e911-034b-4483-9d2c-98957ff30709,HEI Results Positive;HEI Results Negative,,HEI Testing (First PCR Results),Question,Coded,,
 429bef39-53c9-4dec-abd9-01c3ce33073e,HEI Results Positive;HEI Results Negative,,HEI Testing (Rapid Test At 9 Months Results),Question,Coded,,
 96279431-4136-4289-923b-35a4e02be649,HEI Results Positive;HEI Results Negative,,HEI Testing (Second PCR Results),Question,Coded,,
