@@ -127,5 +127,13 @@
         where v.date_stopped is null AND v.visit_type_id = (select visit_type_id from visit_type where name = 'DRUGS') and v.voided = 0    
 	   </value>
     </globalProperty>
+	<globalProperty>
+	<property>SchedulerMarksComplete</property>
+      <value>true</value>
+    </globalProperty>
+	<globalProperty>
+	<property>SchedulerMarksMissed</property>
+      <value>true</value>
+    </globalProperty>
   </globalProperties>
 </config>
