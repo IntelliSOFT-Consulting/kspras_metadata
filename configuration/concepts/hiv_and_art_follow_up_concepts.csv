@@ -52,6 +52,9 @@ a9498f36-0bb5-43af-a263-96c848275d3c,,Classification Of Adherence(First session)
 ee910383-e469-4eab-a634-76a2f7a762c9,,Classification Of Adherence After EAC,Adherence After EAC,,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
 eeb4976d-704f-4dd0-a84b-34cfb06a52d6,,MDT Held?,MDT Held?,Multi-displinary team,,,,Question,Boolean,
 f46b65c5-f62b-4ad9-a8c8-30cc6aca82f2,,Date MDT Held,Date MDT Held,,,,,Question,Date,
+2252b2e9-adcd-4ee0-8bac-b74ce21a4627,,Extending EAC,Extending EAC,Extending EAC,,,,Misc,N/A,
+af4406c4-bd39-4523-942c-8a45d95453f6,,Switch Regimen,Switch Regimen,Switch Regimen,,,,Misc,N/A,
+85221b4d-ae80-402a-9d9a-8c9ba504771c,,MDT Outcome,MDT Outcome,Outcome  Of MDT,,,,Question,Coded,Extending EAC;Switch Regimen
 75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
 c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
 8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,
