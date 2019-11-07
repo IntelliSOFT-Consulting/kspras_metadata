@@ -1,5 +1,5 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:133,Data class,Data type,Answers
-8961717d-b30d-46b1-b917-ff5a463fcb51,, Hypertension, Hypertension, Hypertension,,,,Misc,N/A,
+8961717d-b30d-46b1-b917-ff5a463fcb51,,Hypertension,Hypertension,Hypertension,,,,Misc,N/A,
 d04f4562-a51f-494f-932f-0abc58440539,,Cardiac Disease,Cardiac Disease,Cardiac Disease,,,,Misc,N/A,
 aff60779-2525-4a92-8413-8bd3a6b86103,,Kidney Disease,Kidney Disease,Kidney Disease,,,,Misc,N/A,
 5411e66f-0ca0-4d00-b41d-d30e7d81cad6,,Tuberclosis,TB,TB,,,,Misc,N/A,
@@ -11,16 +11,16 @@ ab6bbf11-0967-44eb-81cc-e8d1b529a89c,,Sickle-cell Disease,Sickle-cell Disease,Si
 16154ebd-e4ae-4d27-8305-dd3961b87697,,Operations,Operations,Operations,,,,Misc,N/A,
 d9cd0a3a-6ed5-4a85-b42b-b1dd64a0488d,,Fracture of Pelvis,Fracture of Pelvis,Fracture of Pelvis,,,,Misc,N/A,
 f2355233-c552-4cd6-802f-0c7c75221f03,,Not Applicable,Not Applicable,Not Applicable,,,,Misc,N/A,
-f4ceb855-94ff-44e8-8ece-b05382cc3945,,Medical History,Medical History,Medical History,,,,Question,Coded, Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilespy ; Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ; Not Applicable
-43071f3e-469b-4e5e-b657-e8d12fd6ab13,,Past Family History,Past Family History,Past Family History,,,,Question,Coded, Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilespy; Diabetes ; Not Applicable
+f4ceb855-94ff-44e8-8ece-b05382cc3945,,Medical History,Medical History,Medical History,,,,Question,Coded,Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilespy ; Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ; Not Applicable
+43071f3e-469b-4e5e-b657-e8d12fd6ab13,,Past Family History,Past Family History,Past Family History,,,,Question,Coded,Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilespy; Diabetes ; Not Applicable
 652849fe-076d-4666-b308-cdad379a9d01,,Smoking,Smoking,Smoking,,,,Misc,N/A,
 cb612e62-ac74-4f24-9805-39a26c303c6b,,Health Of The Husband,Health Of The Husband,Health Of The Husband,,,,Misc,N/A,
 89245dc9-9e33-4ef2-a6ae-4a6070594d1f,,Social History,Social History,Social History,,,,Question,Coded,Smoking ; Health Of The Husband ; Not Applicable
 90d0dc2b-0669-4adb-b979-b8dea4af6bab,,Past medical And surgical history,Past medical And surgical history,Past medical And surgical history,,,,Misc,N/A,
 72488c80-3e28-4d96-a7ae-9b0930f4a9a2,,Number Of Days On Menses,Number Of Days On Menses,Number Of Days On Menses,,,,Question,Numeric,
 da7dd52a-c00a-4dbc-8703-aa480028da1b,,Heavy,Heavy,Heavy,,,,Misc,N/A,
- c45f6876-3f10-11e4-adec-0800271c1b75,,Normal,Normal,Normal,,,,Misc,N/A,
-9b80e82d-c494-4632-bac7-662269bd7472,,Amount,Amount,Amount,,,,Question ,Coded,Normal ; Heavy
+c45f6876-3f10-11e4-adec-0800271c1b75,,Normal,Normal,Normal,,,,Misc,N/A,
+9b80e82d-c494-4632-bac7-662269bd7472,,Amount,Amount,Amount,,,,Question,Coded,Normal ; Heavy
 66a6bacc-8ac0-4c2c-b44a-d62ca9a3e89b,,Implant,Implant,Implant,,,,Misc,N/A,
 f49566c2-213e-4529-894b-e5e56d270841,,IUD,IUD,IUD,,,,Misc,N/A,
 fd941da4-f45d-471e-a007-53867a6251ec,,Male sterilization,Male sterilization,Male sterilization,,,,Misc,N/A,
@@ -30,15 +30,15 @@ cdde742d-bce2-49da-94fd-8717040d914b,,Female sterilization,Female sterilization,
 37cd8e96-9564-4ebc-8faf-06321d194fb0,,"Pills (COC,POP and ECP)","Pills (COC,POP and ECP)","Pills (COC,POP and ECP)",,,,Misc,N/A,
 111b7c83-bd20-456a-9eb0-ab647e6566e0,,Injection,Injection,Injection,,,,Misc,N/A,
 bc453345-54eb-4d7c-b7d9-9075bd51fad2,,Natural Methods,Natural Methods,Natural Methods,,,,Misc,N/A,
-609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,Family Method Used,Family Method Used,,,,Question ,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods"
-f2c1c9f8-c85b-4ff5-9e40-c1f1fb81ef10,,When,When,When,,,,Question ,Date,
-66e34061-107b-4a52-bb19-a32f77671241,,Reason For Discontinuation ,Reason For Discontinuation ,Reason For Discontinuation ,,,,Question ,Text,
-fb5497b5-6925-4411-99d8-e7b1aa275bec,,If Never Used Why?,If Never Used Why?,If Never Used Why?,,,,Question ,Text,
+609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,Family Method Used,Family Method Used,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods"
+f2c1c9f8-c85b-4ff5-9e40-c1f1fb81ef10,,When,When,When,,,,Question,Date,
+66e34061-107b-4a52-bb19-a32f77671241,,Reason For Discontinuation,Reason For Discontinuation,Reason For Discontinuation,,,,Question,Text,
+fb5497b5-6925-4411-99d8-e7b1aa275bec,,If Never Used Why?,If Never Used Why?,If Never Used Why?,,,,Question,Text,
 e905e605-880f-4247-9ba3-a3eec5a17c0e,,Menstral And Contraceptive History,Menstral And Contraceptive History,Menstral And Contraceptive History,,,,Misc,N/A,
-f29ab978-4ecb-41cd-b3a7-982a30ab2253,,Pregnancy Number,Preg No,Pregnancy Number,,,,Question ,Text,
-0a91130c-131d-4407-be81-6a591637e316,,Age,Age,Age,,,,Question ,Numeric,
+f29ab978-4ecb-41cd-b3a7-982a30ab2253,,Pregnancy Number,Preg No,Pregnancy Number,,,,Question,Text,
+0a91130c-131d-4407-be81-6a591637e316,,Age,Age,Age,,,,Question,Numeric,
 f1d88434-62db-417b-81c2-245d7955564c,,Abortion,Abortion,Abortion,,,,Question,Boolean,
-b5f499f6-1caa-4b16-871d-48a7bdc2a3b4,,Gestation(Weeks) ,Gestation(Weeks) ,Gestation(Weeks) ,,,,Question,Numeric,
+b5f499f6-1caa-4b16-871d-48a7bdc2a3b4,,Gestation(Weeks),Gestation(Weeks),Gestation(Weeks),,,,Question,Numeric,
 eff56515-b10c-4347-94f8-ecf3795549b6,,Hospital,Hospital,Hospital,,,,Misc,N/A,
 3fd2dcb2-81f7-4ed7-ad87-d3521ea1adc1,,Home,Home,Home,,,,Misc,N/A,
 6dbe7fad-ba80-412b-b7cf-13ccab4fd49a,,PHCC,PHCC,PHCC,,,,Misc,N/A,
@@ -64,8 +64,11 @@ f551dcf4-4f43-445d-a1f8-26aadcda595c,,HB,HB,HB,,,,Question,Text,
 718b4589-2a11-4355-b8dc-aa668a93e098,,Negative,Negative,Negative,,,,Misc,N/A,
 9024e06b-ec26-4d13-a876-70ea1eebfa3e,,Not Known,Not Known,Not Known,,,,Misc,N/A,
 453d955f-7755-4230-9a69-caf17a191864,,RPR/VDRL,RPR/VDRL,RPR/VDRL,,,,Question,Coded,Positive ; Negative ; Not Known
-2ca63aec-74ea-46ab-bea7-853c9a8e3154,,HIV Sample,HIV ,HIV Sample,,,,Question,Coded,Positive ; Negative
-c6131c0f-623e-4f63-952b-0e16a26c8ad9,,Hepatitis - B Sample,HepB,Hepatitis - B Sample,,,,Question,Text,
+2ca63aec-74ea-46ab-bea7-853c9a8e3154,,HIV Sample,HIV,HIV Sample,,,,Question,Coded,Positive ; Negative
+c6131c0f-623e-4f63-952b-0e16a26c8ad9,,Hepatitis - B Sample,HBV,Hepatitis - B Sample,,,,Question,Text,
+b44b4b2b-b3b5-400d-8886-59ada6e91eaa,,HBV - Not Done,Not Done,HBV - Not Done,,,,Misc,N/A,
+10015503-a9d5-4487-aff1-3395d3b0f946,,HBV,HBV,HBV,,,,Question,Coded,Positive ; Negative ; Not Done
+f6f1281c-3733-4e8e-be69-fd0d1613f999,,Hepatitis - B Sample(HBV),HBV,Hepatitis - B Sample(HBV),,,,Question,Coded,Positive ; Negative ; Not Done
 352f5942-5ad1-427e-ac3e-9477ca7a3ad0,,Blood Group (A+),A+,Blood Group (A+),,,,Misc,N/A,
 0d17b313-76db-4cd6-9835-cefccced5658,,Blood Group (A-),A-,Blood Group (A-),,,,Misc,N/A,
 9b7a8ef0-b338-4879-9b2e-06dd766646bf,,Blood Group (B+),B+,Blood Group (B+),,,,Misc,N/A,
@@ -109,6 +112,6 @@ ff0590b0-d55d-4d22-a902-dbed0f1a6810,,Delivery Personal,Delivery Personal,Delive
 489695bc-c0a0-4c81-88e2-ef66947192e3,,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,,,,Question,Coded,Vehicle
 91d7b8f7-9266-430a-b2e5-8dfe0912ace6,,Did you Receive a Mama Kit,Did you Receive a Mama Kit,Did you Receive a Mama Kit,,,,Question,Boolean,
 0528f58d-c4eb-4fc8-9de9-4c9779e1bcfd,,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,,,,Question,Boolean,
-c84d3697-4097-46cf-9a90-bc970aba241e,, Other (Place specify), Other (Place specify), Other (Place specify),,,,Question,Text,
+c84d3697-4097-46cf-9a90-bc970aba241e,,Other (Place specify),Other (Place specify),Other (Place specify),,,,Question,Text,
 f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Birth Plan Information,Birth Plan Information,Birth Plan Information,,,,Misc,N/A,
 71611db1-cd65-4ae1-9d59-537b82fe7289,,ANC CARD FORM,ANC CARD FORM,ANC CARD FORM,,,,Misc,N/A,
