@@ -1,4 +1,4 @@
-Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:134
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:5,_order:134
 f4ceb855-94ff-44e8-8ece-b05382cc3945,Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilespy ; Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ; Not Applicable,,Medical History,Question,Coded,,
 43071f3e-469b-4e5e-b657-e8d12fd6ab13,Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilespy; Diabetes ; Not Applicable,,Past Family History,Question,Coded,,
 89245dc9-9e33-4ef2-a6ae-4a6070594d1f,Smoking ; Health Of The Husband ; Not Applicable,,Social History,Question,Coded,,
@@ -15,8 +15,8 @@ b97f3df3-a803-4641-9638-d8ff513c7d74,,Pregnancy Number ; Age ; Abortion ; Gestat
 453d955f-7755-4230-9a69-caf17a191864,Positive ; Negative ; Not Known,,RPR/VDRL,Question,Coded,,
 2ca63aec-74ea-46ab-bea7-853c9a8e3154,Positive ; Negative,,HIV Sample,Question,Coded,,
 b8539bf4-86dd-42bc-be04-9108f03dad11,Blood Group (A+); Blood Group (A-) ; Blood Group (B+) ; Blood Group (B-) ; Blood Group (O+) ; Blood Group (O-) ; Blood Group (AB+) ; Blood Group (AB-),,Blood Group And Rhesus Factor,Question,Coded,,
-10015503-a9d5-4487-aff1-3395d3b0f946,Positive ; Negative ; Not Done,,HBV,Question,Coded,,
-6faaf0eb-dfd9-4dca-a49c-2fc9a3ca7ff7,,Urine Sample ; HB; RPR/VDRL ; HIV Sample ;HBV; Blood Group And Rhesus Factor ; HEIGHT (CM),Pregnancy Samples,Misc,N/A,,
+e55c5d38-b971-4d78-a8a0-7cdc35b077c1,Positive ; Negative ; Not Done,,HBV,Question,Coded,,
+6faaf0eb-dfd9-4dca-a49c-2fc9a3ca7ff7,,Urine Sample ;HB;RPR/VDRL ; HIV Sample ; HBV;Blood Group And Rhesus Factor ; HEIGHT (CM),Pregnancy Samples,Misc,N/A,,
 fe5a8532-8f86-40eb-89eb-7e099c6e8414,,Date of the first Day of LNMP ; EDD ; Pregnancy Samples,Pregnancy Samples History,Misc,N/A,,
 4a01c8fe-2b25-420b-ace0-755b840b62ac,1 = Second Contact;3 = Third Contact ; 4 = Fourth Contact ; 5 = Fifth Contact ; 6 = Sixth Contact ; 7 = Seventh Contact ; 8 = Eight Contact ; 9 = Eight Contact,,Visit Number,Question,Coded,,
 cdb44f5d-86cc-452e-b8a1-6034826b1444,,,"Edema, Pregnancy visits",Question,Boolean,,
