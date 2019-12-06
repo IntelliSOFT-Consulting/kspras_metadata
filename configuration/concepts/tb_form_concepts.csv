@@ -16,7 +16,7 @@ b850d967-f1de-4ecd-88bd-880beb91e082,,"Date Results Received, GeneXpert",Date Te
 c2f01b10-1b5e-485a-a352-05788359d881,,"GeneXpert , Result",Result,Result,,,,Question,Coded,MTB Detected ; MTB Not Detected; TB MDR
 567a949c-1ff8-499d-afeb-3b54893fa1e8,,GeneXpert Information,GeneXpert Information,GeneXpert Information,,,,Misc,N/A,
 06fbce51-d4ff-4ad3-b911-def303f3d2e2,,"Sputum for AFB, Has it been done?",Has it Been Done?,"Sputum for AFB, Has it been done?",,,,Question,Boolean,
-a1dcc066-550c-42a3-90aa-83d8336cb7d5,,AFB + ,AFB + ,AFB + ,,,,Misc,N/A,
+a1dcc066-550c-42a3-90aa-83d8336cb7d5,,"AFB + ","AFB + ","AFB + ",,,,Misc,N/A,
 f9c1016a-dead-42c1-8ea3-7a1325f1159c,,AFB -,AFB -,AFB -,,,,Misc,N/A,
 5d8d6b9f-1acf-4a4c-a79c-acd0ccd32df8,,"Sputum Results, Unknown",Unknown,"Sputum Results, Unknown",,,,Misc,N/A,
 fdaa7259-df0b-4e26-9d9c-de2ca68dff1d,,"Sputum for AFB, Result",Result,"Sputum for AFB, Result",,,,Question,Coded,"AFB +  ; AFB - ; Sputum Results, Unknown"
@@ -35,16 +35,26 @@ e2189f5f-0331-411b-a81b-00a251a99b44,,"Date Test Requested, Culture",Date Test R
 a1ae42c8-ba68-4997-bb95-b5b6c393e5b5,,"Date Test Requested, Crx",Date Test Requested,Date Test Requested,,,,Question,Date,
 fb891142-2f77-4850-832b-9371c302b38b,,"Date Results Received,  Crx",Date Test Received,Date Results Received,,,,Question,Date,
 6185eed1-bf16-49fe-bafa-31362233818e,,Crx,Culture,Crx,,,,Misc,N/A,
+a4dfd4b4-97e5-4642-9c33-72375b0bc3d8,,CXR,Chest X-Ray,Chest X-Ray,,,,Misc,N/A,
+9d4dab26-8b4d-47aa-bdd2-3fc8cb0e2dbe,,Chest X-RAY Investigations,CXR,Chest X-RAY Investigations,,,,Misc,N/A,
 39fffef8-0e8b-4432-9ab4-d870b32ea3c6,,Bacteriology: Sputum For AFB Information,Sputum For AFB Information,Bacteriology: Sputum For AFB,,,,Misc,N/A,
 ad8ecb63-6b5d-49b2-9a9d-e16d7a0efc40,,"FNA,Culture, UltraSound - Done? ",Has it Been Done?,"FNA,Culture, UltraSound - Done? ",,,,Question,Boolean,
 edf1eec7-f766-4371-814b-0c18024217bb,,Has CxR been Done?,Has it Been Done?,Has CxR been Done?,,,,Question,Boolean,
 31265036-2f0a-4ef0-a6ce-648c3e0844c5,,Suggestive,Suggestive,Suggestive,,,,Misc,N/A,
 60c1d4e9-09f4-4fe1-9960-52738f01d3a3,,Inclusive,Inclusive,Inclusive,,,,Misc,N/A,
 d10cedcc-ba9b-426b-8a23-5c906caf0579,,Other Dx,Other Dx,Other Dx,,,,Misc,N/A,
-7c679f4f-cae6-43ba-bf18-0f3bd9f060a8,,CxR Results,Results, Results,,,,Question,Coded,Suggestive ; Inclusive ; Other Dx
+7c679f4f-cae6-43ba-bf18-0f3bd9f060a8,,CxR Results,Results," Results",,,,Question,Coded,Suggestive ; Inclusive ; Other Dx
+73d4e98c-564d-4256-bf8c-bc28f560e8a8,,CRX Results,Results,CRX Results,,,,Question,Coded,Suggestive ; Inclusive ; Other Dx
 363f10c8-bce7-4627-8890-62fafd8edb43,,Radiology CrX Information,Radiology CrX Information,Radiology CrX Information,,,,Misc,N/A,
+3d1e61d3-94cd-42f4-aa2a-82cbe801af70,,IPT Status,Status,IPT Status,,,,Question,Text,
+f0b87e11-deba-4f24-92f9-0906a454bae5,"",IPT - Completed,Completed,IPT - Completed,"","","",Misc,N/A,""
+14797270-7346-48a5-9fb6-4d3c148c7ce8,"",IPT -Not Completed,Not Completed,IPT -Not Completed,"","","",Misc,N/A,""
+91a9550c-fd9b-41de-87d5-594c2dc66628,"",IPT Status - TB Screening,Status,IPT Status,"","","",Question,Coded,IPT - Completed; IPT -Not Completed
+a09330ff-b3b4-4005-a0ab-72b733949986,,IPT Start Date,Start Date,IPT Start Date,,,,Question,Date,
+1664ccd0-d62d-4af3-a4a9-54a4a9b54329,,IPT Stop Date,Stop Date,IPT Stop Date,,,,Question,Date,
+2738d495-eb4e-457d-972f-76db4ef00c72,,IPT Information,,,,,,Misc,N/A,
 1b4f4df7-dddc-4e73-ab18-304c4fd12953,,TB Diagnosed?,TB Diagnosed?,TB Diagnosed?,,,,Question,Boolean,
-169895bd-1c27-4f41-9016-f76383964b68,,"Tuberculosis, Type",TB Type, Type of Tuberculosis,,,,Question,Coded, Pulmonary ;  Extrapulmonary ; Pulmonary + Extrapulmonary ; Disseminated
+169895bd-1c27-4f41-9016-f76383964b68,,"Tuberculosis, Type",TB Type," Type of Tuberculosis",,,,Question,Coded," Pulmonary ;  Extrapulmonary ; Pulmonary + Extrapulmonary ; Disseminated"
 5f8378c9-6cce-4b54-9924-e8e732713c29,,TB Diagnosis Information,TB Diagnosis Information,TB Diagnosis Information,,,,Misc,N/A,
 fe8890ae-bacb-4fe4-b41e-9b843166cb2b,,TB Investigation,TB Investigation,TB Investigation,,,,Misc,N/A,
 6fa69c2e-3ddf-4c9e-b31b-1de9629eb8e1,,TB SCREENING FORM,TB SCREENING FORM,TB SCREENING FORM,,,,Misc,N/A,
