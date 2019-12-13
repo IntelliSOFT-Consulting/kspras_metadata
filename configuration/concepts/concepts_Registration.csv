@@ -41,3 +41,8 @@ f87c42ab-aadf-4188-af4d-e92878864ee1,,MaritalStatus,,Marital Status,,Marital Sta
 3f92c5d5-8919-4fd4-b078-edc5ad9529ce,,Guardian,,Guardian,,Guardian,,Misc,Text,,,
 ad0d0a33-a362-4a0d-a303-b9a8f1c7d047,,Parent,,Parent,,Parent,,Misc,Text,,,
 39749542-413c-4186-9cc0-42948908705d,,AlternativeContactRelationshipType,,Relationship,,Alternative Contact Relationship Type,,Misc,Coded,3f92c5d5-8919-4fd4-b078-edc5ad9529ce;ad0d0a33-a362-4a0d-a303-b9a8f1c7d047;,,
+1f01e7b6-ae68-4a57-812f-45872a2197ef,,TreatmentSupporterRelationshipFather,,Father,,Father,,Misc,Text,,,
+a33d398d-e7f5-4a85-8f79-311834cc953f,,TreatmentSupporterRelationshipMother,,Mother,,Mother,,Misc,Text,,,
+5feba5d3-620b-4f25-9875-68f1ade832a6,,TreatmentSupporterRelationshipSibling,,Sibling,,Sibling,,Misc,Text,,,
+15690faf-9752-41f7-92f9-31712ddb2986,,TreatmentSupporterRelationshipChild,,Child,,Child,,Misc,Text,,,
+a96339c8-4b87-4784-a6af-7bec7b291855,,TreatmentSupporterRelationship,,Relationship,,Treatment Supporter Relationship,,Misc,Coded,1f01e7b6-ae68-4a57-812f-45872a2197ef;a33d398d-e7f5-4a85-8f79-311834cc953f;5feba5d3-620b-4f25-9875-68f1ade832a6;15690faf-9752-41f7-92f9-31712ddb2986;,,
