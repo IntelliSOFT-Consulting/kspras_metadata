@@ -2,7 +2,7 @@ Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:6,_or
 f4ceb855-94ff-44e8-8ece-b05382cc3945,Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilepsy(Seizure); Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ;Femur;Spine(Medical History);Not Applicable,,Medical History,Question,Coded,,
 43071f3e-469b-4e5e-b657-e8d12fd6ab13,Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilepsy; Diabetes ; Twins;Not Applicable,,Past Family History,Question,Coded,,
 89245dc9-9e33-4ef2-a6ae-4a6070594d1f,Smoking ; Health Of The Husband ; Alcohol;Not Applicable,,Social History,Question,Coded,,
-03318456-c6ea-4462-9e26-234d879c7582,,"",Blood Transfusion,Question,Boolean,"",""
+03318456-c6ea-4462-9e26-234d879c7582,,,Blood Transfusion,Question,Boolean,,
 90d0dc2b-0669-4adb-b979-b8dea4af6bab,,Medical History ; Past Family History ;Social History;Blood Transfusion;Reason For Blood Transfusion,Past medical And surgical history,Misc,N/A,,
 9b80e82d-c494-4632-bac7-662269bd7472,Normal ; Heavy,,Amount,Question,Coded,,
 609d59f7-79d1-4748-ad86-57c831dbff60,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never",,FP Method,Question,Coded,,
@@ -26,5 +26,5 @@ e55439f5-afdd-4dd2-afba-203ea2f2d79f,Home ;Hospital; PHCC ; PHCU ; Private Healt
 91d7b8f7-9266-430a-b2e5-8dfe0912ace6,,,Did you Receive a Mama Kit,Question,Boolean,,
 489695bc-c0a0-4c81-88e2-ef66947192e3,Vehicle;Tricycle/Ragsha;Motorbike;Footing;Stretcher;Wheelbarrow;Other Modes Of Transport,,Mode of Getting to Delivery Place,Question,Coded,,
 0528f58d-c4eb-4fc8-9de9-4c9779e1bcfd,,,Do you have clean clothes for the Baby?,Question,Boolean,,
-f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Planned Delivery Place ; Delivery Personnel/Person ; Mode of Getting to Delivery Place ; Specify Other Modes Of transport;Did you Receive a Mama Kit; Do you have clean clothes for the Baby? ; Other (Place specify),Birth Plan Information,Misc,N/A,,
+f3a9a361-fc5d-45c0-85a9-ac1540948f84,,"Planned Delivery Place ; Other (Place specify); Delivery Personnel/Person ; Mode of Getting to Delivery Place ; Specify Other Modes Of transport;Did you Receive a Mama Kit; Do you have clean clothes for the Baby? ",Birth Plan Information,Misc,N/A,,
 71611db1-cd65-4ae1-9d59-537b82fe7289,,Past medical And surgical history ; Menstrual And Contraceptive History; Past Obstetric/Gynecological History ; Present Pregnancy ; Maternal Care Information ; Birth Plan Information,ANC CARD FORM,Misc,N/A,,
