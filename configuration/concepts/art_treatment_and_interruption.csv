@@ -77,7 +77,7 @@ ad422a59-e314-4283-8b0e-5f3d6b524eb5,,Other Patient Decision,Other Patient Decis
 81449847-0d25-4d0d-a2eb-b4dc6cbfc0fa,,Planned Treatment,Planned Treatment,Planned Treatment,,,,Misc,N/A,
 6584dc5b-e82b-4a70-8564-a7732ccfc723,,Other Reason For ART Stop,Other,Other Reason For ART Stop,,,,Misc,N/A,
 dede40dc-2a4a-4f40-ad29-845e8d50be58,,Changed Regimen,Changed Regimen,Changed Regimen,,,,Misc,N/A,
-55337ca1-c8b5-43e4-bed3-845a01463020,,Regimen Change Date(Adults),Date,Regimen Change Date(Adults),,,,Question,Date,
+55337ca1-c8b5-43e4-bed3-845a01463020,,Regimen Change Date(Adults),Regimen Change Date,Regimen Change Date(Adults),,,,Question,Date,
 a7f113ad-f18b-41fe-a1ea-5f468c911b1d,,ART Treatment Reasons For Stop,Reason,ART Treatment Reasons For Stop,,,,Question,Coded,Toxic Side Effect ; Pregnancy ;  Failure of Treatment ; Poor Adherence Interruption ; Illness Hospitalisation ; Drug stockout ; Patient Lack Finances ; Other Reason For ART Stop
 2b19035d-46a7-4007-b63b-87753dd5b6d3,,Interruption Type,Interruption Type,Interruption Type,,,,Question,Coded,Stop ; Lost ; Changed Regimen
 0498d422-dbf7-4d64-9daf-e09e08a3be49,,Specify Reason For Art Stop,Specify Reason For Art Stop,Specify Reason For Art Stop,,,,Question,Text,
