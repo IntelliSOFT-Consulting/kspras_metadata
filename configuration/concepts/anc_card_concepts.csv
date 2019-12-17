@@ -38,7 +38,8 @@ cdde742d-bce2-49da-94fd-8717040d914b,,Female sterilization,Female sterilization,
 111b7c83-bd20-456a-9eb0-ab647e6566e0,,Injection,Injection,Injection,,,,Misc,N/A,
 bc453345-54eb-4d7c-b7d9-9075bd51fad2,,Natural Methods,Natural Methods,Natural Methods,,,,Misc,N/A,
 f300d53c-a935-4404-ae63-c771a816d663,,None/Never,None/Never,None/Never,,,,Misc,N/A,
-609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,Family Method Used,Family Method Used,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
+609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,Family Planning Method Used,Family Method Used,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
+33951822-b0aa-4bd1-b750-710f6f9eefa2,"","ANC,FP Method",FP  Method Used,Family Planning Method Used,"","","",Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
 cdfb6ca3-4576-4fcb-b9b7-b7a06dfd912d,,Reason For not Using FP,Reason,Reason For not Using FP,,,,Question,Text,
 2ca2333b-2b84-42cb-85ad-cf3964aca96b,,Date Started FP,"Date Started ",Date Started FP,,,,Question,Date,
 f2c1c9f8-c85b-4ff5-9e40-c1f1fb81ef10,,When,When,When,,,,Question,Date,
@@ -138,19 +139,19 @@ bb56df9c-4d33-4ea0-85f1-c0a8712eb81b,,Motorbike,Motorbike,Motorbike,,,,Misc,N/A,
 91d7b8f7-9266-430a-b2e5-8dfe0912ace6,,Did you Receive a Mama Kit,Did you Receive a Mama Kit,Did you Receive a Mama Kit,,,,Question,Boolean,
 0528f58d-c4eb-4fc8-9de9-4c9779e1bcfd,,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,,,,Question,Boolean,
 c84d3697-4097-46cf-9a90-bc970aba241e,,Other (Place specify),Other (Place specify),Other (Place specify),,,,Question,Text,
-645b6391-2f53-4ca7-bb78-51c08b1ab4b1,"",Who will accompany you to delivery place,Who will accompany you to delivery place,Who will accompany you to delivery place,"","","",Question,Text,""
+645b6391-2f53-4ca7-bb78-51c08b1ab4b1,,Who will accompany you to delivery place,Who will accompany you to delivery place,Who will accompany you to delivery place,,,,Question,Text,
 f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Birth Plan Information,Birth Plan Information,Birth Plan Information,,,,Misc,N/A,
-99c53e59-38cd-4d1b-917e-6d922a0d78e2,"","Post Natal,Date Of Delivery",Date Of Delivery,Post Natal - Date Of Delivery,"","","",Question,Date,""
-9e44e0fd-2b24-4d39-ba3a-2d273aee771c,"","Post Natal,Mode Of Delivery",Mode of Delivery,Post Natal - Mode Of Delivery,"","","",Question,coded,"Caesarean Section ; Delivery Mode, Normal"
-bfaa9af8-e59f-4522-9018-dc6a87706ab4,"","Place Deliveted,Home",Home,Place Deliveted - Home,"","","",Misc,N/A,""
-df071cf7-605c-425f-b4b0-e80df5f3a290,"","Place Deliveted,This Facility",This Facility,Place Deliveted - This Facility,"","","",Misc,N/A,""
-7914ba2e-3350-433a-bab3-437bda355659,"","Post Natal ,Place Delivery",place of Delivery,Post Natal -  Place Delivery,"","","",Question,Coded,"Place Deliveted,Home ; Place Deliveted,This Facility"
-4c5db86c-edd8-40ef-8b4f-226ad7f07a43,"","Post Natal,Sex Of the Baby",Sex Of the Baby,Post Natal - Sex Of the Baby,"","","",Question,Coded,Male;Female
-fbee6c38-1494-4d91-8931-679947f9a4f6,"","Post Natal, Weight",Weight,Post Natal - Weight,"","","",Question,Numeric,""
-1eaf7bcf-680e-4bd2-9e2c-31456626ce5b,"",Condition of the Baby (breastfeeding),Condition of the Baby,Condition of the Baby,"","","",Question,Text,""
-850ccaf1-3d08-4e6d-bc48-7ec11294eab2,"",Drugs given to the Baby,Drugs given to the Baby,Drugs given to the Baby,"","","",Question,Text,""
-d598449f-e210-4a85-9fd5-e0a7051cd20c,"",Condition of the mother,Condition of the mother,Condition of the mother,"","","",Question,Text,""
-7d916883-b179-41f5-b4fa-84a87214c737,"",Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,"","","",Question,Date,""
-95f532cd-0c8e-493d-9d9b-af167c299a46,"",Family Planning Choice,Familiy Planning Choice,Familiy Planning Choice,"","","",Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
-12d5289d-0d24-409b-961e-59495d47a21c,"",Post Natal Care Section,Post Natal Care Section,Post Natal Care Section,"","","",Misc,N/A,""
+99c53e59-38cd-4d1b-917e-6d922a0d78e2,,"Post Natal,Date Of Delivery",Date Of Delivery,Post Natal - Date Of Delivery,,,,Question,Date,
+9e44e0fd-2b24-4d39-ba3a-2d273aee771c,,"Post Natal,Mode Of Delivery",Mode of Delivery,Post Natal - Mode Of Delivery,,,,Question,coded,"Caesarean Section ; Delivery Mode, Normal"
+bfaa9af8-e59f-4522-9018-dc6a87706ab4,,"Place Deliveted,Home",Home,Place Deliveted - Home,,,,Misc,N/A,
+df071cf7-605c-425f-b4b0-e80df5f3a290,,"Place Deliveted,This Facility",This Facility,Place Deliveted - This Facility,,,,Misc,N/A,
+7914ba2e-3350-433a-bab3-437bda355659,,"Post Natal ,Place Delivery",place of Delivery,Post Natal -  Place Delivery,,,,Question,Coded,"Place Deliveted,Home ; Place Deliveted,This Facility"
+4c5db86c-edd8-40ef-8b4f-226ad7f07a43,,"Post Natal,Sex Of the Baby",Sex Of the Baby,Post Natal - Sex Of the Baby,,,,Question,Coded,Male;Female
+fbee6c38-1494-4d91-8931-679947f9a4f6,,"Post Natal, Weight",Weight,Post Natal - Weight,,,,Question,Numeric,
+1eaf7bcf-680e-4bd2-9e2c-31456626ce5b,,Condition of the Baby (breastfeeding),Condition of the Baby,Condition of the Baby,,,,Question,Text,
+850ccaf1-3d08-4e6d-bc48-7ec11294eab2,,Drugs given to the Baby,Drugs given to the Baby,Drugs given to the Baby,,,,Question,Text,
+d598449f-e210-4a85-9fd5-e0a7051cd20c,,Condition of the mother,Condition of the mother,Condition of the mother,,,,Question,Text,
+7d916883-b179-41f5-b4fa-84a87214c737,,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,,,,Question,Date,
+95f532cd-0c8e-493d-9d9b-af167c299a46,,Family Planning Choice,Familiy Planning Choice,Familiy Planning Choice,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
+12d5289d-0d24-409b-961e-59495d47a21c,,Post Natal Care Section,Post Natal Care Section,Post Natal Care Section,,,,Misc,N/A,
 71611db1-cd65-4ae1-9d59-537b82fe7289,,ANC CARD FORM,ANC CARD FORM,ANC CARD FORM,,,,Misc,N/A,
