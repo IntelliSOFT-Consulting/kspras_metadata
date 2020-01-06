@@ -45,3 +45,6 @@ bc851ec1-9fb7-49da-acd7-1a61168002fe,,TelephoneNo,Contact Number,java.lang.Strin
 b4417be2-9990-4e33-8e28-42b6453c13fb,,AlternateContactPersonLocation,Location,java.lang.String,,yes,Edit:PAT,,
 e23be2e9-00d1-4cfc-aa2e-0598b1dd3c3f,,AlternateContactPersonRelationship,Relationship,org.openmrs.Concept,39749542-413c-4186-9cc0-42948908705d,yes,Edit:PAT,,
 699dded0-f413-45f3-831c-710d85d9855a,,ContactPersonDisclosedTo,Has this person been disclosed to?,org.openmrs.Concept,0eafd7bd-dc93-4324-9d8d-14fbaa7257e4,yes,Edit:PAT,,
+204b1a69-afa3-4c5d-929c-9a86731f978b,,TransferredOnART,Transferred in on ART?,java.lang.Boolean,,yes,Edit:PAT,,
+826036b9-9951-4bdc-837f-27321086ee79,,NameOfClinic,Name of Clinic,java.lang.String,,yes,Edit:PAT,,
+831ba63c-d28f-48fd-ad5b-b89c620bb8f7,,DateTransferredIn,Date Transferred in,org.openmrs.util.AttributableDate,,yes,Edit:PAT,,
