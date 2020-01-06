@@ -15,11 +15,12 @@ f78e08ab-124f-4983-9c94-fb23e2343518,"Delivery Outcome, Live Birth(LB); Delivery
 0bdfb9bc-7f76-4690-990a-a892888b74eb,,"Maternity card, Delivery Outcome;
 Maternal Outcome(last  Follow up);Date Mother/Baby Transferred to ART;
 ARV Mother Discharged With",Other Infant Information,Other information,Misc,N/A,,
-02f876c6-c9c0-4a76-9a3e-4027e1cfb777,Negative;Positive;Unknown,,Infant HIV Status,,Question,Coded,,
+02f876c6-c9c0-4a76-9a3e-4027e1cfb777,Negative;Positive,,Infant HIV Status,,Question,Coded,,
 fed906cd-33eb-4b04-bce7-8d7ed74e5bb8,,,Infant Received ARV Prophylaxis at Birth,Infant Received ARV Prophylaxis at Birth,Question,Boolean,,
 f2744e4c-2187-11ea-978f-2e728ce88125,"High maternal Viral Load>1000copies/ml during the last 4 weeks before delivery;An infant born to HIV infected woman who has received less than 4 weeks of ART at the time of delivery;An infant born to a newly diagnosed HIV infected woman during labour, delivery and postpartum",,High Risk Infant Classification,Infant Risk Classification,Question,Coded,,
 f2745540-2187-11ea-978f-2e728ce88125,High Risk Infant;Low Risk Infant,,Infant's Risk Status,Infant's Risk Status,Question,Coded,,
 f27444ba-2187-11ea-978f-2e728ce88125,"Infant Final Status, Discharged Negative;Infant Final Status, Referred To ART Clinic;Infant Final Status, Lost To Follow up;Infant Final Status, Transferred",,Infant's Final Status,Infant's Final Status,Question,Coded,,
+cab7181c-40f0-43ed-ae7a-8949863d8273,"Infant Final Status, Referred To ART Clinic;Infant Final Status, Lost To Follow up;Infant Final Status, Transferred","",Infant's Final Status(Positive infants),Infant's Final Status,Question,Coded,"",""
 f2743fa6-2187-11ea-978f-2e728ce88125,NVP;AZT+NVP,,ARV Baby Discharged with,ARV Baby Discharged with,Question,Coded,,
-8e6751eb-8435-49eb-85cb-eb1a3c5c585a,,Infant HIV Status;Infant Received ARV Prophylaxis at Birth;Infant's Risk Status;High Risk Infant Classification;Infant's Final Status;ARV Baby Discharged with;Infants ART Number(For Confimed Positive Infants),Infant Information,Infant Information,Misc,N/A,,
+8e6751eb-8435-49eb-85cb-eb1a3c5c585a,,Infant HIV Status;Infant Received ARV Prophylaxis at Birth;Infant's Risk Status;High Risk Infant Classification;Infant's Final Status;Infant's Final Status(Positive infants);ARV Baby Discharged with;Infants ART Number(For Confimed Positive Infants),Infant Information,Infant Information,Misc,N/A,,
 84253d19-1c16-45c0-8541-f0bbf11f4112,,"Maternity card, General Information;Other Infant Information;Infant Information",Maternity Form,Maternity Form,Misc,N/A,,
