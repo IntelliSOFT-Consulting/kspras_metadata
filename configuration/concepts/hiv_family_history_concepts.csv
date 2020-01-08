@@ -12,7 +12,7 @@ d56c17b5-501a-4d2d-b1bb-2cb80e4da056,,Occupation - Housewife,Housewife,Occupatio
 3d124657-7776-4f0d-9e96-49f14b20d7f4,,Occupation - Other uniformed forces,Other uniformed forces,"Occupation - Other Uniformed Forces(Police , Prison , Wildlife , Fire Brigades etc.)Other Uniformed forces",,,,Misc,N/A,
 0c493079-9882-47e5-9a10-361405560678,,Occupation - Farmer,Farmer,Occupation - Farmer,,,,Misc,N/A,
 32c8b2bd-1a99-43be-b989-c4a51e604d93,,Occupation - Business trader,Business Trader,Occupation - Business trader,,,,Misc,N/A,
-94d8dc78-0e00-4525-81bc-31db6961bc5e,"",Occupation - Business/trader,Business/Trader,Occupation - Business/trader,"","","",Misc,N/A,""
+94d8dc78-0e00-4525-81bc-31db6961bc5e,,Occupation - Business/trader,Business/Trader,Occupation - Business/trader,,,,Misc,N/A,
 f3518564-c580-4663-acce-021369fea26f,,Salaried Employee,Salaried Employee,Salaried Employee,,,,Misc,N/A,
 f6ae430a-a197-426e-b54f-08f45fae0ad0,,Occupation - Other (Specify),Other (Specify),Occupation - Other (Specify),,,,Misc,N/A,
 c221869a-3f10-11e4-adec-0800271c1b75,,Occupation,Occupation,Occupation,,,,Question,Coded,Occupation - Unemployed ; Occupation - Student ; Occupation - Housewife ; Occupation - Military Personnel ; Occupation - Other uniformed forces ; Occupation - Farmer ;Occupation - Business/trader ; Salaried Employee ; Occupation - Other (Specify)
@@ -51,5 +51,11 @@ a5bcac8d-305a-4b46-9121-014d72ac4c2d,,Don't Know,Don't Know,Don't Know,,,,Misc,N
 75e39180-fe17-4075-9642-f389e6d1ea20,,Result of HTS,Result of HTS,Result of HTS,,,,Question,Coded,Positive ; Negative
 7bec5791-6cdc-4fe4-bfbb-89cbf3ab03b4,,Unique ART No/HEI No,Unique ART No/HEI No,Unique ART No/HEI No,,,,Question,Text,
 1d8f0541-f69d-483f-accc-2e2d48bd5f52,,Family History Marital Status And Occupation,Marital Status And Occupation,Family History Marital Status And Occupation,,,,Misc,N/A,
+bdcdd49a-9eb6-40f3-9dc7-d20c3af63dae,,Family Member Contacts Tested,Family Member Contacts Tested,Family Member Contacts Tested,,,,Question,Boolean,
+81a23ef4-7462-4712-a243-568f26f6c93d,,Family Member Contacts Status,Family Member Contacts Status,Family Member Contacts Status,,,,Question,Coded,Positive ; Negative
+e3a68919-0744-4d05-9ea1-923bbddc5682,,Number of indexes Offered for Testing,Number Indexes Offered for testing,Number of index cases offered index testing services,,,,Question,Numeric,
+87bf8def-a463-4b59-98d9-627f539674e0,,Number of Indexes accepted to be tested,Number of Indexes accepted to be testing,Number of Indexes accepted to be testing,,,,Question,Numeric,
+84ed666a-3f47-4f78-9836-b68bd8c85c2b,,Number of Contacts Elicited(Brought),Number of Contacts Elicited(Brought),Number of Contacts Elicited(Brought),,,,Question,Numeric,
+7ff758d4-f56f-4937-9852-d4c3df1bea1b,,Number of contacts tested,Number of contacts tested,Number of contacts tested,,,,Question,Numeric,
 63ec7ffb-8a42-42ec-9aaa-4758955205b2,,General Family Information,General Family Information,General Family Information,,,,Misc,N/A,
 c2a6c127-e3ba-426f-a4ae-83713dde0736,,HIV CARE - Family History Data,Family History Data,HIV CARE - Family History Data,,,,Misc,N/A,

@@ -1,4 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:6,_order:134
+6aec4047-e68e-48d5-8caf-f06dc84de494,,ANC No,ANC General Information,General Information,Misc,N/A,"",""
 f4ceb855-94ff-44e8-8ece-b05382cc3945,Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilepsy(Seizure); Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ;Femur;Spine(Medical History);Not Applicable,,Medical History,,Question,Coded,,
 43071f3e-469b-4e5e-b657-e8d12fd6ab13,Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilepsy; Diabetes ; Twins;Not Applicable,,Past Family History,,Question,Coded,,
 89245dc9-9e33-4ef2-a6ae-4a6070594d1f,Smoking ; Health Of The Husband ; Alcohol;Not Applicable,,Social History,,Question,Coded,,
@@ -6,7 +7,7 @@ f4ceb855-94ff-44e8-8ece-b05382cc3945,Hypertension ; Cardiac Disease;Tuberclosis 
 90d0dc2b-0669-4adb-b979-b8dea4af6bab,,Medical History ; Past Family History ;Social History;Blood Transfusion;Reason For Blood Transfusion,Past medical And surgical history,,Misc,N/A,,
 9b80e82d-c494-4632-bac7-662269bd7472,Normal ; Heavy,,Amount,,Question,Coded,,
 609d59f7-79d1-4748-ad86-57c831dbff60,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never",,FP Method,,Question,Coded,,
-33951822-b0aa-4bd1-b750-710f6f9eefa2,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never","","ANC,FP Method",FP Method Used,Question,Coded,"",""
+33951822-b0aa-4bd1-b750-710f6f9eefa2,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never",,"ANC,FP Method",FP Method Used,Question,Coded,,
 742ef567-5d90-4abc-b567-44eb8a65a474,,"Number Of Days On Menses ; Amount;ANC,FP Method; Reason For not Using FP;Date Started FP; Reason For Discontinuation ",Menstrual And Contraceptive History,,Misc,N/A,,
 f1d88434-62db-417b-81c2-245d7955564c,,,Abortion,,Question,Boolean,,
 265fc6c7-4708-48d9-bdbb-55a25dcb2c97,Hospital ; Home ; PHCC ; PHCU ; Private Health Facility,,Place of Delivery,,Question,Coded,,
@@ -42,4 +43,4 @@ Drugs given to the Baby;
 Condition of the mother;
 Date Vitamin 'A' received by Mother;
 Family Planning Choice",Post Natal Care Section,,Misc,N/A,,
-71611db1-cd65-4ae1-9d59-537b82fe7289,,Past medical And surgical history ; Menstrual And Contraceptive History; Past Obstetric/Gynecological History ; Present Pregnancy ; Maternal Care Information ; Birth Plan Information;Post Natal Care Section,ANC CARD FORM,,Misc,N/A,,
+71611db1-cd65-4ae1-9d59-537b82fe7289,,ANC General Information;Past medical And surgical history ; Menstrual And Contraceptive History; Past Obstetric/Gynecological History ; Present Pregnancy ; Maternal Care Information ; Birth Plan Information;Post Natal Care Section,ANC CARD FORM,,Misc,N/A,,
