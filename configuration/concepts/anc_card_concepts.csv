@@ -1,4 +1,6 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:133,Data class,Data type,Answers
+167d05f8-bff6-4de5-8ad9-aa6ddaea377e,"",ANC No,ANC No,ANC No,"","","",Question,Text,""
+6aec4047-e68e-48d5-8caf-f06dc84de494,"",ANC General Information,General Information,General Information,"","","",Misc,N/A,""
 8961717d-b30d-46b1-b917-ff5a463fcb51,,Hypertension,Hypertension,Hypertension,,,,Misc,N/A,
 d04f4562-a51f-494f-932f-0abc58440539,,Cardiac Disease,Cardiac Disease,Cardiac Disease,,,,Misc,N/A,
 aff60779-2525-4a92-8413-8bd3a6b86103,,Kidney Disease,Kidney Disease,Kidney Disease,,,,Misc,N/A,
@@ -39,7 +41,7 @@ cdde742d-bce2-49da-94fd-8717040d914b,,Female sterilization,Female sterilization,
 bc453345-54eb-4d7c-b7d9-9075bd51fad2,,Natural Methods,Natural Methods,Natural Methods,,,,Misc,N/A,
 f300d53c-a935-4404-ae63-c771a816d663,,None/Never,None/Never,None/Never,,,,Misc,N/A,
 609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,Family Planning Method Used,Family Method Used,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
-33951822-b0aa-4bd1-b750-710f6f9eefa2,"","ANC,FP Method",FP  Method Used,Family Planning Method Used,"","","",Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
+33951822-b0aa-4bd1-b750-710f6f9eefa2,,"ANC,FP Method",FP  Method Used,Family Planning Method Used,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
 cdfb6ca3-4576-4fcb-b9b7-b7a06dfd912d,,Reason For not Using FP,Reason,Reason For not Using FP,,,,Question,Text,
 2ca2333b-2b84-42cb-85ad-cf3964aca96b,,Date Started FP,"Date Started ",Date Started FP,,,,Question,Date,
 f2c1c9f8-c85b-4ff5-9e40-c1f1fb81ef10,,When,When,When,,,,Question,Date,

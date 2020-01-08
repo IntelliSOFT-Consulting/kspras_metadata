@@ -1,6 +1,6 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:122,Data class,Data type,Answers
-7482b976-56fe-44b0-b30f-1e957cc0cbb0,,Date First Tested HIV + ,Date Tested HIV + ,Date First Tested HIV + ,,,,Question,Date,
-2e528392-b1dc-4bcc-bf7a-cc8250082174,,Place Tested HIV + ,Place,Place,,,,Question,Text,
+7482b976-56fe-44b0-b30f-1e957cc0cbb0,,"Date First Tested HIV + ","Date Tested HIV + ","Date First Tested HIV + ",,,,Question,Date,
+2e528392-b1dc-4bcc-bf7a-cc8250082174,,"Place Tested HIV + ",Place,Place,,,,Question,Text,
 8eaae386-92dd-47df-b39e-89e60a42d00b,,First HIV Test Information,First HIV Test Information,First HIV Test Information,,,,Misc,N/A,
 ec5d13de-ee22-4d8a-b39c-bdee6cd3d88c,,VCT Clinic,VCT,VCT Clinic,,,,Misc,N/A,
 04c64451-9e19-43e9-ac3d-9333824bc1dd,,TB Clinic,TB Clinic,TB Clinic,,,,Misc,N/A,
@@ -16,6 +16,8 @@ f1a35737-434c-46e9-8c46-4e17b98e305d,,HIV - Entry Point,Entry Point,Entry Point,
 80732fbe-6f6f-4fca-bbd6-3507e411af92,,Other Entry Point,Other,"Other Entry Point, Other",,,,Question,Text,
 fee1095f-a0a7-4694-a352-4e88d6ce6c7c,,Date of HIV Retesting Before ART,Date of Hiv Retesting Before ART,Date of Hiv Retesting Before ART,,,,Question,Date,
 13d6e54e-c8bb-41b2-902b-6ad193f77f40,,Place of HIV Retesting Before ART,Place,Place of Hiv Retesting Before ART,,,,Question,Text,
+01c6969b-2457-4851-ad9c-77362ef9071d,"",Tested as Couple,Tested as Couple?,Tested as Couple,"","","",Question,Boolean,""
+3886c786-c857-4b55-a57a-ab4c96b52327,"",Joint Couple Pre-testing Counselling,Joint Couple Pre-testing Counselling?,Joint Couple Pre-testing Counselling,"","","",Question,Boolean,""
 b0c04b40-7322-4fa3-92d4-13583c6ba68a,,HIV Retesting Information,HIV Retesting Information,HIV Retesting Information,,,,Misc,N/A,
 1d2b7c28-eada-404a-9fab-2075a91ce069,,Transferred in on ART?,Transferred in on ART?,Transferred in on ART?,,,,Question,Boolean,
 14026b25-6642-4002-a5ed-2049fb82afb2,,Name of Clinic,Name of Clinic,Name of Clinic,,,,Question,Text,

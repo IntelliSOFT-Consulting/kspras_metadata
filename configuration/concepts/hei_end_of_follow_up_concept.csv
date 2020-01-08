@@ -40,11 +40,11 @@ c266f8aa-c32a-11e9-9cb5-2a2ae2dbcce4,,Fourth Attempt Method,Method,Hei End Of Fo
 6054d912-3c60-4567-8154-fdb0633b98d8,,Follow up Outcome Negative(Fourth Attempt),Negative,Follow up Outcome Negative(Fourth Attempt),,,,Misc,N/A,
 a588dae6-b2d0-4921-9feb-8921ce70d7ad,,Follow up Outcome Others(Fourth Attempt),Other Outcome,Follow up Outcome Others(Fourth Attempt),,,,Misc,N/A,
 b670d223-8404-4756-8be0-2e24656b3de4,,Follow up Outcome Others Specify(Fourth Attempt),Others Specify,Follow up Outcome Others Specify(Fourth Attempt),,,,Question,Text,
-c266f9d6-c32a-11e9-9cb5-2a2ae2dbcce4,,Fourth Attempt Outcome,Outcome,Hei End Of Follow up (Fourth Attempt Outcome),,,,Question,Coded,Follow up Outcome Positive(Fourth Attempt); Follow up Outcome Negative(Fourth Attempt) ;Follow up Outcome Others(Fourth Attempt) 
+c266f9d6-c32a-11e9-9cb5-2a2ae2dbcce4,,Fourth Attempt Outcome,Outcome,Hei End Of Follow up (Fourth Attempt Outcome),,,,Question,Coded,"Follow up Outcome Positive(Fourth Attempt); Follow up Outcome Negative(Fourth Attempt) ;Follow up Outcome Others(Fourth Attempt) "
 c266fb02-c32a-11e9-9cb5-2a2ae2dbcce4,,Hei End Of Follow up (Fourth  Attempt Details),Fourth  Attempt,Hei End Of Follow up (Fourth  Attempt Details),,,,Misc,N/A,
 c266fc2e-c32a-11e9-9cb5-2a2ae2dbcce4,,Discharge Negative,Discharge Negative,Discharge Negative,,,,Misc,N/A,
 c266fd50-c32a-11e9-9cb5-2a2ae2dbcce4,,Died,Died,Died,,,,Misc,N/A,
 c2670070-c32a-11e9-9cb5-2a2ae2dbcce4,,Referred To ART Clinic,Referred To ART Clinic,Referred To ART Clinic,,,,Misc,N/A,
-c26701b0-c32a-11e9-9cb5-2a2ae2dbcce4,,Final Status(Transferred) ,Transferred,Final Status(Transferred) ,,,,Misc,N/A,
-c26702dc-c32a-11e9-9cb5-2a2ae2dbcce4,,Final Status,Final Status,Final Status,,,,Question,Coded,Discharge Negative; Lost;Died;Referred To ART Clinic;Final Status(Transferred) 
+c26701b0-c32a-11e9-9cb5-2a2ae2dbcce4,,"Final Status(Transferred) ",Transferred,"Final Status(Transferred) ",,,,Misc,N/A,
+c26702dc-c32a-11e9-9cb5-2a2ae2dbcce4,,Final Status,Final Status,Final Status,,,,Question,Coded,Discharge Negative; Lost;Died;Referred To ART Clinic;Final Status(Transferred);Unknown
 c2670412-c32a-11e9-9cb5-2a2ae2dbcce4,,HEI END OF FOLLOW UP FORM,HEI END OF FOLLOW UP FORM,HEI END OF FOLLOW UP FORM,,,,Misc,N/A,
