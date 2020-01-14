@@ -1,11 +1,46 @@
 <config>
   <globalProperties>
-    <globalProperty>
+  <globalProperty>
       <property>emrapi.sqlSearch.activeHeiPatients</property>
       <value>select distinct concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,pi.identifier as identifier,concat("",p.uuid) as uuid,concat("",v.uuid) as activeVisitUuid,IF(va.value_reference = "Admitted", "true", "false") as hasBeenAdmitted 
 	  from visit v join person_name pn on v.patient_id = pn.person_id and pn.voided = 0 join patient_identifier pi on v.patient_id = pi.patient_id join patient_identifier_type pit on pi.identifier_type = pit.patient_identifier_type_id 
 	  join global_property gp on gp.property="bahmni.primaryIdentifierType" and gp.property_value=pit.uuid join person p on p.person_id = v.patient_id left outer join visit_attribute va on va.visit_id = v.visit_id and va.attribute_type_id = 
 	  (select visit_attribute_type_id from visit_attribute_type where name="Admission Status") and va.voided = 0 where v.date_stopped is null AND v.visit_type_id = (select visit_type_id from visit_type where name = 'HEI' ) and v.voided = 0 </value>
+    </globalProperty>
+    <globalProperty>
+      <property>bahmni.sqlGet.registrationPatientAppointmentSeach</property>
+      <value>SELECT DISTINCT 
+     pa.patient_id AS 'patientId',
+     pa.start_date_time AS 'appointmentDate', 
+     pa.status AS 'appointmentStatus', pa.appointment_kind FROM patient_appointment pa 
+     LEFT JOIN person p ON p.person_id = pa.patient_id AND p.voided IS FALSE AND pa.voided IS FALSE 
+     LEFT JOIN patient_appointment maxPA ON pa.patient_appointment_id = (SELECT MAX(maxPA.patient_appointment_id) AND maxPA.patient_id = p.person_id) 
+     WHERE pa.appointment_kind = 'Scheduled' AND p.uuid = ${patientUuid}</value>
+    </globalProperty>
+     <globalProperty>
+      <property>emrapi.sqlSearch.registrationPatientsSeachOnVisitDate</property>
+      <value>SELECT distinct pai.identifier, pv.uuid, v.uuid AS "visitUuid",
+    pnA.given_name as givenName, pnA.middle_name as middleName, pnA.family_name as familyName,
+    pv.gender, pv.birthdate as birthDate, pt.date_created as dateCreated,
+    TIMESTAMPDIFF(YEAR, pv.birthdate, CURDATE()) AS age,
+    v.date_started AS visitDate,
+    pattr.value as 'UniqueArtNo', cn1.name as 'MaritalStatus',
+    pa.start_date_time AS 'appointmentDate', pa.status AS 'appointmentStatus' 
+FROM visit v 
+    LEFT JOIN location l on (l.uuid=${visit_location_uuid} and l.location_id = v.location_id) 
+    LEFT JOIN patient_identifier pai on pai.patient_id = v.patient_id and pai.preferred = 1 
+    LEFT JOIN patient pt on pai.patient_id = pt.patient_id 
+    LEFT JOIN person pv on pv.person_id = pai.patient_id 
+    LEFT JOIN person_name pnA on pnA.person_id = pv.person_id 
+    LEFT JOIN person_attribute_type pattrt on pattrt.name = 'UniqueArtNo' and pattrt.retired = 0
+    LEFT JOIN person_attribute pattr on pattr.person_attribute_type_id = pattrt.person_attribute_type_id and pattr.person_id = pv.person_id 
+    LEFT JOIN person_attribute_type pattrtM on pattrtM.name = 'MaritalStatus' and pattrtM.retired = 0
+    LEFT JOIN person_attribute pattrM on pattrM.person_attribute_type_id = pattrtM.person_attribute_type_id and pattrM.person_id = pv.person_id 
+    LEFT JOIN concept_name cn1 ON (cn1.concept_name_type = "FULLY_SPECIFIED" AND cn1.voided is false AND cn1.concept_id = pattrM.value)
+    LEFT JOIN patient_appointment pa ON (pv.person_id = pa.patient_id AND pv.voided IS FALSE AND pa.voided IS FALSE AND pa.appointment_kind = 'Scheduled') 
+    LEFT JOIN patient_appointment maxPA ON (pa.patient_appointment_id = (SELECT MAX(maxPA.patient_appointment_id) AND maxPA.patient_id = pa.patient_id)) 
+where str_to_date(v.date_started, '%Y-%m-%d') = str_to_date(${patient_visit_start_date}, '%Y-%m-%d') 
+group by pai.identifier</value>
     </globalProperty>
 	<globalProperty>
 	 <property>emrapi.sqlSearch.activePMTCTPatients</property>
