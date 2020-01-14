@@ -1,6 +1,7 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:150,Data class,Data type,Answers
 e559d5a8-2171-11ea-978f-2e728ce88125,,"Hiv Test, inconclusive",Inconclusive,"Hiv Test, inconclusive",,,,Misc,N/A,
-e559d882-2171-11ea-978f-2e728ce88125,,Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),,,,Question,Coded,"Positive;Negative;Hiv Test, inconclusive"
+70e82288-67f8-4fc1-bafc-e821c3fdd819,"",Refused To Disclose,Refused To Disclose,Refused To Disclose,"","","",Misc,N/A,""
+e559d882-2171-11ea-978f-2e728ce88125,,Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),,,,Question,Coded,"Positive;Negative;Hiv Test, inconclusive;Refused To Disclose"
 e559d9ea-2171-11ea-978f-2e728ce88125,,"HIV test,N/A",N/A,"HIV test,N/A",,,,Misc,N/A,
 e559db34-2171-11ea-978f-2e728ce88125,,"Maternity card, Place Test Hiv",Place Tested HIV,"Maternity card, Place Test Hiv",,,,Question,Text,
 "e559dc7e-2171-11ea-978f-2e728ce88125
@@ -54,7 +55,7 @@ f2744bcc-2187-11ea-978f-2e728ce88125,,"Infant Final Status, Referred To ART Clin
 f2744a82-2187-11ea-978f-2e728ce88125,,"Infant Final Status, Lost To Follow up",Lost To Follow up,"Infant Final Status, Lost To Follow up",,,,Misc,N/A,
 f274491a-2187-11ea-978f-2e728ce88125,,"Infant Final Status, Transferred",Transferred,"Infant Final Status, Transferred",,,,Misc,N/A,
 f27444ba-2187-11ea-978f-2e728ce88125,,Infant's Final Status,Infant's Final Status,Infant's Final Status,,,,Question,Coded,"Infant Final Status, Discharged Negative;Infant Final Status, Referred To ART Clinic;Infant Final Status, Lost To Follow up;Infant Final Status, Transferred"
-cab7181c-40f0-43ed-ae7a-8949863d8273,"",Infant's Final Status(Positive infants),Infant's Final Status,Infant's Final Status,"","","",Question,Coded,"Infant Final Status, Referred To ART Clinic;Infant Final Status, Lost To Follow up;Infant Final Status, Transferred"
+cab7181c-40f0-43ed-ae7a-8949863d8273,,Infant's Final Status(Positive infants),Infant's Final Status,Infant's Final Status,,,,Question,Coded,"Infant Final Status, Referred To ART Clinic;Infant Final Status, Lost To Follow up;Infant Final Status, Transferred"
 f2744370-2187-11ea-978f-2e728ce88125,,Infants ART Number(For Confimed Positive Infants),Infants ART Number(For Confimed Positive Infants),Infants ART Number(For Confimed Positive Infants),,,,Question,Text,
 f2744208-2187-11ea-978f-2e728ce88125,,AZT+NVP,AZT+NVP,AZT+NVP,,,,Misc,N/A,
 "
