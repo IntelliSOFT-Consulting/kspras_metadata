@@ -8,6 +8,85 @@
 	  (select visit_attribute_type_id from visit_attribute_type where name="Admission Status") and va.voided = 0 where v.date_stopped is null AND v.visit_type_id = (select visit_type_id from visit_type where name = 'HEI' ) and v.voided = 0 </value>
     </globalProperty>
     <globalProperty>
+      <property>emrapi.sqlSearch.heiToArtPatientQueue</property>
+      <value>select name , identifier ,uuid ,hasBeenAdmitted from (
+select distinct(pid) , identifier, name , uuid ,activeVisitUuid, hasBeenAdmitted   from (
+select t1.person_id as 'pid' , t1.concept_id , t1.value_coded  as 'firstpcr',t1.date_created from obs t1
+left join person_attribute pa on t1.person_id = pa.person_id
+where t1.date_created = 
+(select MAX(t2.date_created) from obs t2 where t2.person_id = t1.person_id and t2.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (First PCR Results)' and concept_name_type = 'fully_specified')) and t1.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (First PCR Results)' and concept_name_type = 'fully_specified') and t1.value_coded = 
+(select concept_id from concept_name where name = 'HEI Results Positive' and concept_name_type = 'FULLY_SPECIFIED') and pa.person_attribute_type_id = 
+(select person_attribute_type_id from person_attribute_type where name = 'TypeofPatient') and pa.value in ( 
+(select concept_id from concept_name where name = 'HeiRelationship' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0) , 
+(select concept_id from concept_name where name = 'NewPatient' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0)) and pa.voided = 0
+union all
+select t1.person_id as 'pid' , t1.concept_id , t1.value_coded  as 'firstpcr',t1.date_created from obs t1
+left join person_attribute pa on t1.person_id = pa.person_id
+where t1.date_created = 
+(select MAX(t2.date_created) from obs t2 where t2.person_id = t1.person_id and t2.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Rapid Test At 9 Months Results)' and concept_name_type = 'fully_specified')) and t1.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Rapid Test At 9 Months Results)' and concept_name_type = 'fully_specified') and t1.value_coded = 
+(select concept_id from concept_name where name = 'HEI Results Positive' and concept_name_type = 'FULLY_SPECIFIED') and pa.person_attribute_type_id = 
+(select person_attribute_type_id from person_attribute_type where name = 'TypeofPatient') and pa.value in ( 
+(select concept_id from concept_name where name = 'HeiRelationship' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0) , 
+(select concept_id from concept_name where name = 'NewPatient' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0)) and pa.voided = 0
+union all
+select t1.person_id as 'pid' , t1.concept_id , t1.value_coded  as 'firstpcr',t1.date_created from obs t1
+left join person_attribute pa on t1.person_id = pa.person_id
+where t1.date_created = 
+(select MAX(t2.date_created) from obs t2 where t2.person_id = t1.person_id and t2.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Second PCR Results)' and concept_name_type = 'fully_specified')) and t1.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Second PCR Results)' and concept_name_type = 'fully_specified') and t1.value_coded = 
+(select concept_id from concept_name where name = 'HEI Results Positive' and concept_name_type = 'FULLY_SPECIFIED') and pa.person_attribute_type_id = 
+(select person_attribute_type_id from person_attribute_type where name = 'TypeofPatient') and pa.value in ( 
+(select concept_id from concept_name where name = 'HeiRelationship' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0) , 
+(select concept_id from concept_name where name = 'NewPatient' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0)) and pa.voided = 0
+union all
+select t1.person_id as 'pid' , t1.concept_id , t1.value_coded  as 'firstpcr',t1.date_created from obs t1
+left join person_attribute pa on t1.person_id = pa.person_id
+where t1.date_created = 
+(select MAX(t2.date_created) from obs t2 where t2.person_id = t1.person_id and t2.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Repeat PCR Results)' and concept_name_type = 'fully_specified')) and t1.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (Repeat PCR Results)' and concept_name_type = 'fully_specified') and t1.value_coded = 
+(select concept_id from concept_name where name = 'HEI Results Positive' and concept_name_type = 'FULLY_SPECIFIED') and pa.person_attribute_type_id = 
+(select person_attribute_type_id from person_attribute_type where name = 'TypeofPatient') and pa.value in ( 
+(select concept_id from concept_name where name = 'HeiRelationship' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0) , 
+(select concept_id from concept_name where name = 'NewPatient' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0)) and pa.voided = 0
+union all
+
+select t1.person_id as 'pid' , t1.concept_id , t1.value_coded  as 'firstpcr',t1.date_created from obs t1
+left join person_attribute pa on t1.person_id = pa.person_id
+where t1.date_created = 
+(select MAX(t2.date_created) from obs t2 where t2.person_id = t1.person_id and t2.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (18Months Rapid Test  Results)' and concept_name_type = 'fully_specified')) and t1.concept_id = 
+(select concept_id from concept_name where name = 'HEI Testing (18Months Rapid Test  Results)' and concept_name_type = 'fully_specified') and t1.value_coded = 
+(select concept_id from concept_name where name = 'HEI Results Positive' and concept_name_type = 'FULLY_SPECIFIED') and pa.person_attribute_type_id = 
+(select person_attribute_type_id from person_attribute_type where name = 'TypeofPatient') and pa.value in ( 
+(select concept_id from concept_name where name = 'HeiRelationship' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0) , 
+(select concept_id from concept_name where name = 'NewPatient' and concept_name_type = 'FULLY_SPECIFIED' and voided = 0)) and pa.voided = 0
+) tHeitoArt
+inner join (
+select distinct concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name, p.person_id as 'pids',
+pi.identifier as identifier, 
+concat("",p.uuid) as uuid,concat("",v.uuid) as activeVisitUuid,
+IF(va.value_reference = "Admitted", "true", "false") as hasBeenAdmitted 
+from visit v 
+join person_name pn on v.patient_id = pn.person_id and pn.voided = 0 
+join patient_identifier pi on v.patient_id = pi.patient_id 
+join patient_identifier_type pit on pi.identifier_type = pit.patient_identifier_type_id 
+join global_property gp on gp.property="bahmni.primaryIdentifierType" and gp.property_value=pit.uuid
+join person p on p.person_id = v.patient_id 
+left outer join visit_attribute va on va.visit_id = v.visit_id and va.attribute_type_id = 
+(select visit_attribute_type_id from visit_attribute_type 
+where name="Admission Status") 
+and va.voided = 0 
+where v.date_stopped is null 
+) tDemographics on tHeitoArt.pid = tDemographics.pids
+)tHeiToArtPatients</value>
+    </globalProperty>
+    <globalProperty>
       <property>bahmni.sqlGet.registrationPatientAppointmentSeach</property>
       <value>SELECT DISTINCT 
      pa.patient_id AS 'patientId',
