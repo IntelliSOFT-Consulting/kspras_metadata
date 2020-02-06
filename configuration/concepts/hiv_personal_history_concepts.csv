@@ -11,6 +11,8 @@ dfa49cd5-3859-4184-84cc-ada016092680,,STI Clinic,STI Clinic,STI Clinic,,,,Misc,N
 8244fd10-f813-4e52-a13e-9e3df7cd599c,,Entry Point - OPD,OPD,Entry Point - OPD,,,,Misc,N/A,
 cb976d23-ab3e-4369-a88f-73f56505783b,,CBTC,CBTC,CBTC,,,,Misc,N/A,
 8fc10249-842b-4944-8018-c758bd0263d8,,Index Testing,Index Testing,Index Testing,,,,Misc,N/A,
+1da6f29c-47f6-11ea-b8c4-7747c45cb2fb,,"Emergency, entry point",Emergency,"","","","",Misc,N/A,
+23784478-47f6-11ea-8584-9b5a4858c6c1,,Malnutrition Facilities,Malnutrition Facilities,"","","","",Misc,N/A,
 0464a6fd-d3c5-427b-b147-3f156ac86d63,,Other Entry Point (Specify),Other (Specify),Other Entry Point (Specify),,,,Misc,N/A,
 f1a35737-434c-46e9-8c46-4e17b98e305d,,HIV - Entry Point,Entry Point,Entry Point,,,,Question,Coded,VCT Clinic;TB Clinic ; STI Clinic ; ANC Clinic ; In Patient ; Padeatric ; Entry Point - OPD; CBTC ; Index Testing ; Other Entry Point (Specify)
 80732fbe-6f6f-4fca-bbd6-3507e411af92,,Other Entry Point,Other,"Other Entry Point, Other",,,,Question,Text,
