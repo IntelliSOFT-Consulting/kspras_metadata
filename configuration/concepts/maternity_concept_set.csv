@@ -1,4 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:6,_order:151
+9fd6778e-219d-4f14-8c0c-816e31b981dd,Newly Tested At ANC ; Known Pos On ART ; Known Pos Not On ART,"",Entry to PMTCT,"",Question,Coded,"",""
 e559d882-2171-11ea-978f-2e728ce88125,"Positive;Negative;Hiv Test, inconclusive;Refused To Disclose",,Previous HIV test result(Within 6 months),,Question,Coded,,
 e559ddbe-2171-11ea-978f-2e728ce88125,,,"Maternity card, Mother tested in Maternity",Mother tested in Maternity,Question,Boolean,,
 e559e1d8-2171-11ea-978f-2e728ce88125,"Positive;Negative;Hiv Test, inconclusive",,"Maternity card, Status After Testing HIV",Status After Testing,Question,Coded,,
@@ -8,7 +9,7 @@ e559e52a-2171-11ea-978f-2e728ce88125,,,"Maternity card, New On ART"," New On ART
 2d5c9c96-2172-11ea-978f-2e728ce88125,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k,,"Maternity card, ART Regimen During Delivery",ART Regimen During Delivery,Question,Coded,,
 2d5c9e4e-2172-11ea-978f-2e728ce88125,,,"Maternity card,ART Newly Started in Labor",ART Newly Started in Labor,Question,Boolean,,
 2d5ca0c4-2172-11ea-978f-2e728ce88125,,"
-Previous HIV test result(Within 6 months);Maternity card, Place Test Hiv;Maternity card, Date Test Hiv;Maternity card, Mother tested in Maternity;Maternity card, Date tested in Maternity;Maternity card, Status After Testing HIV;Maternity Card, Known +ve On ART;Maternity card, New On ART;Maternity card, Date Started ART;Maternity card, ART Regimen During Pregnacy;Maternity card, ART Regimen During Delivery;Maternity card,ART Newly Started in Labor","Maternity card, General Information",General Information,Misc,N/A,,
+Entry to PMTCT;Previous HIV test result(Within 6 months);Maternity card, Place Test Hiv;Maternity card, Date Test Hiv;Maternity card, Mother tested in Maternity;Maternity card, Date tested in Maternity;Maternity card, Status After Testing HIV;Maternity Card, Known +ve On ART;Maternity card, New On ART;Maternity card, Date Started ART;Maternity card, ART Regimen During Pregnacy;Maternity card, ART Regimen During Delivery;Maternity card,ART Newly Started in Labor","Maternity card, General Information",General Information,Misc,N/A,,
 2d5caa60-2172-11ea-978f-2e728ce88125,"Delivery Outcome, Live Birth(LB); Delivery Outcome, Macerated Still Birth(MSB) ;Delivery Outcome, Fresh Still Birth(FSB);Delivery Outcome, Neonatal Death(ND)",,"Maternity card, Delivery Outcome",Delivery Outcome,Question,Coded,,
 f78e08ab-124f-4983-9c94-fb23e2343518,"Delivery Outcome, Live Birth(LB); Delivery Outcome, Macerated Still Birth(MSB) ;Delivery Outcome, Fresh Still Birth(FSB);Delivery Outcome, Neonatal Death(ND)",,Maternal Outcome(last  Follow up),Maternal Outcome at last follow up,Question,Coded,,
 6d26a9c9-23cd-44fe-82b2-251aca750711,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k,,ARV Mother Discharged With,ARV Mother Discharged With,Question,Coded,,
