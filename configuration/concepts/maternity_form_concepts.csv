@@ -1,4 +1,8 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:150,Data class,Data type,Answers
+310f13e9-349b-4d88-850b-045b3137b166,"",Newly Tested At ANC,Newly Tested At ANC,,"","","",Misc,N/A,""
+94b913f5-0c60-4a4a-abd0-519b2cb427bf,"",Known Pos On ART,Known Pos On ART,"","","","",Misc,N/A,""
+0ea13c7b-d7ce-40ad-b5a4-580e17dbf05f,"",Known Pos Not On ART,Known Pos Not On ART,"","","","",Misc,N/A,""
+9fd6778e-219d-4f14-8c0c-816e31b981dd,"",Entry to PMTCT,Entry to PMTCT,Entry to PMTCT,"","","",Question,Coded,Newly Tested At ANC ; Known Pos On ART ; Known Pos Not On ART
 e559d5a8-2171-11ea-978f-2e728ce88125,,"Hiv Test, inconclusive",Inconclusive,"Hiv Test, inconclusive",,,,Misc,N/A,
 70e82288-67f8-4fc1-bafc-e821c3fdd819,,Refused To Disclose,Refused To Disclose,Refused To Disclose,,,,Misc,N/A,
 e559d882-2171-11ea-978f-2e728ce88125,,Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),,,,Question,Coded,"Positive;Negative;Hiv Test, inconclusive;Refused To Disclose"

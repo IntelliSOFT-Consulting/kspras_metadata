@@ -11,17 +11,20 @@ dfa49cd5-3859-4184-84cc-ada016092680,,STI Clinic,STI Clinic,STI Clinic,,,,Misc,N
 8244fd10-f813-4e52-a13e-9e3df7cd599c,,Entry Point - OPD,OPD,Entry Point - OPD,,,,Misc,N/A,
 cb976d23-ab3e-4369-a88f-73f56505783b,,CBTC,CBTC,CBTC,,,,Misc,N/A,
 8fc10249-842b-4944-8018-c758bd0263d8,,Index Testing,Index Testing,Index Testing,,,,Misc,N/A,
-1da6f29c-47f6-11ea-b8c4-7747c45cb2fb,,"Emergency, entry point",Emergency,"","","","",Misc,N/A,
-23784478-47f6-11ea-8584-9b5a4858c6c1,,Malnutrition Facilities,Malnutrition Facilities,"","","","",Misc,N/A,
+1da6f29c-47f6-11ea-b8c4-7747c45cb2fb,,"Emergency, entry point",Emergency,,,,,Misc,N/A,
+23784478-47f6-11ea-8584-9b5a4858c6c1,,Malnutrition Facilities,Malnutrition Facilities,,,,,Misc,N/A,
 0464a6fd-d3c5-427b-b147-3f156ac86d63,,Other Entry Point (Specify),Other (Specify),Other Entry Point (Specify),,,,Misc,N/A,
 f1a35737-434c-46e9-8c46-4e17b98e305d,,HIV - Entry Point,Entry Point,Entry Point,,,,Question,Coded,VCT Clinic;TB Clinic ; STI Clinic ; ANC Clinic ; In Patient ; Padeatric ; Entry Point - OPD; CBTC ; Index Testing ; Other Entry Point (Specify)
 80732fbe-6f6f-4fca-bbd6-3507e411af92,,Other Entry Point,Other,"Other Entry Point, Other",,,,Question,Text,
 fee1095f-a0a7-4694-a352-4e88d6ce6c7c,,Date of HIV Retesting Before ART,Date of Hiv Retesting Before ART,Date of Hiv Retesting Before ART,,,,Question,Date,
 13d6e54e-c8bb-41b2-902b-6ad193f77f40,,Place of HIV Retesting Before ART,Place,Place of Hiv Retesting Before ART,,,,Question,Text,
-01c6969b-2457-4851-ad9c-77362ef9071d,"",Tested as Couple,Tested as Couple?,Tested as Couple,"","","",Question,Boolean,""
-3886c786-c857-4b55-a57a-ab4c96b52327,"",Joint Couple Pre-testing Counselling,Joint Couple Pre-testing Counselling?,Joint Couple Pre-testing Counselling,"","","",Question,Boolean,""
+01c6969b-2457-4851-ad9c-77362ef9071d,,Tested as Couple,Tested as Couple?,Tested as Couple,,,,Question,Boolean,
+3886c786-c857-4b55-a57a-ab4c96b52327,,Joint Couple Pre-testing Counselling,Joint Couple Pre-testing Counselling?,Joint Couple Pre-testing Counselling,,,,Question,Boolean,
 b0c04b40-7322-4fa3-92d4-13583c6ba68a,,HIV Retesting Information,HIV Retesting Information,HIV Retesting Information,,,,Misc,N/A,
 1d2b7c28-eada-404a-9fab-2075a91ce069,,Transferred in on ART?,Transferred in on ART?,Transferred in on ART?,,,,Question,Boolean,
+475590a2-1eab-4c3b-98d9-177bb873381c,"",Already On ART,Already On ART,Already On ART,"","","",Misc,N/A,""
+a5da1f5d-516e-4db4-adfb-a9758de916e7,"",New On ART,New On ART,New On ART,"","","",Misc,N/A,""
+a8fc166c-638c-4669-b486-0b2cd8eca561,"",Treatment Status,Treatment Status,Treatment Status,"","","",Question,Coded,"Already On ART ; New On ART "
 14026b25-6642-4002-a5ed-2049fb82afb2,,Name of Clinic,Name of Clinic,Name of Clinic,,,,Question,Text,
 2509d668-caa1-4223-8f70-b0b61eb5b39e,,Date Transferred in,Date Transferred in,Date Transferred in,,,,Question,Date,
 1ce0afd4-f6d2-4b80-b61a-11da81c760ce,,ART Transfer Information,ART Transfer Information,ART Transfer Information,,,,Misc,N/A,
