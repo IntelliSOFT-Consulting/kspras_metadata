@@ -21,7 +21,7 @@ c221869a-3f10-11e4-adec-0800271c1b75,,Occupation,Occupation,Occupation,,,,Questi
 53b3f5b4-85bc-415f-8e14-5bfc35cb2e89,,Family Member names,,,,,,Question,Text,
 da4c7442-f1b1-4d82-947a-1cdca78a35b4,,Sexual Partner?,,,,,,Question,Boolean,
 14467f43-c872-414b-945f-ad316a6ddf1b,,Spouse,,,,,,Misc,N/A,
-6cf4bfc2-32f1-4ff6-abe5-8a05b70c2b29,"",Sexual partner names,Sexual Partner's Names,"","","","",Question,Text,""
+6cf4bfc2-32f1-4ff6-abe5-8a05b70c2b29,,Sexual partner names,Sexual Partner's Names,,,,,Question,Text,
 59a508e8-f4ec-4c99-bf12-f8a952cd85d7,,Specify other sexual Partners,Other Specify,Specify other sexual partner Relationship,,,,Misc,N/A,
 5ad3e070-2c31-4dd9-8ef0-94cf945d9bbd,,Other sexual Partner Relationship Specify,Specify,Other sexual Partner Relationship Specify,,,,"Question ",Text,
 e2f0fc53-de7a-48b7-88fb-1d2c93527829,,Sexual Partner Relationship,Relationship,Sexual Partner Relationship,,,,Question,Coded,Spouse; Specify other sexual Partners
@@ -40,6 +40,7 @@ fe01b63c-289f-4e87-9e6d-46376cb3dcf6,,Sexual,Sexual,Sexual,,,,Misc,N/A,
 c1efa8a3-bdbe-4461-afc9-8db897f73797,,Sibling,Sibling,Sibling,,,,Misc,N/A,
 7d563689-1e2f-4d18-8407-c08361397d93,,Child,Child,Child,,,,Misc,N/A,
 1fe41951-aa3e-4517-9d90-eee66ee0dfde,,Wife,Wife,Wife,,,,Misc,N/A,
+6aac6f7c-f16b-4644-bb93-e239d86a088e,"",Other relationship,Other,Other,"","","",Misc,N/A,""
 2eed6753-c2b7-4b85-a099-a78beb4eaff3,,Family Member - Relationship,Relationship,Family Member - Relationship,,,,Question,Coded,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ;  Sibling ; Child
 a395dc8c-2129-4ac4-b5c3-b8c57f4f08b5,,Known,Known,Known,,,,Misc,N/A,
 a5bcac8d-305a-4b46-9121-014d72ac4c2d,,Don't Know,Don't Know,Don't Know,,,,Misc,N/A,
