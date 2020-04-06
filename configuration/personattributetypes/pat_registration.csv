@@ -33,6 +33,7 @@ b9cb0b28-e06a-4d62-b39b-adc5317ab9b2,,UniqueArtNo,Unique ART No.,java.lang.Strin
 21884b9f-2300-411b-adc0-af80954c4c69,,TreatmentSupporterTelephoneNumber,Treatment Supporter Telephone Number,java.lang.String,,yes,Edit:PAT,,
 0aa1708e-64a4-4edf-b02e-bc75bc4cd970,,TreatmentSupporterAddress,Treatment Supporter Address,java.lang.String,,yes,Edit:PAT,,
 4fae7ce5-327c-4fc5-8ff9-27e82293be2a,,TreatmentSupporterRelationship,Relationship,org.openmrs.Concept,a96339c8-4b87-4784-a6af-7bec7b291855,yes,Edit:PAT,,
+7d312094-2f68-4731-9dc7-3c0502bcc07e,"",SpecifyOtherSupporterRelationship,Specify,java.lang.String,"","",Edit:PAT,"",""
 ec95bdcd-8bb5-4b29-95bc-4fe600df3f07,,HomeCareProvidedBy,Community outreach provider/worker,java.lang.String,,yes,Edit:PAT,,
 c98d1ea8-ec7e-442d-86bc-4ed69441d98b,,AlternativeNumber,Alternate Number,java.lang.String,,yes,Edit:PAT,,
 331475a7-d1db-4686-b94a-7c4d66b18d40,,HeiChildMothersName,Mother's Full Name,java.lang.String,,yes,Edit:PAT,,
