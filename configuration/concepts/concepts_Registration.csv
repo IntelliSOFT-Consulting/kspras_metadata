@@ -46,6 +46,12 @@ a33d398d-e7f5-4a85-8f79-311834cc953f,,TreatmentSupporterRelationshipMother,,Moth
 5feba5d3-620b-4f25-9875-68f1ade832a6,,TreatmentSupporterRelationshipSibling,,Sibling,,Sibling,,Misc,Text,,,
 15690faf-9752-41f7-92f9-31712ddb2986,,TreatmentSupporterRelationshipChild,,Child,,Child,,Misc,Text,,,
 "0d03aa71-d64a-4a26-a345-b83c8ab77c73 ",,TreatmentSupporterRelationshipGuardian,,Guardian,,Guardian,,Misc,Text,,,
-1326ad49-055f-468f-a30d-3bacd0e5e940,"",TreatmentSupporterRelationshipPartner,"",Partner,"",Partner,"",Misc,Text,"","",""
+1326ad49-055f-468f-a30d-3bacd0e5e940,,TreatmentSupporterRelationshipPartner,,Partner,,Partner,,Misc,Text,,,
 eb9e4f7f-926b-44ee-98b8-3c7d39efd9bb,,TreatmentSupporterRelationshipOthers,,Others,,Others,,Misc,Text,,,
 a96339c8-4b87-4784-a6af-7bec7b291855,,TreatmentSupporterRelationship,,Relationship,,Treatment Supporter Relationship,,Misc,Coded,1f01e7b6-ae68-4a57-812f-45872a2197ef;a33d398d-e7f5-4a85-8f79-311834cc953f;5feba5d3-620b-4f25-9875-68f1ade832a6;15690faf-9752-41f7-92f9-31712ddb2986;0d03aa71-d64a-4a26-a345-b83c8ab77c73 ;1326ad49-055f-468f-a30d-3bacd0e5e940;eb9e4f7f-926b-44ee-98b8-3c7d39efd9bb ;,,
+137c287e-9f69-4ef0-a582-c029db4e3604,"",SelfTransfer,"",Self Transfer,"",Self Transfer,"",Misc,Text,"","",""
+7fcebc30-7073-4260-a942-bbcd5b3d23bc,"",FormalTransfer,"",Formal Transfer,"",Formal Transfer,"",Misc,Text,"","",""
+56da3fe4-f8ed-4ec6-bcb3-0204964853a4,"",TransferInformation,"",Transfer-In Method,"",Transfer-In Method,"",Misc,Coded,"137c287e-9f69-4ef0-a582-c029db4e3604; 7fcebc30-7073-4260-a942-bbcd5b3d23bc ; ","",""
+061fe444-08e3-4aa4-9cec-998a8266774f,"",TransferinAlreadyInART,"",Already In ART,"",Already In ART,"",Misc,Text,"","",""
+e3a70b34-7e82-477b-a31b-9450d02ee9cb,"",TransferInNewOnART,"",New On ART,"",New On ART,"",Misc,Text,"","",""
+20153e36-2606-4230-ad8d-9c344a1ea0b7,"",TransferInTreatmentStatus,"",Treatment Status,"",Treatment Status,"",Misc,Coded,"061fe444-08e3-4aa4-9cec-998a8266774f ; e3a70b34-7e82-477b-a31b-9450d02ee9cb ; ","",""
