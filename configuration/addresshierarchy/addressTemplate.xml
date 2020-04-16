@@ -24,8 +24,7 @@
 		<property name="stateProvince" value="40"/>
     </sizeMappings>
     <elementDefaults class="properties">
-        <property name="country" value="Sudan"/>
-        <property name="address3"  value="Payai Payam"/>
+        <property name="country" value="South Sudan"/>
     </elementDefaults>
     <lineByLineFormat>
 		<string>cityVillage</string>
