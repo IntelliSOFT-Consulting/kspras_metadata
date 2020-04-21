@@ -1,6 +1,6 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:133,Data class,Data type,Answers
-167d05f8-bff6-4de5-8ad9-aa6ddaea377e,"",ANC No,ANC No,ANC No,"","","",Question,Text,""
-6aec4047-e68e-48d5-8caf-f06dc84de494,"",ANC General Information,General Information,General Information,"","","",Misc,N/A,""
+167d05f8-bff6-4de5-8ad9-aa6ddaea377e,,ANC No,ANC No,ANC No,,,,Question,Text,
+6aec4047-e68e-48d5-8caf-f06dc84de494,,ANC General Information,General Information,General Information,,,,Misc,N/A,
 8961717d-b30d-46b1-b917-ff5a463fcb51,,Hypertension,Hypertension,Hypertension,,,,Misc,N/A,
 d04f4562-a51f-494f-932f-0abc58440539,,Cardiac Disease,Cardiac Disease,Cardiac Disease,,,,Misc,N/A,
 aff60779-2525-4a92-8413-8bd3a6b86103,,Kidney Disease,Kidney Disease,Kidney Disease,,,,Misc,N/A,
@@ -145,9 +145,11 @@ c84d3697-4097-46cf-9a90-bc970aba241e,,Other (Place specify),Other (Place specify
 f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Birth Plan Information,Birth Plan Information,Birth Plan Information,,,,Misc,N/A,
 99c53e59-38cd-4d1b-917e-6d922a0d78e2,,"Post Natal,Date Of Delivery",Date Of Delivery,Post Natal - Date Of Delivery,,,,Question,Date,
 9e44e0fd-2b24-4d39-ba3a-2d273aee771c,,"Post Natal,Mode Of Delivery",Mode of Delivery,Post Natal - Mode Of Delivery,,,,Question,coded,"Caesarean Section ; Delivery Mode, Normal"
-bfaa9af8-e59f-4522-9018-dc6a87706ab4,,"Place Deliveted,Home",Home,Place Deliveted - Home,,,,Misc,N/A,
-df071cf7-605c-425f-b4b0-e80df5f3a290,,"Place Deliveted,This Facility",This Facility,Place Deliveted - This Facility,,,,Misc,N/A,
-7914ba2e-3350-433a-bab3-437bda355659,,"Post Natal ,Place Delivery",place of Delivery,Post Natal -  Place Delivery,,,,Question,Coded,"Place Deliveted,Home ; Place Deliveted,This Facility"
+bfaa9af8-e59f-4522-9018-dc6a87706ab4,,"Place Deliveted,Home",Home,Place Delivered - Home,,,,Misc,N/A,
+df071cf7-605c-425f-b4b0-e80df5f3a290,,"Place Deliveted,This Facility",This Facility,Place Delivered - This Facility,,,,Misc,N/A,
+1305dd9c-64fc-4664-8be4-a78cec5c1e1a,"","Place Delivered, Other facility",Other Facility,"Place Delivered, Other facility","","","",Misc,N/A,""
+7914ba2e-3350-433a-bab3-437bda355659,,"Post Natal ,Place Delivery",place of Delivery,Post Natal -  Place Delivery,,,,Question,Coded,"Place Deliveted,Home ; Place Deliveted,This Facility ;Place Delivered, Other facility"
+bfe406c2-cb1c-4683-9b51-156687dc47ef,"","Place Delivered, specify",Specify,,"","","",Question,Text,""
 4c5db86c-edd8-40ef-8b4f-226ad7f07a43,,"Post Natal,Sex Of the Baby",Sex Of the Baby,Post Natal - Sex Of the Baby,,,,Question,Coded,Male;Female
 fbee6c38-1494-4d91-8931-679947f9a4f6,,"Post Natal, Weight",Weight,Post Natal - Weight,,,,Question,Numeric,
 1eaf7bcf-680e-4bd2-9e2c-31456626ce5b,,Condition of the Baby (breastfeeding),Condition of the Baby,Condition of the Baby,,,,Question,Text,

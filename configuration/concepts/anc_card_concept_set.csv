@@ -1,5 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:6,_order:134
-6aec4047-e68e-48d5-8caf-f06dc84de494,,ANC No,ANC General Information,General Information,Misc,N/A,"",""
+6aec4047-e68e-48d5-8caf-f06dc84de494,,ANC No,ANC General Information,General Information,Misc,N/A,,
 f4ceb855-94ff-44e8-8ece-b05382cc3945,Hypertension ; Cardiac Disease;Tuberclosis ;Sickle-cell Disease ; Kidney Disease ;  Epilepsy(Seizure); Diabetes ; Asthma ; STI ; Operations ;Fracture of Pelvis ;Femur;Spine(Medical History);Not Applicable,,Medical History,,Question,Coded,,
 43071f3e-469b-4e5e-b657-e8d12fd6ab13,Hypertension ; Tuberclosis ; Sickle-cell Disease ;Epilepsy; Diabetes ; Twins;Not Applicable,,Past Family History,,Question,Coded,,
 89245dc9-9e33-4ef2-a6ae-4a6070594d1f,Smoking ; Health Of The Husband ; Alcohol;Not Applicable,,Social History,,Question,Coded,,
@@ -30,12 +30,12 @@ e55439f5-afdd-4dd2-afba-203ea2f2d79f,Home ;Hospital; PHCC ; PHCU ; Private Healt
 0528f58d-c4eb-4fc8-9de9-4c9779e1bcfd,,,Do you have clean clothes for the Baby?,,Question,Boolean,,
 f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Planned Delivery Place ; Other (Place specify); Delivery Personnel/Person ; Mode of Getting to Delivery Place ; Specify Other Modes Of transport;Did you Receive a Mama Kit; Do you have clean clothes for the Baby?;Who will accompany you to delivery place,Birth Plan Information,,Misc,N/A,,
 9e44e0fd-2b24-4d39-ba3a-2d273aee771c,"Caesarean Section ; Delivery Mode, Normal",,"Post Natal,Mode Of Delivery",Mode Of Delivery,Question,Coded,,
-7914ba2e-3350-433a-bab3-437bda355659,"Place Deliveted,Home ; Place Deliveted,This Facility",,"Post Natal ,Place Delivery",Place Of Delivery,Question,Coded,,
+7914ba2e-3350-433a-bab3-437bda355659,"Place Deliveted,Home ; Place Deliveted,This Facility ; Place Delivered, Other facility",,"Post Natal ,Place Delivery",Place Of Delivery,Question,Coded,,
 4c5db86c-edd8-40ef-8b4f-226ad7f07a43,Male;Female,,"Post Natal,Sex Of the Baby",Sex Of the Baby,Question,Coded,,
 95f532cd-0c8e-493d-9d9b-af167c299a46,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never",,Family Planning Choice,,Question,Coded,,
 12d5289d-0d24-409b-961e-59495d47a21c,,"Post Natal,Date Of Delivery;
 Post Natal,Mode Of Delivery;
-Post Natal ,Place Delivery;
+Post Natal ,Place Delivery; Place Delivered, specify ;
 Post Natal,Sex Of the Baby;
 Post Natal, Weight;
 Condition of the Baby (breastfeeding);
