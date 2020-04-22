@@ -97,6 +97,7 @@ b8539bf4-86dd-42bc-be04-9108f03dad11,,Blood Group And Rhesus Factor,Blood Group 
 83bc2c85-69b5-4cd4-bda0-f6cb8056c4db,,Laboratory Investigation,Laboratory Investigation,Laboratory Investigation,,,,Misc,N/A,
 872774f5-667c-42a7-95d2-8a7bd2333261,,Present Pregnancy,Present Pregnancy,Present Pregnancy,,,,Misc,N/A,
 fe5a8532-8f86-40eb-89eb-7e099c6e8414,,Pregnancy Samples History,Pregnancy Samples History,Pregnancy Samples History,,,,Misc,N/A,
+08ac9b40-f40d-4ed9-b177-f3bad5028f9c,,Current visit label,"Current visit ",Current visit label,,,,Question,Text,
 fffceb44-ffa6-4118-a52a-77a48525c8d8,,1 = Second Contact,1 = Second Contact,1 = Second Contact,,,,Misc,N/A,
 "45f3d865-6df2-4372-ab1c-ef880fee27df ",,1 = First Contact,1 = First Contact,1 = First Contact,,,,Misc,N/A,
 45eda731-ca22-4051-b56a-11386fb45a27,,2 = Second Contact,2 = Second Contact,2 = Second Contact,,,,Misc,N/A,
@@ -147,9 +148,9 @@ f3a9a361-fc5d-45c0-85a9-ac1540948f84,,Birth Plan Information,Birth Plan Informat
 9e44e0fd-2b24-4d39-ba3a-2d273aee771c,,"Post Natal,Mode Of Delivery",Mode of Delivery,Post Natal - Mode Of Delivery,,,,Question,coded,"Caesarean Section ; Delivery Mode, Normal"
 bfaa9af8-e59f-4522-9018-dc6a87706ab4,,"Place Deliveted,Home",Home,Place Delivered - Home,,,,Misc,N/A,
 df071cf7-605c-425f-b4b0-e80df5f3a290,,"Place Deliveted,This Facility",This Facility,Place Delivered - This Facility,,,,Misc,N/A,
-1305dd9c-64fc-4664-8be4-a78cec5c1e1a,"","Place Delivered, Other facility",Other Facility,"Place Delivered, Other facility","","","",Misc,N/A,""
+1305dd9c-64fc-4664-8be4-a78cec5c1e1a,,"Place Delivered, Other facility",Other Facility,"Place Delivered, Other facility",,,,Misc,N/A,
 7914ba2e-3350-433a-bab3-437bda355659,,"Post Natal ,Place Delivery",place of Delivery,Post Natal -  Place Delivery,,,,Question,Coded,"Place Deliveted,Home ; Place Deliveted,This Facility ;Place Delivered, Other facility"
-bfe406c2-cb1c-4683-9b51-156687dc47ef,"","Place Delivered, specify",Specify,,"","","",Question,Text,""
+bfe406c2-cb1c-4683-9b51-156687dc47ef,,"Place Delivered, specify",Specify,,,,,Question,Text,
 4c5db86c-edd8-40ef-8b4f-226ad7f07a43,,"Post Natal,Sex Of the Baby",Sex Of the Baby,Post Natal - Sex Of the Baby,,,,Question,Coded,Male;Female
 fbee6c38-1494-4d91-8931-679947f9a4f6,,"Post Natal, Weight",Weight,Post Natal - Weight,,,,Question,Numeric,
 1eaf7bcf-680e-4bd2-9e2c-31456626ce5b,,Condition of the Baby (breastfeeding),Condition of the Baby,Condition of the Baby,,,,Question,Text,
