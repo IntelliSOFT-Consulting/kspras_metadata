@@ -2,10 +2,9 @@ Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_or
 01c6969b-2457-4851-ad9c-77362ef9071d,,,Tested as Couple,Question,Boolean,,
 3886c786-c857-4b55-a57a-ab4c96b52327,,,Joint Couple Pre-testing Counselling,Question,Boolean,,
 8eaae386-92dd-47df-b39e-89e60a42d00b,,Date First Tested HIV +  ; Place Tested HIV +  ; Date of HIV Retesting Before ART ; Place of HIV Retesting Before ART;Tested as Couple;Joint Couple Pre-testing Counselling,First HIV Test Information,Misc,N/A,,
-a8fc166c-638c-4669-b486-0b2cd8eca561,"Already On ART ; New On ART ","",Treatment Status,Question,Coded,"",""
-1ce0afd4-f6d2-4b80-b61a-11da81c760ce,,Transferred in on ART? ; Treatment Status;Name of Clinic; Date Transferred in,ART Transfer Information,Misc,N/A,,
+a8fc166c-638c-4669-b486-0b2cd8eca561,"Already On ART ; New On ART ",,Treatment Status,Question,Coded,,
 f1a35737-434c-46e9-8c46-4e17b98e305d,"VCT Clinic;TB Clinic ; STI Clinic ; ANC Clinic ; In Patient ; Padeatric ; Entry Point - OPD; CBTC ; Index Testing ;Emergency, entry point;Malnutrition Facilities;Other Entry Point (Specify)",,HIV - Entry Point,Question,Coded,,
-3c262fa2-e1e7-4ec3-9377-b9ddf3184991,,First HIV Test Information ; HIV - Entry Point ; Other Entry Point ;  ART Transfer Information,HIV Testing History,Misc,N/A,,
+3c262fa2-e1e7-4ec3-9377-b9ddf3184991,,First HIV Test Information ; HIV - Entry Point ; Other Entry Point,HIV Testing History,Misc,N/A,,
 159400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Literate,Question,Boolean,,
 1712AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Education Level - Primary ; Education Level - Secondary  ; Education Level - University/College,,Education Level,Question,Coded,,
 f77b636b-21e7-4568-9719-bbdd67c3c736,Alcohol Intake - Habitual ; Alcohol Intake - Social ;Alcohol Intake - Not Use,,HIV Care - Alcohol Intake,Question,Coded,,
