@@ -65,7 +65,8 @@ eff56515-b10c-4347-94f8-ecf3795549b6,,Hospital,Hospital,Hospital,,,,Misc,N/A,
 e74aebd1-51b5-424f-b9f0-339fd8cd3588,,Female,Female,Female,,,,Misc,N/A,
 199fe803-ee9b-4d1e-b488-8a0a8d601e52,,Sex Of Baby,Sex Of Baby,Sex Of Baby,,,,Question,Coded,Male;Female
 579ff3f9-635c-4bb1-b2ad-e0f24a7f6791,,Outcome Of Foetus,Outcome Of Foetus,Outcome Of Foetus,,,,Question,Text,
-02b97796-c8ac-476f-9ccd-8b97a9758350,,APH,APH,APH,,,,Question,Text,
+02b97796-c8ac-476f-9ccd-8b97a9758350,yes,APH,APH,APH,,,,Question,Text,
+4ecf66b3-1e7f-4424-9ae5-f258b46637dd,,"Antepartum haemorrhage (APH) ",APH,Antepartum haemorrhage,,,,Question,Boolean,
 94fe1dca-12b3-49bb-9ad4-829eb1c3b99c,,PPH,PPH,PPH,,,,Question,Boolean,
 f1ef390c-9c55-4d56-8861-330201c33014,,Other Illness,Other Illness,Other Illness,,,,Question,Text,
 0d4553e0-e297-436d-9576-6c23b4b31706,,Any Comments,Any Comments,Any Comments,,,,Question,Text,
@@ -74,13 +75,16 @@ f82c6657-002a-430d-ad09-e7f62eb29066,,Para,Para,Para,,,,Question,Numeric,
 b97f3df3-a803-4641-9638-d8ff513c7d74,,Past Obstetric/Gynecological History,Past Obstetric/Gynecological History,Past Obstetric/Gynecological History,,,,Misc,N/A,
 ad8cdb1d-3762-4a39-bf1a-89a4eea884d8,,Date of the first Day of LNMP,Date of the first Day of LNMP,Date of the first Day of LNMP,,,,Question,Date,
 12118225-edad-45e2-9313-a5bca2cb4995,,EDD,EDD,EDD,,,,Question,Date,
-f551dcf4-4f43-445d-a1f8-26aadcda595c,,HB,HB,HB,,,,Question,Text,
-8bed7c90-52de-48cd-bd93-e9f60592ba61,,Urine Sample,Urine Sample,Urine Sample,,,,Question,Text,
+e2763689-5356-47b1-98e6-713b7e62bb06,,HB Test,HB Test,Hemoglobin Test,,,,Question,Boolean,
+f551dcf4-4f43-445d-a1f8-26aadcda595c,,HB,HB(g/dl),"Hemoglobin ",,,,Question,Text,
+8bed7c90-52de-48cd-bd93-e9f60592ba61,yes,Urine Sample,Urine Sample,Urine Sample,,,,Question,Text,
+c36452f5-c11e-4f0e-b01a-daf412982ef6,"",Urine Test,Urine Test,Urine Test,"","","",Question,Boolean,""
 7acfafa4-f19b-485e-97a7-c9e002dbe37a,,Positive,Positive,Positive,,,,Misc,N/A,
 718b4589-2a11-4355-b8dc-aa668a93e098,,Negative,Negative,Negative,,,,Misc,N/A,
 9024e06b-ec26-4d13-a876-70ea1eebfa3e,,Not Known,Not Known,Not Known,,,,Misc,N/A,
 453d955f-7755-4230-9a69-caf17a191864,,RPR/VDRL,RPR/VDRL,RPR/VDRL,,,,Question,Coded,Positive;Negative;Not Known
-2ca63aec-74ea-46ab-bea7-853c9a8e3154,,HIV Sample,HIV,HIV Sample,,,,Question,Coded,Positive;Negative
+6943fb27-7e49-4575-8679-8198987c2a28,,RPR/VDRL Test Date,Date Tested,RPR/VDRL Test Date,,,,Question,Date,
+2ca63aec-74ea-46ab-bea7-853c9a8e3154,yes,HIV Sample,HIV,HIV Sample,,,,Question,Coded,Positive;Negative
 b44b4b2b-b3b5-400d-8886-59ada6e91eaa,,HBV - Not Done,Not Done,HBV - Not Done,,,,Misc,N/A,
 e55c5d38-b971-4d78-a8a0-7cdc35b077c1,,HBV,HBV,HBV - (Hepatitis – B Sample),,,,Question,Coded,Positive;Negative;Not Done
 352f5942-5ad1-427e-ac3e-9477ca7a3ad0,,Blood Group (A+),A+,Blood Group (A+),,,,Misc,N/A,
