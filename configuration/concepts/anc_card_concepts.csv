@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:133,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:4,_order:133,Data class,Data type,Answers
 167d05f8-bff6-4de5-8ad9-aa6ddaea377e,,ANC No,ANC No,ANC No,,,,Question,Text,
 6aec4047-e68e-48d5-8caf-f06dc84de494,,ANC General Information,General Information,General Information,,,,Misc,N/A,
 8961717d-b30d-46b1-b917-ff5a463fcb51,,Hypertension,Hypertension,Hypertension,,,,Misc,N/A,
@@ -118,20 +118,21 @@ c5e17bc1-6cea-4f09-beda-6563369d8a3e,,8 = Eight Contact,8 = Eight Contact,8 = Ei
 e605731b-2e81-41a9-8446-2ed442c339e2,,Date,Date,Date,,,,Misc,Date,
 d7e145c3-dd4e-4b97-ba8b-37687ecdf818,,"Blood Pressure , Pregnancy Visit",BP,"Blood Pressure , Pregnancy Visit",,,,Question,Numeric,
 cdb44f5d-86cc-452e-b8a1-6034826b1444,,"Edema, Pregnancy visits",Edema,"Edema, Pregnancy visits",,,,Question,Boolean,
+52d35d9e-38ec-44f0-9245-e33efa319f59,"","Maternal Care, Presentation",Presentation,"Maternal Care, Presentation","","","",Question,Coded,Cephalic Presentation;Breech Presentation ; Transverse
 9f97c629-b1a0-42dc-bb2f-9227aad97d96,,"MUAC, Pregnancy Visit",MUAC,"MUAC, Pregnancy Visit",,,,Question,Numeric,
 c3605022-b871-4c83-9c5a-9301403bc0d9,,"Present, Pregnancy Visit",Present,"Present, Pregnancy Visit",,,,Question,Text,
 9552e940-daf5-49b9-89e4-5d7cf7502a5b,,"Fundal Height , Pregnancy Visit",Fundal Height,"Fundal Height , Pregnancy Visit",,,,Question,Numeric,
 4832f67f-89e8-4c31-9921-b3910d26d259,,Fetal Heart,Fetal Heart,Fetal Heart,,,,Question,Numeric,
 91f1895c-e1df-4663-9440-ca8e044e5b32,yes,PV Discharge,PV Discharge,PV Discharge,,,,Question,Text,
-e26c16ac-96e3-482e-af64-31542db9810b,"",Pregnancy Virginal Discharge,PV Discharge,Pregnancy Virginal Discharge,"","","",Question,Boolean,""
+e26c16ac-96e3-482e-af64-31542db9810b,,Pregnancy Virginal Discharge,PV Discharge,Pregnancy Virginal Discharge,,,,Question,Boolean,
 ff11338d-71eb-4e97-bb39-bff69299f397,yes,TT,TT,TT,,,,Question,Text,
-28d81477-8ce4-4f55-b9c5-7b923e140fcd,"",Tetanus,TT,Tetanus,"","","",Question,Boolean,""
+28d81477-8ce4-4f55-b9c5-7b923e140fcd,,Tetanus,TT,Tetanus,,,,Question,Boolean,
 6ff1e92d-aa09-4ec1-9680-66769d7786aa,yes,"Iron, Pregnancy Visit",Iron,"Iron, Pregnancy Visit",,,,Question,Text,
-e2833548-1432-4cf3-8c86-b8f7f9a0eaa1,"","Iron, Pregnancy_visit",Iron,"Iron, Pregnancy_visit","","","",Question,Boolean,""
+e2833548-1432-4cf3-8c86-b8f7f9a0eaa1,,"Iron, Pregnancy_visit",Iron,"Iron, Pregnancy_visit",,,,Question,Boolean,
 aaa31436-5fe5-40c4-a147-b5420eb10b0a,yes,ITN,ITN,ITN,,,,Question,Text,
-08136431-4c51-40e6-86e5-bdd927f2c95f,"",Insecticide Treated Net,ITN,Insecticide Treated Net,"","","",Question,Boolean,""
+08136431-4c51-40e6-86e5-bdd927f2c95f,,Insecticide Treated Net,ITN,Insecticide Treated Net,,,,Question,Boolean,
 ffe8f8ae-fcd4-4be5-9a97-7764436a0cd5,yes,IPT/SP,IPT/SP,IPT/SP,,,,Question,Text,
-"2cd3aeb7-f345-45a1-b384-31f40430d03e ","","Intemittent preventive treatment ",IPT/SP,"Intemittent preventive treatment ","","","",Question,Boolean,""
+"2cd3aeb7-f345-45a1-b384-31f40430d03e ",,"Intemittent preventive treatment ",IPT/SP,"Intemittent preventive treatment ",,,,Question,Boolean,
 a1a04d7c-45fd-41f7-8831-d6db95f688da,,Remarks,Remarks,Remarks,,,,Question,Text,
 f28b859c-7445-4a37-b0eb-cf9de3c4e743,yes,Provider Name,Provider Name,Provider Name,,,,Question,Text,
 d8ea5ef0-4460-4ff3-a0d7-b4381236687f,,Maternal Care Information,Maternal Care Information,Maternal Care Information,,,,Misc,N/A,
@@ -140,13 +141,13 @@ d43b9fe5-49a7-431e-b436-41369413211d,,Pregnancy Visit Information,Pregnancy Visi
 e55439f5-afdd-4dd2-afba-203ea2f2d79f,,Planned Delivery Place,Planned Delivery Place,Planned Delivery Place,,,,Question,Coded,Home;Hospital;PHCC;PHCU;Private Health Facility; Other Answer
 132b860d-f6eb-4c33-957b-56d544830e0d,yes,Delivery Personnel/Person,Delivery Personnel/Person,Delivery Personnel/Person,,,,Question,Text,
 ff0590b0-d55d-4d22-a902-dbed0f1a6810,yes,Delivery Personal,Delivery Personal,Delivery Personal,,,,Question,Text,
-f21874ae-184e-4f89-8f94-924c3b4e1dbb,"",Doctor,Doctor,Doctor,"","","",Misc,N/A,""
-ce4e5cc9-0c52-4a30-b8dc-47fb9500f7fa,"",Clinical Officer/Associated Clinician,Clinical Officer/Associated Clinician,Clinical Officer/Associated Clinician,"","","",Misc,N/A,""
-21c8ba5b-6a4c-4039-be5d-e5b71117bab5,"",Midwife,Midwife,Midwife,"","","",Misc,N/A,""
-ac49bd67-d905-4c8d-9992-c6b3b33b3368,"",Nurse,Nurse,Nurse,"","","",Misc,N/A,""
-7b993509-7f24-4591-b52c-2f9174e5ffae,"",Other Delivery Personnel,Other Delivery Personnel,Others,"","","",Misc,N/A,""
-6246a4dd-9ae6-4b16-a75c-a2e694b38d87,"",Delivery Personnel or Person,Delivery Personnel/Person,Delivery Personnel/Person,"","","",Question,Coded,Doctor ; Clinical Officer/Associated Clinician ; Midwife ; Nurse ; Other Delivery Personnel
-"57d460d6-4151-464f-86e1-6d9e994e51e7 ","",Specify Other Delivery Personnel,Specify,Specify Other Delivery Personnel,"","","",Question,Text,""
+f21874ae-184e-4f89-8f94-924c3b4e1dbb,,Doctor,Doctor,Doctor,,,,Misc,N/A,
+ce4e5cc9-0c52-4a30-b8dc-47fb9500f7fa,,Clinical Officer/Associated Clinician,Clinical Officer/Associated Clinician,Clinical Officer/Associated Clinician,,,,Misc,N/A,
+21c8ba5b-6a4c-4039-be5d-e5b71117bab5,,Midwife,Midwife,Midwife,,,,Misc,N/A,
+ac49bd67-d905-4c8d-9992-c6b3b33b3368,,Nurse,Nurse,Nurse,,,,Misc,N/A,
+7b993509-7f24-4591-b52c-2f9174e5ffae,,Other Delivery Personnel,Other Delivery Personnel,Others,,,,Misc,N/A,
+6246a4dd-9ae6-4b16-a75c-a2e694b38d87,,Delivery Personnel or Person,Delivery Personnel/Person,Delivery Personnel/Person,,,,Question,Coded,Doctor ; Clinical Officer/Associated Clinician ; Midwife ; Nurse ; Other Delivery Personnel
+"57d460d6-4151-464f-86e1-6d9e994e51e7 ",,Specify Other Delivery Personnel,Specify,Specify Other Delivery Personnel,,,,Question,Text,
 ba100d20-e665-45eb-806c-8fd7cb890e81,,Tricycle/Ragsha,Tricycle/Ragsha,Tricycle/Ragsha,,,,Misc,N/A,
 bb56df9c-4d33-4ea0-85f1-c0a8712eb81b,,Motorbike,Motorbike,Motorbike,,,,Misc,N/A,
 80947b71-33fe-4a33-ba9e-e9b4f9fa5b47,,Footing,Footing,Footing,,,,Misc,N/A,
@@ -171,12 +172,12 @@ bfe406c2-cb1c-4683-9b51-156687dc47ef,,"Place Delivered, specify",Specify,,,,,Que
 4c5db86c-edd8-40ef-8b4f-226ad7f07a43,,"Post Natal,Sex Of the Baby",Sex Of the Baby,Post Natal - Sex Of the Baby,,,,Question,Coded,Male;Female
 fbee6c38-1494-4d91-8931-679947f9a4f6,,"Post Natal, Weight",Weight,Post Natal - Weight,,,,Question,Numeric,
 1eaf7bcf-680e-4bd2-9e2c-31456626ce5b,yes,Condition of the Baby (breastfeeding),Condition of the Baby,Condition of the Baby,,,,Question,Text,
-11d22b26-7481-4300-91fb-b230c971b779,"",Alive and Well,Alive and Well,"","","","",Misc,N/A,""
-32810124-3e83-482f-87be-eaa4139b866a,"",Referred To the Management,Referred To the Management,"","","","",Misc,N/A,""
-02695121-d3a8-4387-abd9-45bef3062010,"",Condition of the Baby,Condition oof the baby,Condition of the baby,"","","",Question,Coded,Alive and Well;Referred To the Management ; Dead
+11d22b26-7481-4300-91fb-b230c971b779,,Alive and Well,Alive and Well,,,,,Misc,N/A,
+32810124-3e83-482f-87be-eaa4139b866a,,Referred To the Management,Referred To the Management,,,,,Misc,N/A,
+02695121-d3a8-4387-abd9-45bef3062010,,Condition of the Baby,Condition oof the baby,Condition of the baby,,,,Question,Coded,Alive and Well;Referred To the Management ; Dead
 850ccaf1-3d08-4e6d-bc48-7ec11294eab2,,Drugs given to the Baby,Drugs given to the Baby,Drugs given to the Baby,,,,Question,Text,
 d598449f-e210-4a85-9fd5-e0a7051cd20c,yes,Condition of the mother,Condition of the mother,Condition of the mother,,,,Question,Text,
-79c1329b-665f-4e27-8527-d55fa6e5f439,"","Post Natal, Condition of the mother",Condition of the mother,"","","","",Question,Coded,Alive and Well;Referred To the Management ; Dead
+79c1329b-665f-4e27-8527-d55fa6e5f439,,"Post Natal, Condition of the mother",Condition of the mother,,,,,Question,Coded,Alive and Well;Referred To the Management ; Dead
 7d916883-b179-41f5-b4fa-84a87214c737,,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,,,,Question,Date,
 95f532cd-0c8e-493d-9d9b-af167c299a46,,Family Planning Choice,Familiy Planning Choice,Familiy Planning Choice,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
 12d5289d-0d24-409b-961e-59495d47a21c,,Post Natal Care Section,Post Natal Care Section,Post Natal Care Section,,,,Misc,N/A,
