@@ -32,6 +32,7 @@ db25b3c5-10da-49a9-9137-cc8a2507585a,,Family Member - Age,Age,Family Member - Ag
 e74aebd1-51b5-424f-b9f0-339fd8cd3588,,Female,Female,Female,,,,Misc,N/A,
 d969948d-6671-4149-a234-7b991c70e1c1,,Family Member - Sex,Sex,Family Member - Sex,,,,Question,Coded,Male ; Female
 c546e14a-dc8d-4f08-98ad-7d509041264e,,Phone Number,Phone Number,Phone Number,,,,Question,Numeric,
+"503edc7c-c760-4e8c-892a-b53c4fce0fa5 ","","Sexual contact,Contacted",Contacted,Contacted,"","","",Question,Boolean,""
 09ab218f-95c4-4a43-b4bc-cb671ffa4421,,Husband,Husband,Husband,,,,Misc,N/A,
 16b2b91e-a357-4407-b3c1-d9d634ff1e5d,,Mother,Mother,Mother,,,,Misc,N/A,
 e3036b78-b41e-45b8-965e-6ae87584a7be,,Father,Father,Father,,,,Misc,N/A,
@@ -40,7 +41,7 @@ fe01b63c-289f-4e87-9e6d-46376cb3dcf6,,Sexual,Sexual,Sexual,,,,Misc,N/A,
 c1efa8a3-bdbe-4461-afc9-8db897f73797,,Sibling,Sibling,Sibling,,,,Misc,N/A,
 7d563689-1e2f-4d18-8407-c08361397d93,,Child,Child,Child,,,,Misc,N/A,
 1fe41951-aa3e-4517-9d90-eee66ee0dfde,,Wife,Wife,Wife,,,,Misc,N/A,
-6aac6f7c-f16b-4644-bb93-e239d86a088e,"",Other relationship,Other,Other,"","","",Misc,N/A,""
+6aac6f7c-f16b-4644-bb93-e239d86a088e,,Other relationship,Other,Other,,,,Misc,N/A,
 2eed6753-c2b7-4b85-a099-a78beb4eaff3,,Family Member - Relationship,Relationship,Family Member - Relationship,,,,Question,Coded,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ;  Sibling ; Child
 a395dc8c-2129-4ac4-b5c3-b8c57f4f08b5,,Known,Known,Known,,,,Misc,N/A,
 a5bcac8d-305a-4b46-9121-014d72ac4c2d,,Don't Know,Don't Know,Don't Know,,,,Misc,N/A,
