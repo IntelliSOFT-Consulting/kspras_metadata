@@ -26,13 +26,16 @@ da4c7442-f1b1-4d82-947a-1cdca78a35b4,,Sexual Partner?,,,,,,Question,Boolean,
 5ad3e070-2c31-4dd9-8ef0-94cf945d9bbd,,Other sexual Partner Relationship Specify,Specify,Other sexual Partner Relationship Specify,,,,"Question ",Text,
 e2f0fc53-de7a-48b7-88fb-1d2c93527829,,Sexual Partner Relationship,Relationship,Sexual Partner Relationship,,,,Question,Coded,Spouse; Specify other sexual Partners
 48741238-7ad4-42f0-a1f4-d2bb6b355614,,Is Family Member in ART Care?,,,,,,Question,Boolean,
+e916b8fb-f170-43ac-9583-c60504b1438d,,Is Sexual Partner in ART Care?,,,,,,Question,Boolean,
 15c72e37-bd8f-47ef-8f12-96e69e241b1a,,Family Member ART Number,,,,,,Question,Text,
 db25b3c5-10da-49a9-9137-cc8a2507585a,,Family Member - Age,Age,Family Member - Age,,,,Question,Numeric,
+f33e32c4-34f9-40a6-97c9-090e6ae4dbaa,,Sexual Partner - Age,Age,,,,,Question,Numeric,
 544634f2-4c08-48b0-9b2b-35251189a59b,,Male,Male,Male,,,,Misc,N/A,
 e74aebd1-51b5-424f-b9f0-339fd8cd3588,,Female,Female,Female,,,,Misc,N/A,
 d969948d-6671-4149-a234-7b991c70e1c1,,Family Member - Sex,Sex,Family Member - Sex,,,,Question,Coded,Male ; Female
 c546e14a-dc8d-4f08-98ad-7d509041264e,,Phone Number,Phone Number,Phone Number,,,,Question,Numeric,
-"503edc7c-c760-4e8c-892a-b53c4fce0fa5 ","","Sexual contact,Contacted",Contacted,Contacted,"","","",Question,Boolean,""
+238ea2f4-a962-4272-bd41-1f5685aa18e9,,Sexual Partner - Phone Number,Phone Number,,,,,Question,Numeric,
+"503edc7c-c760-4e8c-892a-b53c4fce0fa5 ",,"Sexual contact,Contacted",Contacted,Contacted,,,,Question,Boolean,
 09ab218f-95c4-4a43-b4bc-cb671ffa4421,,Husband,Husband,Husband,,,,Misc,N/A,
 16b2b91e-a357-4407-b3c1-d9d634ff1e5d,,Mother,Mother,Mother,,,,Misc,N/A,
 e3036b78-b41e-45b8-965e-6ae87584a7be,,Father,Father,Father,,,,Misc,N/A,
@@ -42,20 +45,28 @@ c1efa8a3-bdbe-4461-afc9-8db897f73797,,Sibling,Sibling,Sibling,,,,Misc,N/A,
 7d563689-1e2f-4d18-8407-c08361397d93,,Child,Child,Child,,,,Misc,N/A,
 1fe41951-aa3e-4517-9d90-eee66ee0dfde,,Wife,Wife,Wife,,,,Misc,N/A,
 6aac6f7c-f16b-4644-bb93-e239d86a088e,,Other relationship,Other,Other,,,,Misc,N/A,
+48751525-8bf4-463d-b196-43493fe043e4,,Sexual Partner - Sex,Sex,,,,,Question,Coded,Male ; Female
+123409e1-5bb9-46f5-bae9-0c42d978f329,"",Other Family Member Relationship specify,Other Specify,"","","","",Misc,N/A,""
 2eed6753-c2b7-4b85-a099-a78beb4eaff3,,Family Member - Relationship,Relationship,Family Member - Relationship,,,,Question,Coded,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ;  Sibling ; Child
+"4ff0ff5d-b73a-4b90-9aa2-3102bb0af0da ","","Specify other Family Member Relationship ",Specify,"","","","",Question,Text,""
 a395dc8c-2129-4ac4-b5c3-b8c57f4f08b5,,Known,Known,Known,,,,Misc,N/A,
 a5bcac8d-305a-4b46-9121-014d72ac4c2d,,Don't Know,Don't Know,Don't Know,,,,Misc,N/A,
 160f21c0-9a96-4ffd-a72c-aabed02b6a53,,Family Member - HIV Status,HIV Status,Family Member - HIV Status,,,,Question,Coded,Known ; Don't Know
+e9f1178e-ed0f-493c-ad1c-7d1b41d768f4,,Sexual Partner - HIV Status,HIV Status,,,,,Question,Coded,Known ; Don't Know
+9da80a00-fd91-4a48-9b20-789ca09e1391,,Sexual Partner - Date Tested HIV,Date Tested HIV,,,,,Question,Date,
 11dc9dd8-bba8-4e4e-a2a3-528d9082d153,,Date Tested HIV,Date Tested HIV,Date Tested HIV,,,,Question,Date,
 7acfafa4-f19b-485e-97a7-c9e002dbe37a,,Positive,Positive,Positive,,,,Misc,N/A,
 718b4589-2a11-4355-b8dc-aa668a93e098,,Negative,Negative,Negative,,,,Misc,N/A,
 2cca0148-5045-4ade-80a1-69e88c65d868,,HEI,HEI,HEI,,,,Misc,N/A,
 86b66218-b6bd-4b48-8408-fa717ccfa0c4,,Result,Result,Result,,,,Question,Coded,Positive ; Negative ; HEI
+7fe26f23-bccd-4e45-969e-8108f2e3d867,,Sexual Partner - HIV Result,Result,,,,,Question,Coded,"Positive ; Negative "
 75e39180-fe17-4075-9642-f389e6d1ea20,,Result of HTS,Result of HTS,Result of HTS,,,,Question,Coded,Positive ; Negative
+"0550290d-4172-4cdc-bb77-d0de6fe8027f ",,Sexual Partner - Result of HTS,Result of HTS,Result of HTS,,,,Question,Coded,Positive ; Negative
 7bec5791-6cdc-4fe4-bfbb-89cbf3ab03b4,,Unique ART No/HEI No,Unique ART No/HEI No,Unique ART No/HEI No,,,,Question,Text,
+5b575a8c-a469-479f-880c-e3aeaea59b60,,Sexual Partner - ART Number,ART Number,,,,,Question,Text,
 1d8f0541-f69d-483f-accc-2e2d48bd5f52,,Family History Marital Status And Occupation,Marital Status And Occupation,Family History Marital Status And Occupation,,,,Misc,N/A,
 bdcdd49a-9eb6-40f3-9dc7-d20c3af63dae,,Family Member Contacts Tested,Family Member Contacts Tested,Family Member Contacts Tested,,,,Question,Boolean,
-81a23ef4-7462-4712-a243-568f26f6c93d,,Family Member Contacts Status,Family Member Contacts Status,Family Member Contacts Status,,,,Question,Coded,Positive ; Negative
+8fe438e5-7316-4b25-af6a-a9a84563d273,,Family Member - Contacts Status,Family Member Contacts Status,Family Member Contacts Status,,,,Question,Coded,Positive ; Negative
 e3a68919-0744-4d05-9ea1-923bbddc5682,,Number of indexes Offered for Testing,Number Indexes Offered for testing,Number of index cases offered index testing services,,,,Question,Numeric,
 87bf8def-a463-4b59-98d9-627f539674e0,,Number of Indexes accepted to be tested,Number of Indexes accepted to be testing,Number of Indexes accepted to be testing,,,,Question,Numeric,
 84ed666a-3f47-4f78-9836-b68bd8c85c2b,,Number of Contacts Elicited(Brought),Number of Contacts Elicited(Brought),Number of Contacts Elicited(Brought),,,,Question,Numeric,
