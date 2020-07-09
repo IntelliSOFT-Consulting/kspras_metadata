@@ -132,15 +132,15 @@ f76732e9-2326-4e93-9621-620813671885,,Phone Calls,,,,,,Misc,N/A,
 fde15ffa-a932-4283-a2fb-644e2a6f78be,,Other Tools for First EAC,Other,Other Tools for First EAC,,,,Misc,N/A,
 e56df280-c5d1-4462-953d-a01c9c76548c,,Specify Other Tools for First EAC,Specify,Specify Other Tools for First EAC,,,,Question,Text,
 bd2f2773-e364-47c1-b824-07a5e6efbe06,,First EAC Service,Services,First EAC Service,,,,Question,Coded,Clinical ; Education ; Counselling(ind) ; Counselling(grp) ;Peer Support ;  Treatment Buddy;Drug pick-up ; DOT ; Case Mgmt.
-8f856c55-6048-4a5d-97b7-4c1ee8e64424,,First EAC Tools,Tools,First EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Other Tools for First EAC
+8f856c55-6048-4a5d-97b7-4c1ee8e64424,,First EAC Tools,Tools,First EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Alarms ; Other Tools for First EAC
 759a95da-c775-497d-8df9-8e8d7c4ff960,,Second EAC Service,Services,Second EAC Service,,,,Question,Coded,Clinical ; Education ; Counselling(ind) ; Counselling(grp) ;Peer Support ;  Treatment Buddy;Drug pick-up ; DOT ; Case Mgmt.
 3b7b5f6c-9cb0-4955-af8c-e62899bb6c0b,,Other Tools for Second EAC,Other,Other Tools for Second EAC,,,,Misc,N/A,
 d6546dc9-132f-48d6-88f2-019c527e18fc,,Specify Other Tools for Second EAC,Specify,Specify Other Tools for Second EAC,,,,Question,Text,
-6174b8e5-67c6-4a63-81c6-59424303b07b,,Second EAC Tools,Tools,Second EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Other Tools for Second EAC
+6174b8e5-67c6-4a63-81c6-59424303b07b,,Second EAC Tools,Tools,Second EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Alarms ; Other Tools for Second EAC
 29d17d06-1e19-4977-a3c7-449ac9124955,,Third EAC Service,Services,Third EAC Service,,,,Question,Coded,Clinical ; Education ; Counselling(ind) ; Counselling(grp) ;Peer Support ;  Treatment Buddy;Drug pick-up ; DOT ; Case Mgmt.
 4f2e942a-99db-4c8d-bf80-3492edf5097a,,Other Tools For Third EAC,Other,Other Tools For Third EAC,,,,Misc,N/A,
 8ac67e0e-6e78-4ac3-8b51-bafea1b02c8c,,Specify Other Tools for Third EAC,Specify,Specify Other Tools for Third EAC,,,,Question,Text,
-125f676b-28f0-424a-b321-f7fd0ccc857b,,Third EAC Tools,Tools,Third EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Other Tools For Third EAC
+125f676b-28f0-424a-b321-f7fd0ccc857b,,Third EAC Tools,Tools,Third EAC Tools,,,,Question,Coded,Pill Box ; Calendar ; Journal/Log ; Written Intructions ; Phone Calls ; SMS ; Alarms ; Other Tools For Third EAC
 0e16232e-3aa9-42b1-a8d3-b6ce2bc1a544,,First EAC Interventions,Interventions,First EAC Interventions,,,,Misc,N/A,
 703a84f7-5f68-49b9-a0b5-af9d371e2248,,Second EAC Interventions,Interventions,Second EAC Interventions,,,,Misc,N/A,
 9137a9c6-fb5c-403e-a148-21f964db1c9e,,Third EAC Interventions,Interventions,Third EAC Interventions,,,,Misc,N/A,
