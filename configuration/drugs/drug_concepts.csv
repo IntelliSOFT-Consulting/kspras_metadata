@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Name,Description,Concept Drug,Concept Dosage Form,…,_version:1,_order:201
+Uuid,Void/Retire,Name,Description,Concept Drug,Concept Dosage Form,ï¿½,_version:1,_order:201
 9062c6d9-a650-44d2-8929-da84f617c427,,1a = AZT/3TC+EFV,,1a = AZT/3TC+EFV,ART Regimen,,,
 c22e6700-a937-4909-b4ad-e82ff51325ac,,1b = AZT/3TC/NVP,,1b = AZT/3TC/NVP,ART Regimen,,,
 a00d9620-e88b-4c2f-9293-b1ac9e5943f2,,1c = TDF/3TC/DTG,,1c = TDF/3TC/DTG,ART Regimen,,,
@@ -49,3 +49,7 @@ d02b83cd-eaff-4015-a434-01406239c298,,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx
 4aa90dd4-5049-46c2-805b-0bf532f303b0,,CTX (120mg),,CTX (120mg),CTX Drug,,,
 14e32f50-88cd-48eb-8c3e-9292bfc6ee96,,CTX (480mg),,CTX (480mg),CTX Drug,,,
 343bd4e4-a5db-461f-b2a2-d18452305671,,CTX (960mg),,CTX (960mg),CTX Drug,,,
+c46684dd-8534-43d3-af53-673b37b9130a,"",ABC/3TC+LPV/r,,ABC/3TC+LPV/r,ART Regimen,"","",""
+d9863f4f-0dd0-456a-9d83-5466c5851915,"",ABC/3TC+DTG,,ABC/3TC+DTG,ART Regimen,"","",""
+7e2265a4-7260-4796-b627-4ad94033f383,"",TDF/3TC/DTG,,TDF/3TC/DTG,ART Regimen,"","",""
+9593e1b0-5c8c-44ff-ab06-0769396ab19c,"",LPV/r,"",LPV/r,ART Regimen,"","",""
