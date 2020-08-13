@@ -5,7 +5,7 @@ c221869a-3f10-11e4-adec-0800271c1b75,Occupation - Unemployed ; Occupation - Stud
 1d8f0541-f69d-483f-accc-2e2d48bd5f52,," Occupation ; Other - Occupation",Family History Marital Status And Occupation,,Misc,N/A,,
 48751525-8bf4-463d-b196-43493fe043e4,Male ; Female,,Sexual Partner - Sex,Sex,Question,Coded,,
 d969948d-6671-4149-a234-7b991c70e1c1,Male ; Female,,Family Member - Sex,Sex,Question,Coded,,
-2eed6753-c2b7-4b85-a099-a78beb4eaff3," Mother ; Father ; Sibling ; Child ; Partner ; Other Family Member Relationship specify",,Family Member - Relationship,Relationship,Question,Coded,,
+2eed6753-c2b7-4b85-a099-a78beb4eaff3,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ; Brother; Sister ; Child ; Spouse,,Family Member - Relationship,Relationship,Question,Coded,,
 160f21c0-9a96-4ffd-a72c-aabed02b6a53,Known ; Don't Know,,Family Member - HIV Status,HIV Status,Question,Coded,,
 e9f1178e-ed0f-493c-ad1c-7d1b41d768f4,Known ; Don't Know,,Sexual Partner - HIV Status,HIV Status,Question,Coded,,
 75e39180-fe17-4075-9642-f389e6d1ea20,Positive ; Negative,,Result of HTS,Result of HTS,Question,Coded,,
