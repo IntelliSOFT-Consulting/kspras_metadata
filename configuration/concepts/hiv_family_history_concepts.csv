@@ -43,12 +43,14 @@ bd5cf626-f8a6-44f8-9fd4-28352d685601,,Partner,Partner,Partner,,,,Misc,N/A,
 fe01b63c-289f-4e87-9e6d-46376cb3dcf6,,Sexual,Sexual,Sexual,,,,Misc,N/A,
 c1efa8a3-bdbe-4461-afc9-8db897f73797,,Sibling,Sibling,Sibling,,,,Misc,N/A,
 7d563689-1e2f-4d18-8407-c08361397d93,,Child,Child,Child,,,,Misc,N/A,
+5fd33475-6a79-4987-9376-5651de230262,,Brother,,,,,,Misc,N/A,
+10c9b5c5-80b7-432a-97f6-a15e711e9832,,Sister,,,,,,Misc,N/A,
 1fe41951-aa3e-4517-9d90-eee66ee0dfde,,Wife,Wife,Wife,,,,Misc,N/A,
 6aac6f7c-f16b-4644-bb93-e239d86a088e,,Other relationship,Other,Other,,,,Misc,N/A,
 48751525-8bf4-463d-b196-43493fe043e4,,Sexual Partner - Sex,Sex,,,,,Question,Coded,Male ; Female
-123409e1-5bb9-46f5-bae9-0c42d978f329,"",Other Family Member Relationship specify,Other Specify,"","","","",Misc,N/A,""
-2eed6753-c2b7-4b85-a099-a78beb4eaff3,,Family Member - Relationship,Relationship,Family Member - Relationship,,,,Question,Coded,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ;  Sibling ; Child
-"4ff0ff5d-b73a-4b90-9aa2-3102bb0af0da ","","Specify other Family Member Relationship ",Specify,"","","","",Question,Text,""
+123409e1-5bb9-46f5-bae9-0c42d978f329,,Other Family Member Relationship specify,Other Specify,,,,,Misc,N/A,
+2eed6753-c2b7-4b85-a099-a78beb4eaff3,,Family Member - Relationship,Relationship,Family Member - Relationship,,,,Question,Coded,Husband ; Wife ; Mother ; Father ; Partner ; Sibling; Sister ; Child
+"4ff0ff5d-b73a-4b90-9aa2-3102bb0af0da ",,"Specify other Family Member Relationship ",Specify,,,,,Question,Text,
 a395dc8c-2129-4ac4-b5c3-b8c57f4f08b5,,Known,Known,Known,,,,Misc,N/A,
 a5bcac8d-305a-4b46-9121-014d72ac4c2d,,Don't Know,Don't Know,Don't Know,,,,Misc,N/A,
 160f21c0-9a96-4ffd-a72c-aabed02b6a53,,Family Member - HIV Status,HIV Status,Family Member - HIV Status,,,,Question,Coded,Known ; Don't Know

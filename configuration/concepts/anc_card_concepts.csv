@@ -160,6 +160,7 @@ ac49bd67-d905-4c8d-9992-c6b3b33b3368,,Nurse,Nurse,Nurse,,,,,,,,Misc,N/A,
 6246a4dd-9ae6-4b16-a75c-a2e694b38d87,,Delivery Personnel or Person,Delivery Personnel/Person,Delivery Personnel/Person,,,,,,,,Question,Coded,Doctor ; Clinical Officer/Associated Clinician ; Midwife ; Nurse ; Other Delivery Personnel
 "57d460d6-4151-464f-86e1-6d9e994e51e7 ",,Specify Other Delivery Personnel,Specify,Specify Other Delivery Personnel,,,,,,,,Question,Text,
 ba100d20-e665-45eb-806c-8fd7cb890e81,,Tricycle/Ragsha,Tricycle/Ragsha,Tricycle/Ragsha,,,,,,,,Misc,N/A,
+44c7d8f7-4b14-4816-bb3f-59100d01203c,,Bicycle,Bicycle,,,,,,,,,Misc,N/A,
 bb56df9c-4d33-4ea0-85f1-c0a8712eb81b,,Motorbike,Motorbike,Motorbike,,,,,,,,Misc,N/A,
 80947b71-33fe-4a33-ba9e-e9b4f9fa5b47,,Footing,Footing,Footing,,,,,,,,Misc,N/A,
 7cd72f55-1b80-495d-9449-73e13ebdc083,,Stretcher,Stretcher,Stretcher,,,,,,,,Misc,N/A,
@@ -167,7 +168,7 @@ bb56df9c-4d33-4ea0-85f1-c0a8712eb81b,,Motorbike,Motorbike,Motorbike,,,,,,,,Misc,
 407f696c-0031-4c8e-addb-6df7b5efa887,,Other Modes Of Transport,Others,Other Modes Of Transport,,,,,,,,Misc,N/A,
 1d5a9c8e-ac61-47a6-a874-d0d53f48d906,,Vehicle,Vehicle,Vehicle,,,,,,,,Misc,N/A,
 5e3676a4-199c-422d-bbe5-ed0875191421,,Specify Other Modes Of transport,Others,Specify Other Modes Of transport,,,,,,,,Question,Text,
-489695bc-c0a0-4c81-88e2-ef66947192e3,,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,,,,,,,,Question,Coded,Vehicle;Tricycle/Ragsha;Motorbike;Footing;Stretcher;Wheelbarrow;Other Modes Of Transport
+489695bc-c0a0-4c81-88e2-ef66947192e3,,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,Mode of Getting to Delivery Place,,,,,,,,Question,Coded,Vehicle;Tricycle/Ragsha;Motorbike;Bicycle;Footing;Stretcher;Wheelbarrow;Other Modes Of Transport
 91d7b8f7-9266-430a-b2e5-8dfe0912ace6,,Did you Receive a Mama Kit,Did you Receive a Mama Kit,Did you Receive a Mama Kit,,,,,,,,Question,Boolean,
 0528f58d-c4eb-4fc8-9de9-4c9779e1bcfd,,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,Do you have clean clothes for the Baby?,,,,,,,,Question,Boolean,
 c84d3697-4097-46cf-9a90-bc970aba241e,,Other (Place specify),Other (Place specify),Other (Place specify),,,,,,,,Question,Text,

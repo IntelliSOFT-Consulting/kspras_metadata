@@ -33,8 +33,8 @@ b9cb0b28-e06a-4d62-b39b-adc5317ab9b2,,UniqueArtNo,Unique ART No.,java.lang.Strin
 21884b9f-2300-411b-adc0-af80954c4c69,,TreatmentSupporterTelephoneNumber,Treatment Supporter Telephone Number,java.lang.String,,yes,Edit:PAT,,
 0aa1708e-64a4-4edf-b02e-bc75bc4cd970,,TreatmentSupporterAddress,Treatment Supporter Address,java.lang.String,,yes,Edit:PAT,,
 4fae7ce5-327c-4fc5-8ff9-27e82293be2a,,TreatmentSupporterRelationship,Relationship,org.openmrs.Concept,a96339c8-4b87-4784-a6af-7bec7b291855,yes,Edit:PAT,,
-7d312094-2f68-4731-9dc7-3c0502bcc07e,,SpecifyOtherSupporterRelationship,Specify,java.lang.String,,,Edit:PAT,,
-ec95bdcd-8bb5-4b29-95bc-4fe600df3f07,,HomeCareProvidedBy,Community outreach provider/worker,java.lang.String,,yes,Edit:PAT,,
+7d312094-2f68-4731-9dc7-3c0502bcc07e,,SpecifyOtherSupporterRelationship,Specify Other Treatment Supporter Relationship,java.lang.String,,,Edit:PAT,,
+ec95bdcd-8bb5-4b29-95bc-4fe600df3f07,,HomeCareProvidedBy,Community outreach provider/worker name,java.lang.String,,yes,Edit:PAT,,
 c98d1ea8-ec7e-442d-86bc-4ed69441d98b,,AlternativeNumber,Alternate Number,java.lang.String,,yes,Edit:PAT,,
 331475a7-d1db-4686-b94a-7c4d66b18d40,,HeiChildMothersName,Mother's Full Name,java.lang.String,,yes,Edit:PAT,,
 6a578586-f13e-47b2-8dbe-5381f6722faa,,MotherInCareAtArtClinic,Mother in care at the ART Clinic?,org.openmrs.Concept,0eafd7bd-dc93-4324-9d8d-14fbaa7257e4,yes,Edit:PAT,,
@@ -49,6 +49,6 @@ e23be2e9-00d1-4cfc-aa2e-0598b1dd3c3f,,AlternateContactPersonRelationship,Relatio
 204b1a69-afa3-4c5d-929c-9a86731f978b,,TransferredOnART,Transferred in on ART?,java.lang.Boolean,,yes,Edit:PAT,,
 826036b9-9951-4bdc-837f-27321086ee79,,NameOfClinic,Name of Clinic,java.lang.String,,yes,Edit:PAT,,
 831ba63c-d28f-48fd-ad5b-b89c620bb8f7,,DateTransferredIn,Date Transferred in,org.openmrs.util.AttributableDate,,yes,Edit:PAT,,
-ed0c1e38-9c78-4e20-81d5-6ebffe0371bc,"",TransferInformation,Transfer-In Method,org.openmrs.Concept,56da3fe4-f8ed-4ec6-bcb3-0204964853a4,yes,Edit:PAT,"",""
-67f96a54-c695-4292-bd84-3b1ed6ec9748,"",OnART?,On ART?,java.lang.Boolean,,yes,Edit:PAT,"",""
-8860ceae-034e-47a6-8c7a-a8eb839a2ed1,"",TransferInTreatmentStatus,Treatment Status,org.openmrs.Concept,20153e36-2606-4230-ad8d-9c344a1ea0b7,yes,Edit:PAT,"",""
+ed0c1e38-9c78-4e20-81d5-6ebffe0371bc,,TransferInformation,Transfer-In Method,org.openmrs.Concept,56da3fe4-f8ed-4ec6-bcb3-0204964853a4,yes,Edit:PAT,,
+67f96a54-c695-4292-bd84-3b1ed6ec9748,,OnART?,On ART?,java.lang.Boolean,,yes,Edit:PAT,,
+8860ceae-034e-47a6-8c7a-a8eb839a2ed1,,TransferInTreatmentStatus,Treatment Status,org.openmrs.Concept,20153e36-2606-4230-ad8d-9c344a1ea0b7,yes,Edit:PAT,,
