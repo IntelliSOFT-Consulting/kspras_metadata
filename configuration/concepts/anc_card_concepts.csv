@@ -86,6 +86,7 @@ ad8cdb1d-3762-4a39-bf1a-89a4eea884d8,,Date of the first Day of LNMP,Date of the 
 12118225-edad-45e2-9313-a5bca2cb4995,,EDD,EDD,EDD,,,,,,,,Question,Date,
 e2763689-5356-47b1-98e6-713b7e62bb06,,HB Test,HB Test,Hemoglobin Test,,,,,,,,Question,Boolean,
 f551dcf4-4f43-445d-a1f8-26aadcda595c,,HB,HB(g/dl),"Hemoglobin ",,,,,,,,Question,Text,
+25c22a9d-ef29-4cd8-9f17-9ae36b4f3f09,,HB Test Date,HB Test Date,HB Test Date,,,,,,,,Question,Date,
 8bed7c90-52de-48cd-bd93-e9f60592ba61,yes,Urine Sample,Urine Sample,Urine Sample,,,,,,,,Question,Text,
 7acfafa4-f19b-485e-97a7-c9e002dbe37a,,Positive,Positive,Positive,,,,,,,,Misc,N/A,
 718b4589-2a11-4355-b8dc-aa668a93e098,,Negative,Negative,Negative,,,,,,,,Misc,N/A,
@@ -193,5 +194,6 @@ d598449f-e210-4a85-9fd5-e0a7051cd20c,yes,Condition of the mother,Condition of th
 7d916883-b179-41f5-b4fa-84a87214c737,,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,Date Vitamin 'A' received by Mother,,,,,,,,Question,Date,
 95f532cd-0c8e-493d-9d9b-af167c299a46,,Family Planning Choice,Familiy Planning Choice,Familiy Planning Choice,,,,,,,,Question,Coded,"Implant ; IUD ; Male sterilization;Female sterilization; Condoms , Male ;Pills (COC,POP and ECP) ; Injection ; Natural Methods;None/Never"
 12d5289d-0d24-409b-961e-59495d47a21c,,Post Natal Care Section,Post Natal Care Section,Post Natal Care Section,,,,,,,,Misc,N/A,
-c36bc411-3f10-11e4-adec-0800271c1b75,,Pulse,Pulse,,,60,80,yes,2,,,Misc,Numeric,
+c36bc411-3f10-11e4-adec-0800271c1b75,,Pulse,Pulse,,,60,100,yes,2,,,Misc,Numeric,
+4e18dcd5-c521-4721-9f0e-00b58e8406ed,,Temparature for pregnant Women,Temparature,,,36.1,37.2,yes,2,,,Misc,Numeric,
 71611db1-cd65-4ae1-9d59-537b82fe7289,,ANC CARD FORM,ANC CARD FORM,ANC CARD FORM,,,,,,,,Misc,N/A,
