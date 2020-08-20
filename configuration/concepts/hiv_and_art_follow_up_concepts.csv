@@ -37,26 +37,44 @@ ac775264-a811-4b3e-a64f-0c20ae8f9b0c,,Adherence Dose/Days - Number of Days,Numbe
 7ddb08f2-09e8-48ef-a08f-3744467fec48,,INH,INH,INH,,,,Question,Boolean,
 41cde1fd-31b7-4e76-821a-c6b85b73ffe3,,Number of Pill Dispensed(INH),Number of Pill Dispensed(INH),Number of Pill Dispensed(INH),,,,Question,Numeric,
 b6ae8e33-aa58-47e4-84be-5b8599a177b7,,ART Follow up - Information,Follow Up Information,ART Follow up - Information,,,,Misc,N/A,
-d4396193-a7de-42eb-ae87-5f02c4d11903,,1a,1a,,,,,Misc,N/A,
-a3da8bc6-e10a-4f2f-916f-1dfb5c131602,,1b,1b,,,,,Misc,N/A,
-b894f3fe-8347-45f9-aaa3-e4ccc27da282,,1c,1c,,,,,Misc,N/A,
-74333fcc-d28d-4396-9ae9-d45b959a3590,,1d,1d,,,,,Misc,N/A,
-fcf7902c-cf2d-4c08-8c92-7b064c5aebbf,,1e,1e,,,,,Misc,N/A,
-21f193fb-3ef0-424d-8ba8-474e31fc89de,,1f,1f,,,,,Misc,N/A,
-71753e54-3a56-488e-bc78-cd92cae677f2,,1g,1g,,,,,Misc,N/A,
-c72f15f9-ff1c-4a2c-aba4-a763aa3e1f13,,1h,1h,,,,,Misc,N/A,
-09023441-7367-4db0-87c9-a92752d34e20,,2a,2a,,,,,Misc,N/A,
-f42a9365-b1e0-4c58-a18e-329ca1f48324,,2b,2b,,,,,Misc,N/A,
-6514e9cc-ea0b-478a-9729-31b6fdf8ba71,,2c,2c,,,,,Misc,N/A,
-9506bd48-48ee-4495-b434-55ec64eab2e9,,2d,2d,,,,,Misc,N/A,
-dee30df3-fe68-4151-a0dc-24c50c01a2c3,,2e,2e,,,,,Misc,N/A,
-42428826-3054-4bc7-a178-286197f8dc10,,2f,2f,,,,,Misc,N/A,
-81739f78-0a2c-41ac-8794-1bc9b0db266a,,2g,2g,,,,,Misc,N/A,
-d9d7c170-456b-436d-8a72-a19e37412aca,,2h,2h,,,,,Misc,N/A,
-6be6814a-37f8-4ee3-be34-5ea6d038c025,,2i,2i,,,,,Misc,N/A,
-d7a274a6-7b7b-49e3-8acf-7ecb221295ff,,2j,2j,,,,,Misc,N/A,
-4c027598-6d7a-436a-9ec0-fba4624d9c7b,,2k,2k,,,,,Misc,N/A,
-23322fd6-3dbb-410e-8bee-6210dfcd5f71,,ARV Regimen,ARV Regimen,ARV Regimen,,,,Question,Coded,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k
+9062c6d9-a650-44d2-8929-da84f617c427,,1a = AZT/3TC+EFV,1a = AZT/3TC+EFV,,,,,Misc,N/A,
+c22e6700-a937-4909-b4ad-e82ff51325ac,,1b = AZT/3TC/NVP,1b = AZT/3TC/NVP,,,,,Misc,N/A,
+a00d9620-e88b-4c2f-9293-b1ac9e5943f2,,1c = TDF/3TC/DTG,1c = TDF/3TC/DTG,,,,,Misc,N/A,
+5d500ca2-350a-49ee-a3d4-f340db32ff31,,1d=ABC/3TC (600/300)/DTG,1d=ABC/3TC (600/300)/DTG,,,,,Misc,N/A,
+3fd242a8-7ade-463c-8919-d82573ea8526,,1e = AZT/3TC +DTG,1e = AZT/3TC +DTG,,,,,Misc,N/A,
+91f5d0d6-eb81-484f-9376-4bfb926a5a81,,1f = TDF/3TC+EFV,1f = TDF/3TC+EFV,,,,,Misc,N/A,
+0dd3e78f-e1fc-47de-95bc-1f489d0dfcc5,,1g = TDF/3TC+NVP,1g = TDF/3TC+NVP,,,,,Misc,N/A,
+4a86fbee-07a9-422a-bf69-16256c0c2b8b,,1h = TDF/FTC/EFV,1h = TDF/FTC/EFV,,,,,Misc,N/A,
+bd97cacd-4a91-4901-8803-3a4a2e5f1ca8,,2a=AZT/3TC+DTG,2a=AZT/3TC+DTG,,,,,Misc,N/A,
+ad6ff4ef-769e-4aec-b8bb-7f033fe6aaaa,,2b=ABC/3TC+DTG,2b=ABC/3TC+DTG,,,,,Misc,N/A,
+47167ec1-4957-4d0a-a58c-3894bdeb93ff,,2c=TDF+3TC+LPV/r,2c=TDF+3TC+LPV/r,,,,,Misc,N/A,
+e649a0ec-e193-4af0-bb49-02687107a893,,2d=TDF/3TC+ATV/r,2d=TDF/3TC+ATV/r,,,,,Misc,N/A,
+accca537-b8ee-41ec-b902-7de814d099b2,,2e=TDF/FTC-LPV/r,2e=TDF/FTC-LPV/r,,,,,Misc,N/A,
+77f201fc-aefc-4068-baa7-cb3284782a38,,2f=TDF/FTC-ATV/r,2f=TDF/FTC-ATV/r,,,,,Misc,N/A,
+cb0f9fcd-fb52-493f-95aa-d0197387fbdb,,2g=AZT/3TC+LPV/r,2g=AZT/3TC+LPV/r,,,,,Misc,N/A,
+28790bde-81db-4490-806b-ac10c17b41dc,,2h=AZT/3TC+ATV/r,2h=AZT/3TC+ATV/r,,,,,Misc,N/A,
+aae69cae-2806-4e8b-a916-f22ed733a19b,,2i=ABC/3TC+LPV/r,2i=ABC/3TC+LPV/r,,,,,Misc,N/A,
+64336206-c9bc-4d37-accf-c7abac7a37f6,,2j=ABC/3TC+ATV/r,2j=ABC/3TC+ATV/r,,,,,Misc,N/A,
+25f0cca5-902d-4e36-9e4f-5ce5da744a75,,2k=TDF/3TC/DTG,2k=TDF/3TC/DTG,,,,,Misc,N/A,
+23322fd6-3dbb-410e-8bee-6210dfcd5f71,,ARV Regimen,ARV Regimen,ARV Regimen,,,,Question,Coded,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG"
 4ab28128-7ef3-452d-86d5-73561761b08a,,Number of Days Dispensed,Number of Days,Number of Days Dispensed,,,,Question,Numeric,
 fc684917-4deb-42cf-9245-8a13c6a232bc,,Date VL Sample Collected?,Date VL Sample Collected?,Date VL Sample Collected?,,,,Question,Date,
 8b5ef5c4-3c88-49b8-87e5-cb8d30caa77d,,VL Results,VL Result,VL Results,,,,Question,Numeric,
