@@ -1,8 +1,8 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:150,Data class,Data type,Answers
-310f13e9-349b-4d88-850b-045b3137b166,"",Newly Tested At ANC,Newly Tested At ANC,,"","","",Misc,N/A,""
-94b913f5-0c60-4a4a-abd0-519b2cb427bf,"",Known Pos On ART,Known Pos On ART,"","","","",Misc,N/A,""
-0ea13c7b-d7ce-40ad-b5a4-580e17dbf05f,"",Known Pos Not On ART,Known Pos Not On ART,"","","","",Misc,N/A,""
-9fd6778e-219d-4f14-8c0c-816e31b981dd,"",Entry to PMTCT,Entry to PMTCT,Entry to PMTCT,"","","",Question,Coded,Newly Tested At ANC ; Known Pos On ART ; Known Pos Not On ART
+310f13e9-349b-4d88-850b-045b3137b166,,Newly Tested At ANC,Newly Tested At ANC,,,,,Misc,N/A,
+94b913f5-0c60-4a4a-abd0-519b2cb427bf,,Known Pos On ART,Known Pos On ART,,,,,Misc,N/A,
+0ea13c7b-d7ce-40ad-b5a4-580e17dbf05f,,Known Pos Not On ART,Known Pos Not On ART,,,,,Misc,N/A,
+9fd6778e-219d-4f14-8c0c-816e31b981dd,,Entry to PMTCT,Entry to PMTCT,Entry to PMTCT,,,,Question,Coded,Newly Tested At ANC ; Known Pos On ART ; Known Pos Not On ART
 e559d5a8-2171-11ea-978f-2e728ce88125,,"Hiv Test, inconclusive",Inconclusive,"Hiv Test, inconclusive",,,,Misc,N/A,
 70e82288-67f8-4fc1-bafc-e821c3fdd819,,Refused To Disclose,Refused To Disclose,Refused To Disclose,,,,Misc,N/A,
 e559d882-2171-11ea-978f-2e728ce88125,,Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),Previous HIV test result(Within 6 months),,,,Question,Coded,"Positive;Negative;Hiv Test, inconclusive;Refused To Disclose"
@@ -20,9 +20,45 @@ Maternity Card, Known +ve On ART",Known +ve On ART,"
 Maternity Card, Known +ve On ART",,,,Question,Boolean,
 e559e52a-2171-11ea-978f-2e728ce88125,,"Maternity card, New On ART",New On ART,"Maternity card, New On ART",,,,Question,Boolean,
 e559e692-2171-11ea-978f-2e728ce88125,,"Maternity card, Date Started ART",Date Started ART,"Maternity card, Date Started ART",,,,Question,Date,
-2d5c99da-2172-11ea-978f-2e728ce88125,,"Maternity card, ART Regimen During Pregnacy",ART Regimen During Pregnacy,"Maternity card, ART Regimen During Pregnacy",,,,Question,Coded,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k
+2d5c99da-2172-11ea-978f-2e728ce88125,,"Maternity card, ART Regimen During Pregnacy",ART Regimen During Pregnacy,"Maternity card, ART Regimen During Pregnacy",,,,Question,Coded,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG"
 "
-2d5c9c96-2172-11ea-978f-2e728ce88125",,"Maternity card, ART Regimen During Delivery",ART Regimen During Delivery,"Maternity card, ART Regimen During Delivery",,,,Question,Coded,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k
+2d5c9c96-2172-11ea-978f-2e728ce88125",,"Maternity card, ART Regimen During Delivery",ART Regimen During Delivery,"Maternity card, ART Regimen During Delivery",,,,Question,Coded,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG"
 "
 2d5c9e4e-2172-11ea-978f-2e728ce88125",,"Maternity card,ART Newly Started in Labor",Newly Started in Labor,"Maternity card, Newly Started in Labor",,,,Question,Boolean,
 2d5ca0c4-2172-11ea-978f-2e728ce88125,,"Maternity card, General Information",General Information,"Maternity card, General Information",,,,Misc,N/A,

@@ -5,14 +5,68 @@ e559ddbe-2171-11ea-978f-2e728ce88125,,,"Maternity card, Mother tested in Materni
 e559e1d8-2171-11ea-978f-2e728ce88125,"Positive;Negative;Hiv Test, inconclusive",,"Maternity card, Status After Testing HIV",Status After Testing,Question,Coded,,
 e559e340-2171-11ea-978f-2e728ce88125,,,"Maternity Card, Known +ve On ART"," Known +ve On ART",Question,Boolean,,
 e559e52a-2171-11ea-978f-2e728ce88125,,,"Maternity card, New On ART"," New On ART",Question,Boolean,,
-2d5c99da-2172-11ea-978f-2e728ce88125,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k,,"Maternity card, ART Regimen During Pregnacy",ART Regimen During Pregnacy,Question,Coded,,
-2d5c9c96-2172-11ea-978f-2e728ce88125,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k,,"Maternity card, ART Regimen During Delivery",ART Regimen During Delivery,Question,Coded,,
+2d5c99da-2172-11ea-978f-2e728ce88125,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG",,"Maternity card, ART Regimen During Pregnacy",ART Regimen During Pregnacy,Question,Coded,,
+2d5c9c96-2172-11ea-978f-2e728ce88125,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG",,"Maternity card, ART Regimen During Delivery",ART Regimen During Delivery,Question,Coded,,
 2d5c9e4e-2172-11ea-978f-2e728ce88125,,,"Maternity card,ART Newly Started in Labor",ART Newly Started in Labor,Question,Boolean,,
 2d5ca0c4-2172-11ea-978f-2e728ce88125,,"
 Entry to PMTCT;Previous HIV test result(Within 6 months);Maternity card, Place Test Hiv;Maternity card, Date Test Hiv;Maternity card, Mother tested in Maternity;Maternity card, Date tested in Maternity;Maternity card, Status After Testing HIV;Maternity Card, Known +ve On ART;Maternity card, New On ART;Maternity card, Date Started ART;Maternity card, ART Regimen During Pregnacy;Maternity card, ART Regimen During Delivery;Maternity card,ART Newly Started in Labor","Maternity card, General Information",General Information,Misc,N/A,,
 2d5caa60-2172-11ea-978f-2e728ce88125,"Delivery Outcome, Live Birth(LB); Delivery Outcome, Macerated Still Birth(MSB) ;Delivery Outcome, Fresh Still Birth(FSB);Delivery Outcome, Neonatal Death(ND)",,"Maternity card, Delivery Outcome",Delivery Outcome,Question,Coded,,
 f78e08ab-124f-4983-9c94-fb23e2343518,"Outcome, Transferred TO ART(TART);Outcome, Lost To Follow Up; Outcome, Dead",,Maternal Outcome(last  Follow up),Maternal Outcome at last follow up,Question,Coded,,
-6d26a9c9-23cd-44fe-82b2-251aca750711,1a;1b;1c;1d;1e;1f;1g;1h;2a;2b;2c;2d;2e;2f;2g;2h;2i;2j;2k,,ARV Mother Discharged With,ARV Mother Discharged With,Question,Coded,,
+6d26a9c9-23cd-44fe-82b2-251aca750711,"1a = AZT/3TC+EFV ;
+1b = AZT/3TC/NVP ;
+1c = TDF/3TC/DTG ;
+1d=ABC/3TC (600/300)/DTG ;
+1e = AZT/3TC +DTG ; 
+1f = TDF/3TC+EFV ;
+1g = TDF/3TC+NVP ;
+1h = TDF/FTC/EFV ;
+2a=AZT/3TC+DTG ;
+2b=ABC/3TC+DTG ;
+2c=TDF+3TC+LPV/r ;
+2d=TDF/3TC+ATV/r ;
+2e=TDF/FTC-LPV/r ;
+2f=TDF/FTC-ATV/r ;
+2g=AZT/3TC+LPV/r ;
+2h=AZT/3TC+ATV/r ;
+2i=ABC/3TC+LPV/r ;
+2j=ABC/3TC+ATV/r ;
+2k=TDF/3TC/DTG",,ARV Mother Discharged With,ARV Mother Discharged With,Question,Coded,,
 0bdfb9bc-7f76-4690-990a-a892888b74eb,,"Maternity card, Delivery Outcome;
 Maternal Outcome(last  Follow up);Date Mother/Baby Transferred to ART;
 ARV Mother Discharged With",Other Infant Information,Other information,Misc,N/A,,
