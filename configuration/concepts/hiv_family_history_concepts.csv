@@ -66,7 +66,7 @@ e9f1178e-ed0f-493c-ad1c-7d1b41d768f4,,Sexual Partner - HIV Status,HIV Status,,,,
 "0550290d-4172-4cdc-bb77-d0de6fe8027f ",,Sexual Partner - Result of HTS,Result of HTS,Result of HTS,,,,Question,Coded,Positive ; Negative
 7bec5791-6cdc-4fe4-bfbb-89cbf3ab03b4,,Unique ART No/HEI No,Unique ART No/HEI No,Unique ART No/HEI No,,,,Question,Text,
 5b575a8c-a469-479f-880c-e3aeaea59b60,,Sexual Partner - ART Number,ART Number,,,,,Question,Text,
-1d8f0541-f69d-483f-accc-2e2d48bd5f52,,Family History Marital Status And Occupation,Marital Status And Occupation,Family History Marital Status And Occupation,,,,Misc,N/A,
+1d8f0541-f69d-483f-accc-2e2d48bd5f52,,Family History Marital Status And Occupation,Occupation and Family History,Family History Marital Status And Occupation,,,,Misc,N/A,
 bdcdd49a-9eb6-40f3-9dc7-d20c3af63dae,,Family Member Contacts Tested,Family Member Contacts Tested,Family Member Contacts Tested,,,,Question,Boolean,
 8fe438e5-7316-4b25-af6a-a9a84563d273,,Family Member - Contacts Status,Family Member Contacts Status,Family Member Contacts Status,,,,Question,Coded,Positive ; Negative
 e3a68919-0744-4d05-9ea1-923bbddc5682,,Number of indexes Offered for Testing,Number Indexes Offered for testing,Number of index cases offered index testing services,,,,Question,Numeric,
