@@ -22,7 +22,9 @@ f4ceb855-94ff-44e8-8ece-b05382cc3945,,Medical History,Medical History,Medical Hi
 e5010825-195a-45bf-803d-57faba4069b9,,Alcohol,Alcohol,Alcohol,,,,,,,,Misc,N/A,
 652849fe-076d-4666-b308-cdad379a9d01,,Smoking,Smoking,Smoking,,,,,,,,Misc,N/A,
 cb612e62-ac74-4f24-9805-39a26c303c6b,,Health Of The Husband,Health Of The Husband,Health Of The Husband,,,,,,,,Misc,N/A,
-89245dc9-9e33-4ef2-a6ae-4a6070594d1f,,Social History,Social History,Social History,,,,,,,,Question,Coded,Smoking;Health Of The Husband;Alcohol;Not Applicable
+51bb6656-0b6d-4a00-9f5b-29a3dae279d0,,Other Social History,Others Specify,,,,,,,,,Misc,N/A,
+89245dc9-9e33-4ef2-a6ae-4a6070594d1f,,Social History,Social History,Social History,,,,,,,,Question,Coded,Smoking;Health Of The Husband;Alcohol;Not Applicable;Other Social History
+18f76441-202b-4a4e-8f31-bced11325c19,,Specify Other Social History,Specify Other Social History,Specify Other Social History,,,,,,,,Question,Text,
 90d0dc2b-0669-4adb-b979-b8dea4af6bab,,Past medical And surgical history,Past medical And surgical history,Past medical And surgical history,,,,,,,,Misc,N/A,
 03318456-c6ea-4462-9e26-234d879c7582,,Blood Transfusion,Blood Transfusion,Blood Transfusion,,,,,,,,"Question ",Boolean,
 304cef47-c4fc-42c7-99a3-d1bdc8e2add8,,Reason For Blood Transfusion,Reason For Blood Transfusion,Reason For Blood Transfusion,,,,,,,,Question,Text,
