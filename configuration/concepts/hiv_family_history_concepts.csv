@@ -33,8 +33,10 @@ f33e32c4-34f9-40a6-97c9-090e6ae4dbaa,,Sexual Partner - Age,Age,,,,,Question,Nume
 544634f2-4c08-48b0-9b2b-35251189a59b,,Male,Male,Male,,,,Misc,N/A,
 e74aebd1-51b5-424f-b9f0-339fd8cd3588,,Female,Female,Female,,,,Misc,N/A,
 d969948d-6671-4149-a234-7b991c70e1c1,,Family Member - Sex,Sex,Family Member - Sex,,,,Question,Coded,Male ; Female
-c546e14a-dc8d-4f08-98ad-7d509041264e,,Phone Number,Phone Number,Phone Number,,,,Question,Numeric,
-238ea2f4-a962-4272-bd41-1f5685aa18e9,,Sexual Partner - Phone Number,Phone Number,,,,,Question,Numeric,
+c546e14a-dc8d-4f08-98ad-7d509041264e,yes,Phone Number,Phone Number,Phone Number,,,,Question,Numeric,
+ea7dbf27-e84d-43a3-bbac-d7bb06ff1f23,"","Family Member,Phone Number",Phone Number,"","","","",Question,Text,""
+238ea2f4-a962-4272-bd41-1f5685aa18e9,yes,Sexual Partner - Phone Number,Phone Number,,,,,Question,Numeric,
+bb5c7c91-7434-4d98-99a2-d58674467a8f,"","Sexual Partner, Phone Number",Phone Number,"","","","",Question,Text,""
 "503edc7c-c760-4e8c-892a-b53c4fce0fa5 ",,"Sexual contact,Contacted",Contacted,Contacted,,,,Question,Boolean,
 09ab218f-95c4-4a43-b4bc-cb671ffa4421,,Husband,Husband,Husband,,,,Misc,N/A,
 16b2b91e-a357-4407-b3c1-d9d634ff1e5d,,Mother,Mother,Mother,,,,Misc,N/A,
