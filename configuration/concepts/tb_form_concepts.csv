@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:2,_order:135,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:3,_order:135,Data class,Data type,Answers
 ef10c953-8ff5-4455-ad9e-d7270e255357,,"TB Screening, Person Age",Age,"TB Screening, Person Age",,,,Question,Numeric,
 147b8be8-d657-4e46-8970-6f9983b27722,,Current Cough,Current Cough,Current Cough,,,,Question,Boolean,
 f405d8ec-14d0-485a-b52d-bffdfeb26581,,"TB Screening , Fever",Fever,"TB Screening , Fever",,,,Question,Boolean,
@@ -11,7 +11,8 @@ ca477dbe-6c28-4895-89de-c2739175ae04,,Unkown/Not tested,Unkown/Not tested,Unkown
 a395dc8c-2129-4ac4-b5c3-b8c57f4f08b5,,Known,Known,Known,,,,Misc,N/A,
 cd0bcaec-3b5f-4210-971a-c99abe4b2e19,,Newly Tested,Newly Tested,Newly Tested,,,,Misc,N/A,
 e30e6aa7-8f58-4907-8e29-4e67a1f1a5f9,,Newly tested HIV-,Newly tested HIV-,Newly tested HIV-,,,,Misc,N/A,
-b9d46cb9-6cab-4a36-9eb4-2269fa7f7530,,TB Screening - HIV Status,HIV Status,HIV Status,,,,Question,Coded,Unkown/Not tested;Newly Tested HIV+ ;Known;Newly Tested;Newly tested HIV-
+b9d46cb9-6cab-4a36-9eb4-2269fa7f7530,,TB Screening - HIV Status,HIV Status,HIV Status,,,,Question,Coded,Unkown/Not tested;Known;Newly Tested
+d40f80b6-9a56-45d5-8f41-26dd8b802f2d,,Newly Tested HIV Results,HIV Results,,,,,Question,Coded,Newly Tested HIV+ ;Newly tested HIV-
 8993337f-4a6b-4f01-b3a0-780bc6d85c63,,TB Screening information,TB Screening information,TB Screening information,,,,Misc,N/A,
 c50addfe-baf4-4ed0-b470-d6d4678b4359,,"Gene , Has it Been Done?",Has it Been Done?,"Gene , Has it Been Done?",,,,Question,Boolean,
 19ac4483-f0db-439e-9dfc-997436fa0255,,MTB Detected,MTB Detected,MTB Detected,,,,Misc,N/A,
@@ -56,7 +57,7 @@ d10cedcc-ba9b-426b-8a23-5c906caf0579,,Other Dx,Other Dx,Other Dx,,,,Misc,N/A,
 f0b87e11-deba-4f24-92f9-0906a454bae5,,IPT - Completed,Completed,IPT - Completed,,,,Misc,N/A,
 14797270-7346-48a5-9fb6-4d3c148c7ce8,,IPT -Not Completed,Not Completed,IPT -Not Completed,,,,Misc,N/A,
 91a9550c-fd9b-41de-87d5-594c2dc66628,,IPT Status - TB Screening,Status,IPT Status,,,,Question,Coded,IPT - Completed; IPT -Not Completed
-667f0293-60b9-48e5-8e18-e9a95810c41d,"",IPT Schedule(6months),Scheduled to complete  6 months of IPT/TPT,Scheduled to complete  6 months of IPT/TPT,"","","",Question,Boolean,""
+667f0293-60b9-48e5-8e18-e9a95810c41d,,IPT Schedule(6months),Scheduled to complete  6 months of IPT/TPT,Scheduled to complete  6 months of IPT/TPT,,,,Question,Boolean,
 30da41a9-a6fb-41bc-b88d-4f3c2c3ef962,,Scheduled to complete  6 months of IPT/TPT,Scheduled to complete  6 months of IPT/TPT,Scheduled to complete  6 months of IPT/TPT,,,,Question,Boolean,
 2a4779a1-5d19-41ee-8955-3fab5953fdb7,,"Completed 6 months of IPT/TPT  ","Completed 6 months of IPT/TPT ","Completed 6 months of IPT/TPT ",,,,Question,Boolean,
 a09330ff-b3b4-4005-a0ab-72b733949986,,IPT Start Date,Start Date,IPT Start Date,,,,Question,Date,
