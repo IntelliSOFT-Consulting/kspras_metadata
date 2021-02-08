@@ -31,7 +31,7 @@ ebd187f8-d15a-4fad-8849-9f74da5c3fc9,,Stage 3,Stage 3,Stage 3,,,,Misc,N/A,
 831d263e-4dfb-4f05-bcfb-629961c07844,,Stage 4,Stage 4,Stage 4,,,,Misc,N/A,
 e38e6ce2-92d9-4382-927b-5555ff9fa850,,WHO Stage,WHO Stage,WHO Stage,,,,Question,Coded,Stage 1 ;Stage 2 ;Stage 3;Stage 4
 222dc837-30a5-42c4-a0a9-7d4a125ffe70,,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,,,,Question,Boolean,
-4246f9fa-85e9-410b-a64b-12f74f95ea5e,,CTX/Dose,CTX/Dose,,,,,Question,Text,
+2b103b92-c562-4cae-b433-9cdbb5d7bff3,"",CTX Dose,"","","","","",Question,Text,""
 4238e921-d4c8-4645-ab94-b4f4bf5f2d93,,Dose,Dose,Dose,,,,Question,Text,
 ac775264-a811-4b3e-a64f-0c20ae8f9b0c,,Adherence Dose/Days - Number of Days,Number of Days Dispensed,,,,,Question,Numeric,
 7ddb08f2-09e8-48ef-a08f-3744467fec48,,INH,INH,INH,,,,Question,Boolean,
