@@ -6,9 +6,9 @@ e126652c-8d02-4c4b-a49d-5bac03eb4d03,Good > 95 % ; Fair  85 - 95 % ;Poor < 85 %,
 22a041cf-20bf-4d42-b942-061763bcfdbd,"VS,Viral Suppresion ; STF,Suspicion of Treatment Failure",,"Repeat Viral,Outcome Action",Outcome Action,Question,Coded,,
 e288fc7d-bbc5-479a-b94d-857e3819f926,,,Is the patient Breastfeeding?,,Question,Boolean,,
 7890e12b-59a4-49bb-ab2a-c30f52b15380,,"Date Of Treatment Initiation;Date of Initiation of Current Regimen;Pregnant;Is the patient Breastfeeding? ;ARV Adherence ",Treatment Information,,Misc,N/A,,
-5ad4a511-5015-4b85-a321-cd8980391075,"Routine monitoring ; 
+5ad4a511-5015-4b85-a321-cd8980391075,"Routine monitoring,Vl Testing;
 Repeat VL test after suspected treatment failure & adherence counseling;
-Suspected treatment failure",,Indication For VL Testing,,Question,Coded,,
+Suspected treatment failure,Vl Testing",,Indication For VL Testing,,Question,Coded,,
 53203e8a-d999-4795-a03d-9297978138b4,,"Routine Monitoring ; Last VL Date , Routine Monitoring ;Viral Load Value , Routine Monitoring ; Routine Monitoring Summary",Routine Monitoring Information,,Misc,N/A,,
 169ccf1f-63ef-4755-b1a9-2315fa8b4dfe,,"Last VL Date , Adherence Failure; Repeat Viral,Sample Collection Date; Repeat Viral,Date of Arrival Of Results; Viral Load Value , Adherence Failure; Repeat Viral,Outcome Action ; Adherence Failure Summary",VL Adherence Failure Information,,Misc,N/A,,
 48e2db35-a1a3-425a-ad08-852d7a2d8acf,,"Suspected Treatment Failure ; Last VL Date, Suspected Treatment Failure ; Viral Load Value, Suspected Treatment Failure ;Treatment Failure Summary",VL Treatment Failure Information,,Misc,N/A,,
