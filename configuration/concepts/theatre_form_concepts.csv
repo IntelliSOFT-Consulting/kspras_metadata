@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:1,Data class,Data type,Answers
+37b90d60-defc-41f7-9595-9cb863d8700a,,Wound Before surgery,,,,,,,,,,Image,Complex,
+78aec2f8-f52a-4a66-96b8-969550ffb799,,Wound Image Before Surgery,,,,,,,,,,Misc,N/A,
+b3160497-094f-49ef-8d7c-2f29ee8dc198,,Wound before surgery - comments,Comments,,,,,,,,,Misc,Text,
+97f34531-38fe-440f-8761-75944c1f5ca7,,Wound After surgery,,,,,,,,,,Image,Complex,
+c08b73ea-8267-4fac-bb62-1774033d782e,,Wound Image After Surgery,,,,,,,,,,Misc,N/A,
+e46971c9-49f5-46b9-be95-e7afb34b2440,,Wound After surgery - comments,Comments,,,,,,,,,Misc,Text,
+4617213d-9f04-4c3e-954d-fe010f30911e,,Theatre form,Theatre Form,,,,,,,,,Misc,N/A,
