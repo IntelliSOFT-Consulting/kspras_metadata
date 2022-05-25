@@ -1,0 +1,39 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:6
+7d74a386-9c99-481b-bd32-ba6c8163823d,,"Escharectomy;
+Escharotomy;
+Scar management- contracture release, scar excision;
+Skin grafting- partial thickness, full thickness;
+Flap reconstruction",Burns surgery,,Misc,N/A,,
+d481183c-72d3-466c-ac72-0f12690a5270,,"Cleft lip and palate repair;
+Congenital hand deformity surgery ;
+Congenital ear deformity surgery;
+Congenital face, head and skull deformity surgery;
+Hand and upper extremity deformity surgery;
+Hemangioma and vascular malformation surgery",Paediatric and craniofacial Plastic surgery,,Misc,N/A,,
+b8693a3e-db00-4a00-bbf1-a3ab7d8a9048,,"Breast reconstruction post mastectomy- tissue/ implant;
+Mammoplasty;
+Mammopexy ;
+Breast augmentation;Scar revision",Breast surgery,,Misc,N/A,,
+5444d16b-853c-4ea9-b4a9-30546aeca6bf,,"Nerve transfer/ repair/ graft;
+Tendon transfer/ repair/ graft",Hand and upper limb surgery,,Misc,N/A,,
+320e635c-2fae-490a-bfcc-b49d34ef17cc,,"Flaps;
+Skin grafts;Nerve transfer/ repair/ graft;
+Tendon transfer/ repair/ graft",Orthoplastic surgery,,Misc,N/A,,
+b791e1bb-e243-49fe-80e1-396527c88366,,Oncoplastic surgery,"Oncoplastic surgery, label",Oncoplastic surgery,Misc,N/A,,
+94945c93-3a6d-4a0e-a37c-11543a0d1043,,"Face lift;
+Rhinoplasty;
+Blepharoplasty;
+Neck lift;
+Brow lift;
+Abdominoplasty;
+Liposuction;
+Gynecomastia treatment;
+Buttock lift;",Aesthetic surgery,,Misc,N/A,,
+5b62e361-cb99-4bfe-9862-8808ba10c461,,"Burns surgery;
+Paediatric and craniofacial Plastic surgery;
+Breast surgery;
+Hand and upper limb surgery;
+Orthoplastic surgery;
+Oncoplastic surgery, label;
+Aesthetic surgery;",Procedures,,ConvSet,N/A,,
+b3dac224-fdea-11e4-b248-005056820298,,Lab Samples;Radiology Orders; Procedures,All Orderables,,ConvSet,N/A,,
