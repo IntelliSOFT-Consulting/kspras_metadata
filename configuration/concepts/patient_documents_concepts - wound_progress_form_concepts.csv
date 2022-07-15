@@ -1,0 +1,12 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:12,Data class,Data type,Answers
+e5376ab5-4eef-4f30-a651-6fc3055bd501,,"Full hemogram, patient file",,,,,,,,,,Misc,N/A,
+2b0f044f-5796-480f-bfe2-7696e2694f37,,"Urea Creatinine and Electrolytes, patient file",,,,,,,,,,Misc,N/A,
+a8a4227f-40a6-406a-bd3e-c4c55d36e143,,"Liver function tests., patient file",,,,,,,,,,Misc,N/A,
+4d820172-a045-4c42-9d76-42b914549ac2,,"Random Blood Sugar, patient file",,,,,,,,,,Misc,N/A,
+92860442-1648-45aa-870b-0a866a50213c,,"HbA1c, patient file",,,,,,,,,,Misc,N/A,
+5559fc85-8940-492f-a373-e75cf80524c2,,"Arterial Blood Gas, patient file",,,,,,,,,,Misc,N/A,
+fea47f4a-b9c9-4f3e-8efb-6e7275ad9057,,"Patient file, patient file",,,,,,,,,,Misc,N/A,
+3dd7e1a2-589b-416e-866b-1fb314f15982,,"Patient Document, patient file",,,,,,,,,,Question,Coded,"Full hemogram, patient file;Urea Creatinine and Electrolytes, patient file;Liver function tests., patient file;Random Blood Sugar, patient file;HbA1c, patient file;Arterial Blood Gas, patient file;Patient file, patient file;"
+38951997-80b7-4405-bfdf-ab5ea400b8f1,,"Upload Image, patient file",,,,,,,,,,Misc,N/A,
+0cbc0a48-b893-4236-b7ea-889ab72a9bb5,,Document Comments,Comments,,,,,,,,,Misc,Text,
+422d1f9c-ce5b-4e1c-b1b7-503654825499,,Patient Document Form,,,,,,,,,,Misc,N/A,
