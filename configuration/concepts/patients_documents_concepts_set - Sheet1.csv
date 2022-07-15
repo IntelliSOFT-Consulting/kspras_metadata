@@ -1,0 +1,4 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:10
+3dd7e1a2-589b-416e-866b-1fb314f15982,"Full hemogram, patient file;Urea Creatinine and Electrolytes, patient file;Liver function tests., patient file;Random Blood Sugar, patient file;HbA1c, patient file;Arterial Blood Gas, patient file;Patient file, patient file;",,"Patient Document, patient file",,Question,Coded,,
+38951997-80b7-4405-bfdf-ab5ea400b8f1,,"Image;Patient Document, patient file;","Upload Image, patient file",,Misc,N/A,,
+422d1f9c-ce5b-4e1c-b1b7-503654825499,,"Upload Image, patient file;Document Comments;",Patient Document Form,,Misc,N/A,,
