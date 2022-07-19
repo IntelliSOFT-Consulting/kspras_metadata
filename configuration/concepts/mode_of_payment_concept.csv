@@ -1,0 +1,9 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:14,Data class,Data type,Answers
+de65dfe5-2821-44a5-afd9-24142eb7a510,,"Insurance, Mode of Payment",Insurance,,,,,,,,,Misc,N/A,
+a1338248-dc7b-4666-8127-871812083f9b,,"Cash, Mode of Payment",Cash,,,,,,,,,Misc,N/A,
+c33b63d1-1f20-4546-ab63-3c5821c2f6b7,,"Bank, Mode of Payment",Bank,,,,,,,,,Misc,N/A,
+3be3680f-d169-454a-bc92-53d1cf7478a6,,Mode of Payment,,,,,,,,,,Question,Coded,"Insurance, Mode of Payment;
+Cash, Mode of Payment;
+Bank, Mode of Payment;"
+e8886f87-7d19-4baa-8641-2762a6b5cee7,,NHIF Number,,,,,,,,,,Question,Text,
+1458444e-55a8-4b89-88a4-a822cf9b24aa,,NHIF Comments,Comments,,,,,,,,,Misc,Text,

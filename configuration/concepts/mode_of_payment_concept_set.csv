@@ -1,0 +1,7 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:15
+3be3680f-d169-454a-bc92-53d1cf7478a6,"Insurance, Mode of Payment;
+Cash, Mode of Payment;
+Bank, Mode of Payment;",,Mode of Payment,,Question,Coded,,
+2cfff1b3-9707-42b0-a907-3125b679a654,,"Mode of Payment;
+NHIF Number;
+NHIF Comments;",Payment Details,,Misc,N/A,,
