@@ -1,8 +1,6 @@
 Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:2
 c3ae29e3-9836-4df9-bcef-8d01b776854d,,Image,Consultation Images,,Misc,N/A,,
-78aec2f8-f52a-4a66-96b8-969550ffb799,,Consultation Images,Wound Image Before Surgery,Image of wound Before Surgery,Misc,N/A,,
-c08b73ea-8267-4fac-bb62-1774033d782e,,Consultation Images,Wound Image After Surgery,Image of wound After Surgery,Misc,N/A,,
-4617213d-9f04-4c3e-954d-fe010f30911e,,"Wound Image Before Surgery;
-Wound before surgery - comments;
-Wound Image After Surgery;
-Wound After surgery - comments;",Perioperative form,Perioperative form,Misc,N/A,,
+78aec2f8-f52a-4a66-96b8-969550ffb799,,Consultation Images;Comments Before Surgery;,Image Before Surgery,Image Before Surgery,Misc,N/A,,
+c08b73ea-8267-4fac-bb62-1774033d782e,,Consultation Images;Comments After Surgery;,Image After Surgery,Image After Surgery,Misc,N/A,,
+4617213d-9f04-4c3e-954d-fe010f30911e,,"Image Before Surgery;
+Image After Surgery;",Perioperative Form,Perioperative Form,Misc,N/A,,
