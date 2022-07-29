@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:79,Data class,Data type,Answers
+234a6d85-a44d-4ca7-8dc6-b1e1d2a42c21,,First Education Detail,,,,,,,,,,Misc,N/A,
+cb834a89-192c-4f85-be00-cff4c04c213d,,Second Education Detial,,,,,,,,,,Misc,N/A,
+91fdd842-99ac-4c74-8099-b1c161e5e884,,Education Details Values,Education Details Values,,,,,,,,,Question,Coded,First Education Detail;Second Education Detial;
