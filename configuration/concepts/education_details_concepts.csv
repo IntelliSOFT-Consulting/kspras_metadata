@@ -1,0 +1,9 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:79,Data class,Data type,Answers
+cb95f9a1-24d6-44e4-921b-a291215e40d2,,"Uneducated, education_detail",Uneducated,,,,,,,,,Misc,N/A,
+fc7b4f00-b776-4de9-a389-f22ce757c73c,,"Primary Level, education_detail",Primary Level,,,,,,,,,Misc,N/A,
+e146dc1b-cc7a-4813-868f-8ceb087a7ff3,,"Secondary Level, education_detail",Secondary Level,,,,,,,,,Misc,N/A,
+885ce54c-770c-4402-91be-3080e6761b30,,"Graduate and Above, education _detail",Graduate and Above,,,,,,,,,Misc,N/A,
+91fdd842-99ac-4c74-8099-b1c161e5e884,,Education Details Values,Education Details Values,,,,,,,,,Question,Coded,"Uneducated, education_detail;
+Primary Level, education_detail;
+Secondary Level, education_detail;
+Graduate and Above, education _detail;"
